@@ -1,7 +1,10 @@
 # Section I
 
 ## Context
-Section I represents the main entrance and hallway passage access in the lower level as per the original floor plan.
+Section I still is the main entrance and hallway passage access in the lower level as per the original floor plan.
+
+![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+Figure LL2: TO-BE lower-level sections
 
 There is/are:
 * A single downlight inside
@@ -9,18 +12,18 @@ There is/are:
 * Steps leading up to the door
 * The electricity box (with smart meter) is outside the front door
 * A sklight and an old flurecent cicular tube light installed in the north part of the hallway
-* A duckted heating INLET
+* A ducted heating INLET
 
 ## Problem
 1. The original design of the house is closed plan with walls and doors everywhere
 2. The front door has poor sealing and both cold and hot enter. All doors through to kitcken needed to be temporarily removed to get fridge into the kitchen
 3. The long window beside the front door lets in a lot of heat during the summar 
 4. The security door gets jammed against the concrete in winter and often cannot be locked properly
-5. There are large dark grey stains that cannot be removed
-6. The cloak closet does not really serve any purpose other than providing for the internal air inlet for central heating
+5. There are large dark grey stains that cannot be removed on the carpet by the entrance
+6. The cloak closet is bulkly and primarily serves as the internal air inlet for central heating
 7. The electricity box has a lot of old surge protectors and switches installed and we frequently encounter trips when there is too much load caused by a combination of devices (eg. kettle, microwave, TV)
 8. The skylight has previously had water leaks in heavy rain
-9. There is a leak in the roof that has caused the ceiling plaster board near the cloak closet to become damp. Upon inspection a finger puntured the plaster board
+9. There is a leak in the roof that has caused the ceiling plaster board near the cloak closet to become damp with a small hole to the roof
 
 ## Solution
 1. Replace the security door and the door with a larger front door that is well sealed
@@ -37,17 +40,17 @@ Table LL-I1: AS-IS & TO-BE Section I model comparison
 |---|---|---|--|
 |LLI-REQ1|Replace carpet at entrance and hallway with anything cheap and durable||
 |LLI-REQ2|Replace main door with larger main entry door||
-|LLI-REQ3|Remove cloak closet||
-|LLI-REQ4|Remove sliding door to lounge room||
+|LLI-REQ3|Remove cloak closet (refer to [issue LLI-ISS-1](#Known-Issues))||
+|LLI-REQ4|Remove sliding door and overhead to lounge room||
 |LLI-REQ5|Remove wall between entrance and lounge room to the south||
-|LLI-REQ6|Remove door between hall and kitchen to the east||
-|LLI-REQ6|Remove wall between hall and kitchen to the east||
-|LLI-REQ7|Repaint||
+|LLI-REQ6|Remove door between hall and kitchen to the west||
+|LLI-REQ7|Remove wall between hall and kitchen to the west||
+|LLI-REQ8|Repaint||
 |LLI-REQ8|Re-locate Breamar controller that is currently installed on wall of cloak closet||
-|LLI-REQ8|Renew electricity box with improved load management that currently||
-|LLI-REQ9|Remove skylight||
-|LLI-REQ10|Replace old flurecent light with standard downlight||
-|LLI-REQ11|Replace plaster board||
+|LLI-REQ9|Renew electricity box with improved load management switches||
+|LLI-REQ10|Remove skylight||
+|LLI-REQ11|Replace old flurecent light with standard downlight||
+|LLI-REQ12|Replace plaster board where required||
 
 ## Known issues
 |ID|Description|
@@ -64,3 +67,4 @@ Photo: LLI-photo-2
 
 ## Questions
 1. Is there any benefit setting the front door back 68cm given that the front door will be entirely replaced?
+2. If it is determined that the beam by the cloak closet is load bearing please advise on the cost/benefits ot its removal?
