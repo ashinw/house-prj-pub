@@ -3,6 +3,12 @@
 ## Context
 Section C remains as the Master Bedroom's ensuite in the lower level as per the original floor plan.
 
+There is/are:
+* Three downlights install centrally
+* A non-functioning exhaust fan switch on the wall
+* Broken door stopper
+* A ducted heating event beside the east window  
+
 ## Problem
 1. My 84 year old dad will be moving into this room and we wanted to ensure that he was given a modern room
 2. The wardrobe is built into the wall, is bolky with unnecessary plasterboard covering access

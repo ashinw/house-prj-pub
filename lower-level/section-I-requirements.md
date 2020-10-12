@@ -1,26 +1,36 @@
-# Section G
+# Section I
 
 ## Context
 Section I represents the main entrance and hallway passage access in the lower level as per the original floor plan.
 
+There is/are:
+* A single downlight inside
+* Three downlights installed outside which light up the verandah
+* Steps leading up to the door
+* The electricity box (with smart meter) is outside the front door
+* A sklight and an old flurecent cicular tube light installed in the north part of the hallway
+* A duckted heating INLET
+
 ## Problem
 1. The original design of the house is closed plan with walls and doors everywhere
-2. The front door has poor sealing and cold and hot enter. All doors through to kitcken needed to be temporarily removed to get fridge into the kitchen
+2. The front door has poor sealing and both cold and hot enter. All doors through to kitcken needed to be temporarily removed to get fridge into the kitchen
 3. The long window beside the front door lets in a lot of heat during the summar 
 4. The security door gets jammed against the concrete in winter and often cannot be locked properly
 5. There are large dark grey stains that cannot be removed
 6. The cloak closet does not really serve any purpose other than providing for the internal air inlet for central heating
+7. The electricity box has a lot of old surge protectors and switches installed and we frequently encounter trips when there is too much load caused by a combination of devices (eg. kettle, microwave, TV)
+8. The skylight has previously had water leaks in heavy rain
+9. There is a leak in the roof that has caused the ceiling plaster board near the cloak closet to become damp. Upon inspection a finger puntured the plaster board
 
 ## Solution
 1. Replace the security door and the door with a larger front door that is well sealed
 2. Remove all unneccessary doors, walls and closed spaces to create an open floor plan
+3. Consolidate the electricity system
 
-Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom
-
-|As-is Section G model| To-be Section G model|
+|As-is Section I model| To-be Section I model|
 |---|---|
-|![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-I.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-I.svg)|
-Table LL-G1: AS-IS & TO-BE Section G model comparison
+|![AS-IS lower-level Section I diagram](Lower-Level-AS-IS-section-I.svg)|![TO-BE lower-level Section I diagram](Lower-Level-TO-BE-section-I.svg)|
+Table LL-I1: AS-IS & TO-BE Section I model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
@@ -29,11 +39,15 @@ Table LL-G1: AS-IS & TO-BE Section G model comparison
 |LLI-REQ2|Replace main door with larger main entry door||
 |LLI-REQ3|Remove cloak closet||
 |LLI-REQ4|Remove sliding door to lounge room||
-|LLI-REQ5|Remove wall between entrance and lounge room||
-|LLI-REQ6|Remove door between hall and kitchen||
-|LLI-REQ6|Remove wall between hall and kitchen||
+|LLI-REQ5|Remove wall between entrance and lounge room to the south||
+|LLI-REQ6|Remove door between hall and kitchen to the east||
+|LLI-REQ6|Remove wall between hall and kitchen to the east||
 |LLI-REQ7|Repaint||
-|LLI-REQ8|Re-locate Breamar controller that currently installed on wall of cloak closet||
+|LLI-REQ8|Re-locate Breamar controller that is currently installed on wall of cloak closet||
+|LLI-REQ8|Renew electricity box with improved load management that currently||
+|LLI-REQ9|Remove skylight||
+|LLI-REQ10|Replace old flurecent light with standard downlight||
+|LLI-REQ11|Replace plaster board||
 
 ## Known issues
 |ID|Description|

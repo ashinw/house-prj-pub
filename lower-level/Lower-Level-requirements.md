@@ -24,5 +24,6 @@ Visit each link in the Section Requirements table below to assess the complete s
 |[Section C](./section-C-requirements.md)|Master bedroom|Master bedroom|
 |[Section E](./section-E-requirements.md)|Study|2nd bedroom|
 |[Section G](./section-G-requirements.md)|1st bedroom|1st  bedroom|
-|[Section I](./section-G-requirements.md)|Main entrance and hall passage|Main entrance and hall passage|
+|[Section I](./section-I-requirements.md)|Main entrance and hall passage|Main entrance and hall passage|
 |[Section K](./section-K-requirements.md)|Lounge room|Lounge room|
+|[Section L](./section-L-requirements.md)|Rumpus room|Rumpus room|

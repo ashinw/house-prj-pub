@@ -3,6 +3,10 @@
 ## Context
 Section B remains as the Master Bedroom's ensuite in the lower level as per the original floor plan.
 
+There is/are:
+* An exhaust fan with 4 heat lamps and a central LED built in
+* A single downlight  
+
 ## Problem
 1. My 84 year old dad will be moving into this room and we wanted to ensure that he was given new furnishings 
 2. The ensuite is old and has had mold on the ceiling
@@ -32,6 +36,8 @@ Table LL-B1: AS-IS & TO-BE section B model comparison
 |LLB-REQ11|Repaint||
 |LLB-REQ12|Remove unused light switches||
 |LLB-REQ13|Replace heat lamp and exhaust if required||
+|LLB-REQ14|Install an outdoor poweroutlet on the outside wall to give power to the shed and carport||
+|LLB-REQ15|The sliding door constantly bumps up against the inner enclosure when the wind blows||
 
 ## Known issues
 |ID|Description|

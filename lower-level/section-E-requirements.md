@@ -3,15 +3,21 @@
 ## Context
 Section E is a very large study in the lower level as per the original floor plan.
 
+There is/are:
+* A sky-light installed outside the east wall
+* Two downlights that were position for two side by side tables against the south wall  because it was a study
+* A ducted heating vent beside the east window
+
 ## Problem
 1. There is no wardrobe 
 2. There is no cooling system in this room
 3. The current window frames are old, large and difficult to open behind the fly screen
 4. All technology related wiring originated from here as it was the office
-
+5. Water has damaged some of the ceiling plaster board via the skylight
+6. There are printer ink stains on the carpet
 
 ## Solution
-1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom
+1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom. Note, all non-master bedrooms should be identical
 
 |As-is Section E model| To-be Section E model|
 |---|---|
@@ -34,6 +40,7 @@ Table LL-E1: AS-IS & TO-BE Section E model comparison
 |LLE-REQ11|Remove cat5 port bracket and cables to lounge room||
 |LLE-REQ12|Remove UHF TV port bracket and splitter to port||
 |LLE-REQ13|Remove outside window blind||
+|LLE-REQ14|Reposition downlights centrally||
 
 ## Known issues
 |ID|Description|

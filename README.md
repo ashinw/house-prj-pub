@@ -37,6 +37,10 @@ Please note:
 ## Requirements
 1. [Lower-Level requirements](./lower-level/Lower-Level-requirements.md)
 
+---
+TODO:
+* replace outdoor tap due to dripping from the spout. Cannot turn it any tighter
+
 
 
 

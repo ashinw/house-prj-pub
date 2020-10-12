@@ -2,6 +2,11 @@
 
 ## Context
 Section K is the lounge in the lower level as per the original floor plan.
+There is/are:
+* Four downlights installed operating from dimmer transformer
+* A old style home theatre setup installed
+* Sliding door & wall on the north to main entrance & hall
+* A ducted heating vent beside the east window
 
 ## Problem
 1. The horizontal stud behind the plaster board of the west wall is noticibly visible following the contour of the stud 
@@ -12,6 +17,7 @@ Section K is the lounge in the lower level as per the original floor plan.
 6. There is 15+ year old projector installed on the ceiling with old RCA/VGA wiring to the bracket
 7. There is a large projector screen installed on the east side above the window
 8. In the summar heat enters the room through the large windows on the east and the large windows on the south sliding doors to the deck
+9. There is a Halogen downlight dimmer transformer installed
 
 ## Solution
 1. Remove all old technology and wiring

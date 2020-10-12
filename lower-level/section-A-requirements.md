@@ -3,6 +3,11 @@
 ## Context
 Section A was the Main Bathroom in the original floor plan.
 
+There is/are:
+* A single downlight installed
+* A ducted heating outlet
+* An ideal backdoor outdoor exit point to near ground level on the north wall  
+
 ## Problem
 1. The laundry in the original floor plan was too small
 2. The door outside the laundry is 1.2m off the ground and the stairs are old and weathered and therefore, the laundry is hung on the clothes line outside via the main entrance
@@ -38,7 +43,7 @@ Table LL-A1: AS-IS & TO-BE section A model comparison
 ## Known issues
 |ID|Description|
 |---|---|
-|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the brickwork and will be affected by LLA-REQ8  
+|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ8  
 
 ## Preferences
 1. Sliding doors are preferable to standard doors to take better advantage of space
