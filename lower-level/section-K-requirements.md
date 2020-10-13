@@ -35,11 +35,11 @@ There is/are:
 1. Remove all old technology, wiring and/ore housing
 2. Use double glazzed windows on all large windowing surfaces
 
-|As-is Section K model| To-be Section K model|
+|As-is Section K model| Expected floor plan for K model|
 |:---:|:---:|
 |![AS-IS lower-level Section K diagram](Lower-Level-AS-IS-section-K.svg)|![TO-BE lower-level Section K diagram](Lower-Level-TO-BE-section-K.svg)|
 
-Table LL-K1: AS-IS & TO-BE Section K model comparison
+Table LL-K1: AS-IS & Expected floor plan for K model comparison
 
 
 ## Requirements

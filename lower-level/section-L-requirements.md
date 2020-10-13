@@ -31,11 +31,11 @@ There is/are:
 1. Renew room and staircase
 2. Use double glazzed windows on all windowing surfaces with better fitted day/night blinds
 
-|As-is Section L model| To-be Section L model|
+|As-is Section L model| Expected floor plan for L model|
 |:---:|:---:|
 |![AS-IS lower-level Section L diagram](Lower-Level-AS-IS-section-L.svg)|![TO-BE lower-level Section L diagram](Lower-Level-TO-BE-section-L.svg)|
 
-Table LL-L1: AS-IS & TO-BE Section L model comparison
+Table LL-L1: AS-IS & Expected floor plan for L model comparison
 
 
 ## Requirements

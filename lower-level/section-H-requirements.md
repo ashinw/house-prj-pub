@@ -47,11 +47,11 @@ There is/are:
 3. Replace full length larger windows with shorter ones to reduce the impact of the western sun/heat
 4. Create more spacing between stove and sink
 
-|As-is Section H model| To-be Section H model|
+|As-is Section H model| Expected floor plan for H model|
 |:---:|:---:|
 |![AS-IS lower-level Section H diagram](Lower-Level-AS-IS-section-H.svg)|![TO-BE lower-level Section H diagram](Lower-Level-TO-BE-section-H.svg)|
 
-Table LL-H1: AS-IS & TO-BE Section H model comparison
+Table LL-H1: AS-IS & Expected floor plan for H model comparison
 
 
 ## Requirements

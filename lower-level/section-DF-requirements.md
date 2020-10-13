@@ -35,11 +35,11 @@ There is/are:
     1. The main bathroom as identical to the corresponding main bathroom in the upper level
     2. The multi-level accss staircase
 
-|As-is Section DF model| To-be Section DF model|
+|As-is Section DF model| Expected floor plan for DF model|
 |:---:|:---:|
 |![AS-IS lower-level Section DF diagram](Lower-Level-AS-IS-section-DF.svg)|![TO-BE lower-level Section DF diagram](Lower-Level-TO-BE-section-DF.svg)|
 
-Table LL-DF1: AS-IS & TO-BE Section DF model comparison
+Table LL-DF1: AS-IS & Expected floor plan for DF model comparison
 
 
 ## Requirements

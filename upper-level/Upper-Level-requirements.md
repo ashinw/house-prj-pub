@@ -21,7 +21,7 @@ Using the above diagrams as a guide, visit each link in the Section Requirements
 |[Section O](./section-O-requirements.md)|Master bedroom|
 |[Section P](./section-P-requirements.md)|Study|
 |[Section Q](./section-Q-requirements.md)|2nd bedroom|
-|[Section R](./section-R-requirements.md)|3rd bedroom|
+|[Section R](./section-R-requirements.md)|1st bedroom|
 |[Section S](./section-S-requirements.md)| Dining|
 |[Section T](./section-T-requirements.md)|Lounge|
 

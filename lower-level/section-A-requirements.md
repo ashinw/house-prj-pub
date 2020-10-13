@@ -25,11 +25,11 @@ There is/are:
 1. Move the [laundry](./section-H-requirements.md) to this location and, move the [main bathroom](./section-DF-requirements.md) beside this
 2. Move the back door such that it is now a single step outside to level ground beside the clothes line  
 
-|As-is section A model| To-be section A model|
+|As-is section A model| Expected floor plan for A model|
 |:---:|:---:|
 |![AS-IS lower-level section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level section A diagram](Lower-Level-TO-BE-section-A.svg)|
 
-Table LL-A1: AS-IS & TO-BE section A model comparison
+Table LL-A1: AS-IS & Expected floor plan for A model comparison
 
 
 ## Requirements

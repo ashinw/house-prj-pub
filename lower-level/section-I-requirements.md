@@ -36,11 +36,11 @@ There is/are:
 2. Remove all unneccessary doors, walls and closed spaces to create an open floor plan
 3. Consolidate the electricity system
 
-|As-is Section I model| To-be Section I model|
+|As-is Section I model| Expected floor plan for I model|
 |:---:|:---:|
 |![AS-IS lower-level Section I diagram](Lower-Level-AS-IS-section-I.svg)|![TO-BE lower-level Section I diagram](Lower-Level-TO-BE-section-I.svg)|
 
-Table LL-I1: AS-IS & TO-BE Section I model comparison
+Table LL-I1: AS-IS & Expected floor plan for I model comparison
 
 
 ## Requirements

@@ -22,10 +22,10 @@ There is/are:
 ## Solution
 1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom. Note, all non-master bedrooms should be identical
 
-|As-is Section G model| To-be Section G model|
+|As-is Section G model| Expected floor plan for G model|
 |:---:|:---:|
 |![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
-Table LL-G1: AS-IS & TO-BE Section G model comparison
+Table LL-G1: AS-IS & Expected floor plan for G model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Alternative Solution Cost|

@@ -35,11 +35,11 @@ Note, my 84 year old dad will be moving into this room and we wanted to ensure t
 
 1. Renew the entire master bedroom and make it identical to the corresponding Upper Level master bedroom
 
-|As-is Section C model| To-be Section C model|
+|As-is Section C model| Expected floor plan for C model|
 |:---:|:---:|
 |![AS-IS lower-level Section C diagram](Lower-Level-AS-IS-section-C.svg)|![TO-BE lower-level Section C diagram](Lower-Level-TO-BE-section-C.svg)|
 
-Table LL-C1: AS-IS & TO-BE Section C model comparison
+Table LL-C1: AS-IS & Expected floor plan for C model comparison
 
 
 ## Requirements

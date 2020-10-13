@@ -32,11 +32,11 @@ There is/are:
 
 1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom. Note, all non-master bedrooms should be identical
 
-|As-is Section E model| To-be Section E model|
+|As-is Section E model| Expected floor plan for E model|
 |:---:|:---:|
 |![AS-IS lower-level Section E diagram](Lower-Level-AS-IS-section-E.svg)|![TO-BE lower-level Section E diagram](Lower-Level-TO-BE-section-E.svg)|
 
-Table LL-E1: AS-IS & TO-BE Section E model comparison
+Table LL-E1: AS-IS & Expected floor plan for E model comparison
 
 
 ## Requirements

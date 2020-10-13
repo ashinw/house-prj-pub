@@ -30,11 +30,11 @@ There is/are:
 
 1. Renew room and remove all unneccessary doors, walls, windows and closed spaces to create an open floor plan
 
-|As-is Section J model| To-be Section J model|
+|As-is Section J model| Expected floor plan for J model|
 |:---:|:---:|
 |![AS-IS lower-level Section J diagram](Lower-Level-AS-IS-section-J.svg)|![TO-BE lower-level Section J diagram](Lower-Level-TO-BE-section-J.svg)|
 
-Table LL-G1: AS-IS & TO-BE Section J model comparison
+Table LL-G1: AS-IS & Expected floor plan for J model comparison
 
 
 ## Requirements
