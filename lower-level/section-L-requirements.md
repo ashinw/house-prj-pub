@@ -40,7 +40,7 @@ Table LL-L1: AS-IS & TO-BE Section L model comparison
 
 ## Requirements
 
-|ID|Description|Est. Cost|Additinal Preference Cost|
+|ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLL-REQ1|Replace staircase with one that matches the [multi-level staircase](./section-DF-requirements.md)|||
 |LLL-REQ1|Replace carpet|||

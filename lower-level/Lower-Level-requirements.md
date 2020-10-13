@@ -41,3 +41,5 @@ Using the above diagrams as a guide, visit each link in the Section Requirements
 |[Section J](./section-J-requirements.md)|Dining room|Dining room|
 |[Section K](./section-K-requirements.md)|Lounge room|Lounge room|
 |[Section L](./section-L-requirements.md)|Rumpus room|Rumpus room|
+
+Table LL3: Section Requirements

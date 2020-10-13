@@ -56,7 +56,7 @@ Table LL-H1: AS-IS & TO-BE Section H model comparison
 
 ## Requirements
 
-|ID|Description|Est. Cost|Additinal Preference Cost|
+|ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLH-REQ1|Remove all laundry & linen cupboard walls and doors|||
 |LLH-REQ2|Remove laundry plumbing fixtures|||

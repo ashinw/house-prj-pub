@@ -44,7 +44,7 @@ Table LL-C1: AS-IS & TO-BE Section C model comparison
 
 ## Requirements
 
-|ID|Description|Est. Cost|Additinal Preference Cost|
+|ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLC-REQ1|Replace carpet and door stopper|||
 |LLC-REQ2|Replace wardrobe|||

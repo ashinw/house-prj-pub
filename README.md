@@ -29,15 +29,21 @@ Please note:
 * The 1st model that I want fully costed is a "Split occupancy design". This split occupancy concept is designed to give family groups greater autonomy whilst still sharing critical services like kitchen and laundry.  
 * I would really appreciate you collaborating with me and each other on how things can be done better and cheaper!
 
+
 ## Design principles
-1. Satisfy budget (I ultimatelyvalue function over form factor)
-2. No maintenance over low/some maintenance (eg. we have no interest in gardening etc)
+
+1. Embrace value for money first, but select premium if just 20% more than standard pricing
+2. No maintenance over low/some maintenance
 3. Embrace natural lighting and reduce demand on heating/cooling systems
-4. Embrace value for money & higher quality over lowest cost if premium is just 20% more than standard pricing
-5. Accessibility and position of features is intuitive and not cumbersome (eg staircase)
-6. Consider resale and/or future top of house rental
+4. Symmetry with split occupancy will likely result in greater longevity (ie. resale)
+5. Centralise shared building services/resources over decentralisation
+6. Rooms/resources that are used together should be adjacent to one another
+7. Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
+8. Reduce overall transit as the basis of location
+
 
 ## Requirements
+
 Tim/Andre, could you please visit all of the following links to price the components that do not require structural engineering input.
 
 Brett, could you please visit all of the following links as part of the input for your build working drawings.

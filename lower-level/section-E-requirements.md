@@ -41,7 +41,7 @@ Table LL-E1: AS-IS & TO-BE Section E model comparison
 
 ## Requirements
 
-|ID|Description|Est. Cost|Additinal Preference Cost|
+|ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLE-REQ1|Replace carpet|||
 |LLE-REQ2|Install wardrobe|||

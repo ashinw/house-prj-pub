@@ -39,7 +39,7 @@ Table LL-G1: AS-IS & TO-BE Section J model comparison
 
 ## Requirements
 
-|ID|Description|Est. Cost|Additinal Preference Cost|
+|ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLI-REQ1|Replace carpet|||
 |LLI-REQ2|Remove north sliding door to kitchen|||
