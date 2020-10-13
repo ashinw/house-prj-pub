@@ -4,6 +4,7 @@
 Section C remains as the Master bedroom in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -32,6 +33,7 @@ Note, my 84 year old dad will be moving into this room and we wanted to ensure t
 |As-is Section C model| To-be Section C model|
 |---|---|
 |![AS-IS lower-level Section C diagram](Lower-Level-AS-IS-section-C.svg)|![TO-BE lower-level Section C diagram](Lower-Level-TO-BE-section-C.svg)|
+
 Table LL-C1: AS-IS & TO-BE Section C model comparison
 
 ## Requirements

@@ -4,6 +4,7 @@
 Section J still is the dining area in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -27,6 +28,7 @@ There is/are:
 |As-is Section J model| To-be Section J model|
 |---|---|
 |![AS-IS lower-level Section J diagram](Lower-Level-AS-IS-section-J.svg)|![TO-BE lower-level Section J diagram](Lower-Level-TO-BE-section-J.svg)|
+
 Table LL-G1: AS-IS & TO-BE Section J model comparison
 
 ## Requirements

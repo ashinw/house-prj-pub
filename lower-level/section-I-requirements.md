@@ -4,6 +4,7 @@
 Section I still is the main entrance and hallway passage access in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -33,6 +34,7 @@ There is/are:
 |As-is Section I model| To-be Section I model|
 |---|---|
 |![AS-IS lower-level Section I diagram](Lower-Level-AS-IS-section-I.svg)|![TO-BE lower-level Section I diagram](Lower-Level-TO-BE-section-I.svg)|
+
 Table LL-I1: AS-IS & TO-BE Section I model comparison
 
 ## Requirements
@@ -60,9 +62,11 @@ Table LL-I1: AS-IS & TO-BE Section I model comparison
 ## Photos
 
 ![above cloak closet](./photos/IMG_20201010_134053722.jpg)
+
 Photo: LLI-photo-1
 
 ![below the cloak closet](./photos/IMG_20201010_135005432.jpg)
+
 Photo: LLI-photo-2
 
 ## Questions

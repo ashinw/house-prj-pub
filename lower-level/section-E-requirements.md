@@ -1,9 +1,10 @@
 # Section E
 
 ## Context
-Section E was a very large study in the lower level as per the original floor plan.
+Section E was a large study in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -29,6 +30,7 @@ There is/are:
 |As-is Section E model| To-be Section E model|
 |---|---|
 |![AS-IS lower-level Section E diagram](Lower-Level-AS-IS-section-E.svg)|![TO-BE lower-level Section E diagram](Lower-Level-TO-BE-section-E.svg)|
+
 Table LL-E1: AS-IS & TO-BE Section E model comparison
 
 ## Requirements

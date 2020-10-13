@@ -4,6 +4,7 @@
 Section H was the original laundry, meals area and kitchen in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -44,6 +45,7 @@ There is/are:
 |As-is Section H model| To-be Section H model|
 |---|---|
 |![AS-IS lower-level Section H diagram](Lower-Level-AS-IS-section-H.svg)|![TO-BE lower-level Section H diagram](Lower-Level-TO-BE-section-H.svg)|
+
 Table LL-H1: AS-IS & TO-BE Section H model comparison
 
 ## Requirements

@@ -3,6 +3,8 @@
 ## Context
 Section L is still the Rumpus/Meditation room in the lower level as per the original floor plan. 
 
+![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 The rumpus/meditation room is located in the south end of the house where the land slopes significantly. This split level is almost 1m lower than the rest of the house. It was the biggest extension that I think that the previous owners were able to make.
 
 There is/are:
@@ -27,6 +29,7 @@ There is/are:
 |As-is Section L model| To-be Section L model|
 |---|---|
 |![AS-IS lower-level Section L diagram](Lower-Level-AS-IS-section-L.svg)|![TO-BE lower-level Section L diagram](Lower-Level-TO-BE-section-L.svg)|
+
 Table LL-L1: AS-IS & TO-BE Section L model comparison
 
 ## Requirements

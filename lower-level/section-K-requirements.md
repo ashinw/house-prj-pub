@@ -4,6 +4,7 @@
 Section K is still the lounge area in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -32,6 +33,7 @@ There is/are:
 |As-is Section K model| To-be Section K model|
 |---|---|
 |![AS-IS lower-level Section K diagram](Lower-Level-AS-IS-section-K.svg)|![TO-BE lower-level Section K diagram](Lower-Level-TO-BE-section-K.svg)|
+
 Table LL-K1: AS-IS & TO-BE Section K model comparison
 
 ## Requirements

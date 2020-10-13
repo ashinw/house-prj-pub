@@ -4,6 +4,7 @@
 Section A was the Main bathroom in the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -22,6 +23,7 @@ There is/are:
 |As-is section A model| To-be section A model|
 |---|---|
 |![AS-IS lower-level section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level section A diagram](Lower-Level-TO-BE-section-A.svg)|
+
 Table LL-A1: AS-IS & TO-BE section A model comparison
 
 ## Requirements

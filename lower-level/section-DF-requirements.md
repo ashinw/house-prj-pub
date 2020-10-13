@@ -4,6 +4,7 @@
 Section DF was the 3rd bedroom in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -32,6 +33,7 @@ There is/are:
 |As-is Section DF model| To-be Section DF model|
 |---|---|
 |![AS-IS lower-level Section DF diagram](Lower-Level-AS-IS-section-DF.svg)|![TO-BE lower-level Section DF diagram](Lower-Level-TO-BE-section-DF.svg)|
+
 Table LL-DF1: AS-IS & TO-BE Section DF model comparison
 
 ## Requirements
@@ -63,7 +65,6 @@ Table LL-DF1: AS-IS & TO-BE Section DF model comparison
 |---|---|
 |LLDF-ISS-1|The original [main bathroom](./section-A-requirements.md) is larger than this modeled main bathroom||
 |LLDF-ISS-2|A large portion of the original large bedroom window will need to be filled with rendered cladded foam. This will probably look very jarring from the outside|
-
 
 ## Preferences
 1. Ceramic washer taps are prefereable to standard washer taps for ease of maintenace 

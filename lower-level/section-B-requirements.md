@@ -4,6 +4,7 @@
 Section B remains as the Master bedroom's ensuite in the lower level as per the original floor plan.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
+
 Figure LL2: TO-BE lower-level sections
 
 There is/are:
@@ -23,6 +24,7 @@ Note, my 84 year old dad will be moving into this room and we wanted to ensure t
 |As-is section B model| To-be section B model|
 |---|---|
 |![AS-IS lower-level section B diagram](Lower-Level-AS-IS-section-B.svg)|![TO-BE lower-level section B diagram](Lower-Level-TO-BE-section-B.svg)|
+
 Table LL-B1: AS-IS & TO-BE section B model comparison
 
 ## Requirements
