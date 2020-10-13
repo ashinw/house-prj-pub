@@ -29,23 +29,23 @@ Table LL-A1: AS-IS & TO-BE section A model comparison
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
 |---|---|---|---|
-|LLA-REQ1|Remove bathroom fixtures||
-|LLA-REQ2|Re-tile floor where required||
-|LLA-REQ3|Install laundry sink||
-|LLA-REQ4|Install linen cabinet||
-|LLA-REQ5|Install door to access outside||
-|LLA-REQ6|Replace window & frame with double glazzed product||
-|LLA-REQ7|Repaint||
-|LLA-REQ8|Replace door handle||
-|LLA-REQ9|Replace ducted heating vent||
-|LLA-REQ10|Install hot & cold water outlets for washing machine||
-|LLA-REQ11|Install powerpoint outlets for washing machine and dryer||
-|LLA-REQ12|Install downlight to outside area||
+|LLA-REQ1|Remove bathroom fixtures|||
+|LLA-REQ2|Re-tile floor where required|||
+|LLA-REQ3|Install laundry sink|||
+|LLA-REQ4|Install linen cabinet|||
+|LLA-REQ5|Install door to access outside|||
+|LLA-REQ6|Replace window & frame with double glazzed product|||
+|LLA-REQ7|Repaint|||
+|LLA-REQ8|Replace door handle|||
+|LLA-REQ9|Replace ducted heating vent|||
+|LLA-REQ10|Install hot & cold water outlets for washing machine|||
+|LLA-REQ11|Install powerpoint outlets for washing machine and dryer|||
+|LLA-REQ12|Install downlight to outside area|||
 
 ## Known issues
 |ID|Description|
 |---|---|
-|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ5  
+|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ5|  
 
 ## Preferences
 1. Sliding doors are preferable to standard doors as they take better advantage of space
