@@ -23,7 +23,7 @@ There is/are:
 1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom. Note, all non-master bedrooms should be identical
 
 |As-is Section G model| To-be Section G model|
-|---|---|
+|:---:|:---:|
 |![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
 Table LL-G1: AS-IS & TO-BE Section G model comparison
 
@@ -50,4 +50,4 @@ Table LL-G1: AS-IS & TO-BE Section G model comparison
 |ID|Description|
 |---|---|
 |LLG-ISS-1|The large window frames openings will likely need to be fiLLGd with foamed clad and rendered to achieve a similar look & feel to the upper level. Seek Brett's advice on window transition plan|
-|LLG-ISS-2|The south most downlight experiences routine fault or flickering. I suspect that there is faulty wiring or downlight housing|
+|LLG-ISS-2|The south most downlight experiences routine fault or flickering. I suspect that there is fault in the wiring or the downlight housing|

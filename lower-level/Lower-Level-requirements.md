@@ -7,7 +7,7 @@ In the AS-IS model there is a direct 1-to-1 mapping between room (defined by wal
 Thus, rather than using room names, section groups have been used as the basis of organising the requirements. In this way each room in the AS-IS house floor plan has been assigned an alpabetical section identifier and one or more affected sections will be organised together. 
 
 |As-is wall model| To-be wall model|
-|---|---|
+|:---:|---:|
 |![AS-IS lower-level diagram](Lower-Level-AS-IS-sections.svg)|![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)|
 
 Table LL1: AS-IS & TO-BE wall/section model comparison
@@ -21,15 +21,15 @@ Note, that a staircase has also been modeled to ensure that quote accouts for th
 Use the following diagrams in Table LL2 (see below) to get an overall visualisation of the sections outlined.
 
 |As-is floor plan model| To-be floor plan model|
-|---|---|
+|:---:|:---:|
 |![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE lower-level diagram](Lower-Level-TO-BE-floor-plan.svg)|
 
 Table LL2: AS-IS & TO-BE floor plan comparison
 
 Using the above diagrams as a guide, visit each link in the Section Requirements table below to assess the complete set of requirements for the lower-level.
 
-|Section Group| AS-IS (Original) | TO-BE (Planned)|
-|---|---|---|
+|Section Group|AS-IS (Original)|TO-BE (Planned)|
+|:---|:---|:---|
 |[Section A](./section-A-requirements.md)|Main Bathroom|Laundry|
 |[Section B](./section-B-requirements.md)|Ensuite|Ensuite|
 |[Section C](./section-C-requirements.md)|Master bedroom|Master bedroom|
