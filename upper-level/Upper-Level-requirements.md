@@ -10,7 +10,8 @@ To avoid confusion of room names with the lower-level, new section group names h
 |---|---|
 |![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)|![TO-BE upper-level diagram](Upper-Level-TO-BE-floor-plan.svg)|
 
-Figure UL1: TO-BE wall/section model & floor plan
+Table UL1: TO-BE wall/section model & floor plan
+
 
 
 ## Symmetry
@@ -24,7 +25,7 @@ Figure UL1 outlines the general wall sectioning of the upper level. To a great e
 |1st bedroom|same position & same size|[Section G](../lower/section-G-requirements.md)|[Section R](./section-R-requirements.md)|
 |Main bathroom|similar position & similar size|[Section DF](../lower/section-DF-requirements.md)|[Section A](./section-A-requirements.md)|
 |Dining|similar position & same size|[Section J](../lower/section-J-requirements.md)|[Section S](./section-S-requirements.md)|
-|Lounge|position & size|[Section K](../lower/section-K-requirements.md)|[Section T](./section-T-requirements.md)|
+|Lounge|similar position & similar size|[Section K](../lower/section-K-requirements.md)|[Section T](./section-T-requirements.md)|
 |Kitchen|shared|[Section H](../lower/section-H-requirements.md)||
 |Laundry|shared|[Section A](../lower/section-A-requirements.md)||
 |Study|shared||[Section P](./section-P-requirements.md)|

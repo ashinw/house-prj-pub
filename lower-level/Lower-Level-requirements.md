@@ -26,7 +26,7 @@ Use the following diagrams in Table LL2 (see below) to get an overall visualisat
 
 Table LL2: AS-IS & TO-BE floor plan comparison
 
-Now using the above diagrams as a guide, visit each link in the Section Requirements table below to assess the complete set of requirements for the lower-level.
+Using the above diagrams as a guide, visit each link in the Section Requirements table below to assess the complete set of requirements for the lower-level.
 
 |Section Group| AS-IS (Original) | TO-BE (Planned)|
 |---|---|---|

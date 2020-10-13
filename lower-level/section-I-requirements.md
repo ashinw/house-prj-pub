@@ -39,7 +39,7 @@ Table LL-I1: AS-IS & TO-BE Section I model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLI-REQ1|Replace carpet at entrance and hallway with anything cheap and durable||
 |LLI-REQ2|Replace main door with larger main entry door||
 |LLI-REQ3|Remove cloak closet (refer to [issue LLI-ISS-1](#Known-Issues))||

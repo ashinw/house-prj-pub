@@ -29,7 +29,7 @@ Table LL-B1: AS-IS & TO-BE section B model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLB-REQ1|Remove all bathroom fixtures||
 |LLB-REQ2|Install bathroom sink, cabinet & mirror||
 |LLB-REQ3|Install toilet||

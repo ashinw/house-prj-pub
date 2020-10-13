@@ -38,7 +38,7 @@ Table LL-DF1: AS-IS & TO-BE Section DF model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLDF-REQ1|Remove all room building fixtures||
 |LLDF-REQ2|Remove carpet||
 |LLDF-REQ3|Install bathroom south wall||

@@ -28,7 +28,7 @@ Table LL-A1: AS-IS & TO-BE section A model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLA-REQ1|Remove bathroom fixtures||
 |LLA-REQ2|Re-tile floor where required||
 |LLA-REQ3|Install laundry sink||

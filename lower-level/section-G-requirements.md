@@ -29,7 +29,7 @@ Table LL-G1: AS-IS & TO-BE Section G model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLG-REQ1|Replace carpet||
 |LLG-REQ2|Replace wardrobe with slider doors|||
 |LLG-REQ3|Replace door handle||

@@ -38,7 +38,7 @@ Table LL-K1: AS-IS & TO-BE Section K model comparison
 
 ## Requirements
 |ID|Description|Est. Cost|Additinal Preference Cost|
-|---|---|---|--|
+|---|---|---|---|
 |LLK-REQ1|Replace carpet||
 |LLK-REQ2|Replace window & frame with double glazzed product||
 |LLK-REQ3|Replace sliding door windows with double glazzing exising frames product||
