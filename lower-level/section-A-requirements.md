@@ -27,6 +27,7 @@ There is/are:
 Table LL-A1: AS-IS & TO-BE section A model comparison
 
 ## Requirements
+
 |ID|Description|Est. Cost|Additinal Preference Cost|
 |---|---|---|---|
 |LLA-REQ1|Remove bathroom fixtures|||
@@ -43,6 +44,7 @@ Table LL-A1: AS-IS & TO-BE section A model comparison
 |LLA-REQ12|Install downlight to outside area|||
 
 ## Known issues
+
 |ID|Description|
 |---|---|
 |LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ5|  
