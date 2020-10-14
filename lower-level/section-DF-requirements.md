@@ -28,7 +28,7 @@ There is/are currently:
 5. There is no cooling system in this room
 6. The current window frames are old, large and difficult to open behind the fly screen
 7. The curtains are heavy and cumbersome to operate
-8. The Symmetry principle will be violated because the laundry must now be moved to the original main bathroom's location 
+8. The Symmetry principle will be violated because the laundry shall now be moved to the original main bathroom's location 
 
 
 ## Solution
@@ -56,41 +56,41 @@ Table LL-DF1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLDF-REQ1|The bathroom must have an LED downlight|||
-|LLDF-REQ2|The bathroom must have a sink with ceramic washer taps|||
-|LLDF-REQ3|The bathroom must have a toilet|||
-|LLDF-REQ4|The bathroom must have a cabinet|||
-|LLDF-REQ5|The bathroom must have heat lamps|||
-|LLDF-REQ6|The bathroom must have a shower with ceramic washer taps|||
-|LLDF-REQ7|The bathroom must have a mirror|||
-|LLDF-REQ8|The bathroom must have a bathtub with ceramic washer taps|||
-|LLDF-REQ9|The bathroom must have an exhaust fan|||
-|LLDF-REQ10|The bathroom must be connected to the ducted heating|||
-|LLDF-REQ11|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLDF-REQ12|The bathroom window must be able to be opened for ventilation|||
-|LLDF-REQ13|The bathroom window must have a fly screen to keep the insects out|||
-|LLDF-REQ14|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLDF-REQ15|The bathroom's floor must be tiled|||
-|LLDF-REQ16|The bathroom must have power outlets appropriately positioned|||
-|LLDF-REQ17|The same appliance/fixtures must have been installed in similar positions as the other main bathroom [note, there are slight difference in size]|||
+|LLDF-REQ1|The bathroom shall have an LED downlight|||
+|LLDF-REQ2|The bathroom shall have a sink with ceramic washer taps|||
+|LLDF-REQ3|The bathroom shall have a toilet|||
+|LLDF-REQ4|The bathroom shall have a cabinet|||
+|LLDF-REQ5|The bathroom shall have heat lamps|||
+|LLDF-REQ6|The bathroom shall have a shower with ceramic washer taps|||
+|LLDF-REQ7|The bathroom shall have a mirror|||
+|LLDF-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
+|LLDF-REQ9|The bathroom shall have an exhaust fan|||
+|LLDF-REQ10|The bathroom shall be connected to the ducted heating|||
+|LLDF-REQ11|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLDF-REQ12|The bathroom window shall be able to be opened for ventilation|||
+|LLDF-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
+|LLDF-REQ14|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLDF-REQ15|The bathroom's floor shall be tiled|||
+|LLDF-REQ16|The bathroom shall have power outlets appropriately positioned|||
+|LLDF-REQ17|The same appliance/fixtures shall have been installed in similar positions as the other main bathroom [note, there are slight difference in size]|||
 
 
 ## New/Refurbishing Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLDF-REQ18|The bathroom must have a south wall against multi-level stair case|||
-|LLDF-REQ19|The bathroom must now be extend along the north east wall and move the door frame to a accomodate shower installation|||
+|LLDF-REQ18|The bathroom shall have a south wall against multi-level stair case|||
+|LLDF-REQ19|The bathroom shall now be extend along the north east wall and move the door frame to a accomodate shower installation|||
 |LLDF-REQ20|Relocate the exiting ducted heating vent to an appropriate position in the bathroom |||
-|LLDF-REQ21|The stair case and hall flooring must be replaced and consistent across all not wet areas|||
-|LLDF-REQ22|The stair case must not be bulky|||
-|LLDF-REQ23|The stair case's central platform must host a shared storage cabinet|||
-|LLDF-REQ24|The stair case's area must have a powerpoint outlet near storage cabinet|||
-|LLDF-REQ25|The stair case's area must host the NBN HFC Coaxial port and bracket, NBN modem and WIFI above storage cabinet|||
-|LLDF-REQ26|The stair case area must have double glazzed window and frames above the cabinet|||
-|LLDF-REQ27|The stair case area's window must have fitted night/day internal roller blind with sun/heat block|||
-|LLDF-REQ28|The bathroom and stair walls must be repainted|||
-|LLDF-REQ29|The external window blind must be removed|||
+|LLDF-REQ21|The stair case and hall flooring shall be replaced and consistent across all not wet areas|||
+|LLDF-REQ22|The stair case shall not be bulky|||
+|LLDF-REQ23|The stair case's central platform shall host a shared storage cabinet|||
+|LLDF-REQ24|The stair case's area shall have a powerpoint outlet near storage cabinet|||
+|LLDF-REQ25|The stair case's area shall host the NBN HFC Coaxial port and bracket, NBN modem and WIFI above storage cabinet|||
+|LLDF-REQ26|The stair case area shall have double glazzed window and frames above the cabinet|||
+|LLDF-REQ27|The stair case area's window shall have fitted night/day internal roller blind with sun/heat block|||
+|LLDF-REQ28|The bathroom and stair walls shall be repainted|||
+|LLDF-REQ29|The external window blind shall be removed|||
 
 
 ## Known issues

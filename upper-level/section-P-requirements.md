@@ -43,11 +43,11 @@ Figure UL-P1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLP-REQ1|The study must have an appropriate number of power outlets installed on the north east, north west and east walls|||
-|LLP-REQ2|The study must have an appropriate number of LED downlights|||
-|LLP-REQ3|The study must have non-carpeted as with the dining room and hall|||
-|LLP-REQ4|The study must be connected to the ducted heating|||
-|LLP-REQ5|The study must have an appropriately sized double glazzed window|||
-|LLP-REQ6|The study window must be able to be opened for ventilation|||
-|LLP-REQ7|The study window must have a fly screen to keep the insects out|||
-|LLP-REQ8|The study must have a fitted night/day internal roller blind with sun/heat block|||
+|LLP-REQ1|The study shall have an appropriate number of power outlets installed on the north east, north west and east walls|||
+|LLP-REQ2|The study shall have an appropriate number of LED downlights|||
+|LLP-REQ3|The study shall have non-carpeted as with the dining room and hall|||
+|LLP-REQ4|The study shall be connected to the ducted heating|||
+|LLP-REQ5|The study shall have an appropriately sized double glazzed window|||
+|LLP-REQ6|The study window shall be able to be opened for ventilation|||
+|LLP-REQ7|The study window shall have a fly screen to keep the insects out|||
+|LLP-REQ8|The study shall have a fitted night/day internal roller blind with sun/heat block|||

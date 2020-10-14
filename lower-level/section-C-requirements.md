@@ -60,16 +60,16 @@ Table LL-C1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLC-REQ1|The bedroom must have an efficient/effective wardrobe that maximises space|||
-|LLC-REQ2|The bedroom must have an appropriate number of LED downlights|||
-|LLC-REQ3|The bedroom must have a UHF TV port socket installed and connected to the external aerial|||
-|LLC-REQ4|The bedroom must be carpeted|||
-|LLC-REQ5|The bedroom must have an appropriately sized double glazzed window|||
-|LLC-REQ6|The bedroom must have a ducted heating vent|||
-|LLC-REQ7|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLC-REQ8|The bedroom must have power outlets appropriately positioned on the north east, north west and south east sides|||
-|LLC-REQ9|The bedroom must have a centrally installed ceiling fan|||
-|LLC-REQ10|The same appliance/fixtures must have been installed in the same positions as the other master bedroom|||
+|LLC-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
+|LLC-REQ2|The bedroom shall have an appropriate number of LED downlights|||
+|LLC-REQ3|The bedroom shall have a UHF TV port socket installed and connected to the external aerial|||
+|LLC-REQ4|The bedroom shall be carpeted|||
+|LLC-REQ5|The bedroom shall have an appropriately sized double glazzed window|||
+|LLC-REQ6|The bedroom shall have a ducted heating vent|||
+|LLC-REQ7|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLC-REQ8|The bedroom shall have power outlets appropriately positioned on the north east, north west and south east sides|||
+|LLC-REQ9|The bedroom shall have a centrally installed ceiling fan|||
+|LLC-REQ10|The same appliance/fixtures shall have been installed in the same positions as the other master bedroom|||
 
 
 ## Refurbishing Requirements

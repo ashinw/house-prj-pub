@@ -53,20 +53,20 @@ Table LL-A1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLA-REQ1|The laundry must have an LED downlight|||
-|LLA-REQ2|The laundry must have a laundry sink with ceramic washer taps|||
-|LLA-REQ3|The laundry must have a cleaning products cabinet with overhead shelves|||
-|LLA-REQ4|The laundry must be connected to the ducted heating|||
-|LLA-REQ5|The laundry must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLA-REQ6|The laundry window must be able to be opened for ventilation|||
-|LLA-REQ7|The laundry window must have a fly screen to keep the insects out|||
-|LLA-REQ8|The laundry must have a fitted night/day internal roller blind with sun/heat block|||
-|LLA-REQ9|The laundry's floor must be tiled|||
-|LLA-REQ10|The laundry must have hot & cold water outlets for the washer|||
-|LLA-REQ11|The laundry must have power outlets appropriately positioned for washer, dryer, iron|||
-|LLA-REQ12|The laundry must have a linen cabinet that maximises space and storage space for iron board|||
-|LLA-REQ13|The laundry must have a sliding door access to outside|||
-|LLA-REQ14|The laundry must have a downlight to the outside area|||
+|LLA-REQ1|The laundry shall have an LED downlight|||
+|LLA-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
+|LLA-REQ3|The laundry shall have a cleaning products cabinet with overhead shelves|||
+|LLA-REQ4|The laundry shall be connected to the ducted heating|||
+|LLA-REQ5|The laundry shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLA-REQ6|The laundry window shall be able to be opened for ventilation|||
+|LLA-REQ7|The laundry window shall have a fly screen to keep the insects out|||
+|LLA-REQ8|The laundry shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLA-REQ9|The laundry's floor shall be tiled|||
+|LLA-REQ10|The laundry shall have hot & cold water outlets for the washer|||
+|LLA-REQ11|The laundry shall have power outlets appropriately positioned for washer, dryer, iron|||
+|LLA-REQ12|The laundry shall have a linen cabinet that maximises space and storage space for iron board|||
+|LLA-REQ13|The laundry shall have a sliding door access to outside|||
+|LLA-REQ14|The laundry shall have a downlight to the outside area|||
 
 
 ## Refurbishing Requirements

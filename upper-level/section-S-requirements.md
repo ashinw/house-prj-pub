@@ -40,12 +40,12 @@ Figure UL-S1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLS-REQ1|The dining room must have an appropriate number of power outlets installed on the east wall|||
-|LLS-REQ2|The dining room must have an appropriate number of LED downlights|||
-|LLS-REQ3|The dining room must have the same non-carpeted flooring with the study and hall|||
-|LLS-REQ4|The dining room must be connected to the ducted heating|||
-|LLS-REQ5|The dining room must have an appropriately sized double glazzed window|||
-|LLS-REQ6|The dining room window must be able to be opened for ventilation|||
-|LLS-REQ7|The dining room window must have a fly screen to keep the insects out|||
-|LLS-REQ8|The dining room must have a fitted night/day internal roller blind with sun/heat block|||
-|LLS-REQ9|The same appliance/fixtures must have been installed in similar positions as the other dining room|||
+|LLS-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
+|LLS-REQ2|The dining room shall have an appropriate number of LED downlights|||
+|LLS-REQ3|The dining room shall have the same non-carpeted flooring with the study and hall|||
+|LLS-REQ4|The dining room shall be connected to the ducted heating|||
+|LLS-REQ5|The dining room shall have an appropriately sized double glazzed window|||
+|LLS-REQ6|The dining room window shall be able to be opened for ventilation|||
+|LLS-REQ7|The dining room window shall have a fly screen to keep the insects out|||
+|LLS-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLS-REQ9|The same appliance/fixtures shall have been installed in similar positions as the other dining room|||

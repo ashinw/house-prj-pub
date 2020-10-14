@@ -16,7 +16,7 @@ Figure UL-M1: Expected floor plan
 ## Problem
 
 1. An autonomous bathroom is required for split level residents and their guests
-2. The Symmetry principle will be violated because the laundry must be placed in this same position on the lower level 
+2. The Symmetry principle will be violated because the laundry shall be placed in this same position on the lower level 
 
 
 ## Solution
@@ -37,20 +37,20 @@ Figure UL-M1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLM-REQ1|The bathroom must have an LED downlight|||
-|LLM-REQ2|The bathroom must have a sink with ceramic washer taps|||
-|LLM-REQ3|The bathroom must have a toilet|||
-|LLM-REQ4|The bathroom must have a cabinet|||
-|LLM-REQ5|The bathroom must have heat lamps|||
-|LLM-REQ6|The bathroom must have a shower with ceramic washer taps|||
-|LLM-REQ7|The bathroom must have a mirror|||
-|LLM-REQ8|The bathroom must have a bathtub with ceramic washer taps|||
-|LLM-REQ9|The bathroom must have an exhaust fan|||
-|LLM-REQ10|The bathroom must be connected to the ducted heating|||
-|LLM-REQ11|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLM-REQ12|The bathroom window must be able to be opened for ventilation|||
-|LLM-REQ13|The bathroom window must have a fly screen to keep the insects out|||
-|LLM-REQ14|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLM-REQ15|The bathroom's floor must be tiled|||
-|LLM-REQ16|The bathroom must have power outlets appropriately positioned|||
-|LLM-REQ17|The same appliance/fixtures must have been installed in similar positions as the other main bathroom [note, slight difference in size]|||
+|LLM-REQ1|The bathroom shall have an LED downlight|||
+|LLM-REQ2|The bathroom shall have a sink with ceramic washer taps|||
+|LLM-REQ3|The bathroom shall have a toilet|||
+|LLM-REQ4|The bathroom shall have a cabinet|||
+|LLM-REQ5|The bathroom shall have heat lamps|||
+|LLM-REQ6|The bathroom shall have a shower with ceramic washer taps|||
+|LLM-REQ7|The bathroom shall have a mirror|||
+|LLM-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
+|LLM-REQ9|The bathroom shall have an exhaust fan|||
+|LLM-REQ10|The bathroom shall be connected to the ducted heating|||
+|LLM-REQ11|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLM-REQ12|The bathroom window shall be able to be opened for ventilation|||
+|LLM-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
+|LLM-REQ14|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLM-REQ15|The bathroom's floor shall be tiled|||
+|LLM-REQ16|The bathroom shall have power outlets appropriately positioned|||
+|LLM-REQ17|The same appliance/fixtures shall have been installed in similar positions as the other main bathroom [note, slight difference in size]|||

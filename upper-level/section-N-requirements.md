@@ -38,19 +38,19 @@ Figure UL-N1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLN-REQ1|The bathroom must have an LED downlight|||
-|LLN-REQ2|The bathroom must have a sink with ceramic washer taps|||
-|LLN-REQ3|The bathroom must have a toilet|||
-|LLN-REQ4|The bathroom must have a cabinet|||
-|LLN-REQ5|The bathroom must have heat lamps|||
-|LLN-REQ6|The bathroom must have a shower with ceramic washer taps|||
-|LLN-REQ7|The bathroom must have a mirror|||
-|LLN-REQ8|The bathroom must have an exhaust fan|||
-|LLN-REQ9|The bathroom must be connected to the ducted heating|||
-|LLN-REQ10|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLN-REQ11|The bathroom window must be able to be opened for ventilation|||
-|LLN-REQ12|The bathroom window must have a fly screen to keep the insects out|||
-|LLN-REQ13|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLN-REQ14|The bathroom's floor must be tiled|||
-|LLN-REQ15|The bathroom must have power outlets appropriately positioned|||
-|LLN-REQ16|The same appliance/fixtures must have been installed in the same positions as the other ensuite|||
+|LLN-REQ1|The bathroom shall have an LED downlight|||
+|LLN-REQ2|The bathroom shall have a sink with ceramic washer taps|||
+|LLN-REQ3|The bathroom shall have a toilet|||
+|LLN-REQ4|The bathroom shall have a cabinet|||
+|LLN-REQ5|The bathroom shall have heat lamps|||
+|LLN-REQ6|The bathroom shall have a shower with ceramic washer taps|||
+|LLN-REQ7|The bathroom shall have a mirror|||
+|LLN-REQ8|The bathroom shall have an exhaust fan|||
+|LLN-REQ9|The bathroom shall be connected to the ducted heating|||
+|LLN-REQ10|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLN-REQ11|The bathroom window shall be able to be opened for ventilation|||
+|LLN-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
+|LLN-REQ13|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLN-REQ14|The bathroom's floor shall be tiled|||
+|LLN-REQ15|The bathroom shall have power outlets appropriately positioned|||
+|LLN-REQ16|The same appliance/fixtures shall have been installed in the same positions as the other ensuite|||

@@ -21,7 +21,7 @@ There is/are currently:
 1. The wall air-conditioner is old, highly inefficient and only capable of cooling a small area. When turned on the generated cool air moves its way down to the rumpus room 
 2. There is a 2x2m water stain on the carpet near the north sliding door entrance to the kitchen
 3. The ceiling plaster board is damaged by the leaky roof fascia board/gable end vent directly above the room
-4. There is no natural lighting and the downlights must be turned on even in daylight
+4. There is no natural lighting and the downlights shall be turned on even in daylight
 5. The south east window onlooking the verandah extension cavity is pointless
 6. The north most facing downlight frequently experiences flicker despite having change the globe
 7. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
@@ -54,15 +54,15 @@ Table LL-G1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLJ-REQ1|The dining room must have an appropriate number of power outlets installed on the east wall|||
-|LLJ-REQ2|The dining room must have an appropriate number of LED downlights|||
-|LLJ-REQ3|The dining room must have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
-|LLJ-REQ4|The dining room must be connected to the ducted heating|||
-|LLJ-REQ5|The dining room must have an appropriately sized double glazzed window|||
-|LLJ-REQ6|The dining room window must be able to be opened for ventilation|||
-|LLJ-REQ7|The dining room window must have a fly screen to keep the insects out|||
-|LLJ-REQ8|The dining room must have a fitted night/day internal roller blind with sun/heat block|||
-|LLJ-REQ9|The same appliance/fixtures must have been installed in the same positions as the other dining room|||
+|LLJ-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
+|LLJ-REQ2|The dining room shall have an appropriate number of LED downlights|||
+|LLJ-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
+|LLJ-REQ4|The dining room shall be connected to the ducted heating|||
+|LLJ-REQ5|The dining room shall have an appropriately sized double glazzed window|||
+|LLJ-REQ6|The dining room window shall be able to be opened for ventilation|||
+|LLJ-REQ7|The dining room window shall have a fly screen to keep the insects out|||
+|LLJ-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLJ-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other dining room|||
 
 
 ## Refurbishing Requirements

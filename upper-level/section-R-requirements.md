@@ -40,12 +40,12 @@ Figure UL-R1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLR-REQ1|The bedroom must have an efficient/effective wardrobe that maximises space|||
-|LLR-REQ2|The bedroom must have an appropriate number of LED downlights|||
-|LLR-REQ3|The bedroom must be carpeted|||
-|LLR-REQ4|The bedroom must have an appropriately sized double glazzed window|||
-|LLR-REQ5|The bedroom must have a ducted heating vent|||
-|LLR-REQ6|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLR-REQ7|The bedroom must have a centrally installed ceiling fan|||
-|LLR-REQ8|The bedroom must have power outlets appropriately positioned near each corner|||
-|LLR-REQ9|The same appliance/fixtures must have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
+|LLR-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
+|LLR-REQ2|The bedroom shall have an appropriate number of LED downlights|||
+|LLR-REQ3|The bedroom shall be carpeted|||
+|LLR-REQ4|The bedroom shall have an appropriately sized double glazzed window|||
+|LLR-REQ5|The bedroom shall have a ducted heating vent|||
+|LLR-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLR-REQ7|The bedroom shall have a centrally installed ceiling fan|||
+|LLR-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
+|LLR-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||

@@ -62,16 +62,16 @@ Table LL-K1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLK-REQ1|The lounge room must have an appropriate number of power outlets installed near each corner|||
-|LLK-REQ2|The lounge room must have an appropriate number of LED downlights|||
-|LLK-REQ3|The lounge room must be carpeted|||
-|LLK-REQ4|The lounge room must be connected to the ducted heating|||
-|LLK-REQ5|The lounge room must have an appropriately sized double glazzed windows|||
-|LLK-REQ6|The lounge room windows must be able to be opened for ventilation|||
-|LLK-REQ7|The lounge room windows must have a fly screen to keep the insects out|||
-|LLK-REQ8|The lounge room must have a fitted night/day internal roller blinds with sun/heat block|||
-|LLK-REQ9|The lounge room must have a centrally installed ceiling fan|||
-|LLK-REQ10|The same appliance/fixtures must have been installed as with the other lounge room|||
+|LLK-REQ1|The lounge room shall have an appropriate number of power outlets installed near each corner|||
+|LLK-REQ2|The lounge room shall have an appropriate number of LED downlights|||
+|LLK-REQ3|The lounge room shall be carpeted|||
+|LLK-REQ4|The lounge room shall be connected to the ducted heating|||
+|LLK-REQ5|The lounge room shall have an appropriately sized double glazzed windows|||
+|LLK-REQ6|The lounge room windows shall be able to be opened for ventilation|||
+|LLK-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
+|LLK-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||
+|LLK-REQ9|The lounge room shall have a centrally installed ceiling fan|||
+|LLK-REQ10|The same appliance/fixtures shall have been installed as with the other lounge room|||
 
 
 ## Refurbishinf Requirements
