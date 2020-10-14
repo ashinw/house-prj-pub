@@ -57,16 +57,15 @@ Table LL-B1: Floor plan comparison
 |LLB-REQ5|The bathroom must have heat lamps|||
 |LLB-REQ6|The bathroom must have a shower with ceramic washer taps|||
 |LLB-REQ7|The bathroom must have a mirror|||
-|LLB-REQ8|The bathroom must have a bathtub with ceramic washer taps|||
-|LLB-REQ9|The bathroom must have an exhaust fan|||
-|LLB-REQ10|The bathroom must be connected to the ducted heating|||
-|LLB-REQ11|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLB-REQ12|The bathroom window must be able to be opened for ventilation|||
-|LLB-REQ13|The bathroom window must have a fly screen to keep the insects out|||
-|LLB-REQ14|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLB-REQ15|The bathroom's floor must be tiled|||
-|LLB-REQ16|The bathroom must have power outlets appropriately positioned|||
-|LLB-REQ17|The same appliance/fixtures must have been installed in the same positions as the other ensuite|||
+|LLB-REQ8|The bathroom must have an exhaust fan|||
+|LLB-REQ9|The bathroom must be connected to the ducted heating|||
+|LLB-REQ10|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLB-REQ11|The bathroom window must be able to be opened for ventilation|||
+|LLB-REQ12|The bathroom window must have a fly screen to keep the insects out|||
+|LLB-REQ13|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||
+|LLB-REQ14|The bathroom's floor must be tiled|||
+|LLB-REQ15|The bathroom must have power outlets appropriately positioned|||
+|LLB-REQ16|The same appliance/fixtures must have been installed in the same positions as the other ensuite|||
 
 
 ## Refurbishing Requirements

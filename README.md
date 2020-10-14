@@ -9,8 +9,8 @@ This repository has been setup to collaborate with Brett (Architect) and Tim/And
 In this respository you will find the full set of customer requirements for this project. These requirements will be found in the individually linked pages. Each requirement has been organised into the following categories:
 1. Lower-level [LL]
 2. Upper-level [UL]
-3. Outer-building [OB]
-4. Landscaping [LS] 
+3. Outer-building [OB] NOT MODELED YET
+4. Landscaping [LS] NOT MODELED YET
 
 Each category will be further classified and uniquely identified as a particular feature (eg. LLK refers to the requirements associated with lower-level lounge section). Each requirement will be documented as both an ID and a description in a table and should be costed individually. Your costings will enable us to prioritise which features will form part of the final scope. 
 
@@ -47,7 +47,7 @@ Please note:
 To a large extent there is intentional architectural symmetry across both levels. That is, most room configurations are mirrored in size, position and characteristics. In terms of personal space both levels occupy the same total surface area, thus making each level equally equitable for future tenants/families to split in order to cohabit the dwelling.
 
 |Room|Symmetry|Lower Level|Upper Level|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |Master bedroom|same|[Section C](./lower-level/section-C-requirements.md)|[Section O](./upper-level/section-O-requirements.md)|
 |Master bedroom ensuite|same|[Section B](./lower-level/section-B-requirements.md)|[Section N](./upper-level/section-N-requirements.md)|
 |2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section Q](./upper-level/section-Q-requirements.md)|
