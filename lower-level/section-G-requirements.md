@@ -43,6 +43,7 @@ There is/are currently:
 |Actual|Expected|
 |:---:|:---:|
 |![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
+
 Table LL-G1: Floor plan comparison
 
 
@@ -64,7 +65,7 @@ Table LL-G1: Floor plan comparison
 ## Refurbishing Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
-|---|---|---|---|
+|:---|:---|:---|:---|
 |LLG-REQ10|Refurbish existing appliances/fixtures if equivalent & no loss in quality between upper and lower levels|||
 |LLG-REQ11|Remove external window blind||
 |LLG-REQ12|Replace the downlight dimmer transformer with a standard transformer|||
@@ -73,6 +74,6 @@ Table LL-G1: Floor plan comparison
 ## Known issues
 
 |ID|Description|
-|---|---|
+|:---|:---|
 |LLG-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
 |LLG-ISS-2|The south most facing downlight experiences routine faults or flickering. I suspect that there is a fault in the wiring or in the downlight housing|

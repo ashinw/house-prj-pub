@@ -1,4 +1,4 @@
-# Section DF - Math bathroom and Multi-level stair case
+# Section DF - Main bathroom and Multi-level stair case
 
 ## Context
 
@@ -82,7 +82,7 @@ Table LL-DF1: Floor plan comparison
 |LLDF-REQ18|The bathroom must have a south wall against multi-level stair case|||
 |LLDF-REQ19|The bathroom must now be extend along the north east wall and move the door frame to a accomodate shower installation|||
 |LLDF-REQ20|Relocate the exiting ducted heating vent to an appropriate position in the bathroom |||
-|LLDF-REQ21|The stair case and hall flooring must be replaced and consistent across all not we areas|||
+|LLDF-REQ21|The stair case and hall flooring must be replaced and consistent across all not wet areas|||
 |LLDF-REQ22|The stair case must not be bulky|||
 |LLDF-REQ23|The stair case's central platform must host a shared storage cabinet|||
 |LLDF-REQ24|The stair case's area must have a powerpoint outlet near storage cabinet|||
@@ -97,5 +97,5 @@ Table LL-DF1: Floor plan comparison
 
 |ID|Description|
 |:---|:---|
-|LLDF-ISS-1|The original [main bathroom](./section-A-requirements.md) is larger than this space|
+|LLDF-ISS-1|The original [main bathroom](./section-A-requirements.md) is 11% larger than this space|
 |LLDF-ISS-2|A large portion of the original large bedroom's window will need to be filled with rendered cladded foam. This will probably look very jarring from the outside|

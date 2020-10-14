@@ -18,8 +18,8 @@ My dad, sister, wife, my kids and I will then assess the priority of those requi
 
 Please note:
 * All diagrams and models in this repository have been modeled by me! They have been modeled to get us all on the same page and understand the scope of this project. These models will serve as a source of input for the deliverables that Brett produces. Hence, they are a starting point of which I suspect you all will see glaring enhancements through your direct experiences.
-* All measurements in the AS-IS model were recorded in cm and represent my best efforts. I recommend using these measurements as a guide **ONLY** and use Brett's measurements as authoratative when he comes here.
-* All position of building fixtures are to scale in the AS-IS model and predicted to be to scale in the TO-BE model 
+* All measurements in the "Actual" views were recorded in cm and represent my best efforts. I recommend using these measurements as a guide **ONLY** and use Brett's measurements as authoratative when he comes here.
+* All position of building fixtures are to scale in the "Actual" view and predicted to be to scale in the TO-BE model 
 * I have attempted to model all aspects because of the inherent inter-relationship of the features (eg. in order to quote on the lower-level renovation, you need to speculate where the stair case is going to be to get to the upper-level and the removable of walls to accomodate it)
 * Where possible I have also identified known issues below the requirements to draw your attention to a concern that may affect the design and/or cost estimation.
 * On several requirements sections I have documented questions with affect decisions. I would appreciate your responses to these questions.
