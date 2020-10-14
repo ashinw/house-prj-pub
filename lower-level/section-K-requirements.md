@@ -100,5 +100,5 @@ Table LL-K1: Floor plan comparison
 
 |ID|Description|
 |:---|:---|
-|LLC-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
+|LLK-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
 |LLK-ISS-2|Need to investigate whether we dedicate one TV aerial per level as there is no signal repeaters installed and splitting reduces the signal strength. Note, there are currently four splitting points already installed throughout the house|

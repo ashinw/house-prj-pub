@@ -51,13 +51,13 @@ Table LL-L1: Floor plan comparison
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLL-REQ1|The rumpus room must have a stair case that matches the [multi-level stair case](./section-DF-requirements.md)|||
-|LLL-REQ1|The rumpus room must have carpet/fixtures/furnishings that are consistent with the rest of the house|||
-|LLP-REQ5|The rumpus room must have double glazzed windows|||
-|LLP-REQ6|The rumpus room windows must be able to be opened for ventilation|||
-|LLP-REQ7|The rumpus room windows must have a fly screen to keep the insects out|||
-|LLP-REQ8|The rumpus room windows must have a fitted night/day internal roller blind with sun/heat block|||
-|LLL-REQ3|The rumpus room's sliding door windows are be replaced with double glazzing product for exising frames|||
-|LLL-REQ6|The rumpus room must be repainted|||
-|LLL-REQ7|The rumpus room must have a ceiling fan|||
-|LLL-REQ8|The rumpus room's existing ducted heating vents must be replaced|||
-|LLL-REQ9|The rumpus room's north window facing window must be covered with some solution to improve temperature management|||
+|LLL-REQ2|The rumpus room must have carpet/fixtures/furnishings that are consistent with the rest of the house|||
+|LLL-REQ3|The rumpus room must have double glazzed windows|||
+|LLL-REQ4|The rumpus room windows must be able to be opened for ventilation|||
+|LLL-REQ5|The rumpus room windows must have a fly screen to keep the insects out|||
+|LLL-REQ6|The rumpus room windows must have a fitted night/day internal roller blind with sun/heat block|||
+|LLL-REQ7|The rumpus room's sliding door windows are be replaced with double glazzing product for exising frames|||
+|LLL-REQ8|The rumpus room must be repainted|||
+|LLL-REQ9|The rumpus room must have a ceiling fan|||
+|LLL-REQ10|The rumpus room's existing ducted heating vents must be replaced|||
+|LLL-REQ11|The rumpus room's north window facing window must be covered with some solution to improve temperature management|||
