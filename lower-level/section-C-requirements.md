@@ -1,71 +1,93 @@
-# Section C
+# Section C - Master bedroom
 
 ## Context
 
-Section C remains as the Master bedroom in the lower level as per the original floor plan.
+Section C remains as the master bedroom on the lower level.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
-Figure LL2: TO-BE lower-level sections
+Figure LL2: Expected layout
 
-There is/are:
-* Three downlights install centrally
-* A non-functioning exhaust fan switch on the wall entrance to the ensuite
-* Broken door stopper
+There is/are currently:
+* Three downlights installed centrally
+* An extra unused exhaust fan switch on the wall entrance to the ensuite
+* A Broken door stopper
 * A ducted heating vent beside the east window  
-* An external blind to the east of the window
+* An external window blind to the east of the window
 * Sheer and bulky pinch pleated curtains with thermo insulation lining
-* An UHF TV antenna port on the south east corner wall by the wardrobe already installed
-
-Note, my 84 year old dad will be moving into this room and we wanted to ensure that he was given a modern room with comforts
+* An active UHF TV antenna port on the south east corner wall by the wardrobe is connected to the external antenna
 
 
 ## Problem
 
-1. The wardrobe is built into the wall and is bulky with unnecessary plasterboard covering access
+1. The wardrobe is built into the wall and is bulky with unnecessary plasterboard coverings
 2. The wardrobe sliders are very heavy and keep jumping off their rails
 3. The wardrobe draws are overly worn and no longer stay on their rails
 4. The wardrobe plastic shelve coverings have fallen off 
 5. There is no cooling system in this room
 6. The current window frames are old, large and difficult to open behind the fly screen
 7. The curtains are heavy and cumbersome to operate
+8. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
+
 
 
 ## Solution
 
-1. Renew the entire master bedroom and make it identical to the corresponding Upper Level master bedroom
+1. Keep the master bedroom in Section C because of the following principles:
+    * Embrace value for money first, but select premium if just 20% more than standard pricing
+        - Minimising structural changes will reduce costs
+    * Symmetry with split occupancy
+        - Equally equitable whether on the upper or lower levels
+    * Reduce overall transit as the basis of location
+        - Close proximity to all resources
+    * Rooms/resources that are used together should be adjacent to one another
+        - Close proximity to stairs, and study
+    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
+3. Choose appliances and fixtures that satisfy the following principles in order:
+    1. Symmetry with split occupancy 
+        - Same quality and fittings whether on upper or lower levels 
+    2. Embrace value for money first, but select premium if just 20% more than standard pricing
+    3. No maintenance over low/some maintenance
 
-|As-is Section C model| Expected floor plan for C model|
+|Actual|Expected|
 |:---:|:---:|
 |![AS-IS lower-level Section C diagram](Lower-Level-AS-IS-section-C.svg)|![TO-BE lower-level Section C diagram](Lower-Level-TO-BE-section-C.svg)|
 
-Table LL-C1: AS-IS & Expected floor plan for C model comparison
+Table LL-C1: Floor plan comparison
 
 
-## Requirements
+## Symmetric Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLC-REQ1|Replace carpet and door stopper|||
-|LLC-REQ2|Replace wardrobe|||
-|LLC-REQ3|Replace door handle|||
-|LLC-REQ4|Replace window & frame with double glazzed product|||
-|LLC-REQ5|Replace curtains with fitted night/day blinds|||
-|LLC-REQ6|Replace powerpoints outlets with more sockets|||
-|LLC-REQ7|Repaint|||
-|LLC-REQ8|Install ceiling fan|||
-|LLC-REQ9|Replace ducted heating vent|||
-|LLC-REQ10|Remove external window blind|||
+|LLC-REQ1|The bedroom must have an efficient/effective wardrobe that maximises space|||
+|LLC-REQ2|The bedroom must have an appropriate number of LED downlights|||
+|LLC-REQ3|The bedroom must have a UHF TV port socket installed and connected to the external aerial|||
+|LLC-REQ4|The bedroom must be carpeted|||
+|LLC-REQ5|The bedroom must have an appropriately sized double glazzed window|||
+|LLC-REQ6|The bedroom must have a ducted heating vent|||
+|LLC-REQ7|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
+|LLC-REQ8|The bedroom must have power outlets appropriately positioned on the north east, north west and south east sides|||
+|LLC-REQ9|The bedroom must have a centrally installed ceiling fan|||
+|LLC-REQ10|The same appliance/fixtures must have been installed in the same positions as the other master bedroom|||
+
+
+## Refurbishing Requirements
+
+|ID|Description|Est. Cost|Alternative Solution Cost|
+|:---|:---|:---|:---|
+|LLC-REQ11|Refurbish existing appliances/fixtures if equivalent & no loss in quality between upper and lower levels|||
+|LLC-REQ12|Remove external window blind|||
 
 
 ## Known issues
 
 |ID|Description|
 |:---|:---|
-|LLC-ISS-1|The large window frames openings will likely need to be filled with foamed clad and rendered to achieve a similar look & feel to the upper level. Seek Brett's advice on window transition plan|
-|LLC-ISS-2|The choice of wardrobe and size may affect the suitability of the TV antenna port|
+|LLC-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
+|LLC-ISS-2|The choice of wardrobe and size may affect the suitability of the existing TV antenna port|
 
 
 ## Preferences
 
-1. Wardrobes with a fullsize mirror installed on a sliding door in the master bedroom has been useful
+1. There should be one large full size mirror available on each level

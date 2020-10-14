@@ -6,11 +6,11 @@ Section S will be the dining room located beside the multi-level stair case on t
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section S diagram](Upper-Level-TO-BE-section-S.svg)
 
-Figure UL-S1: Expected floor plan for the Dining room 
+Figure UL-S1: Expected floor plan
 
 
 ## Problem
@@ -48,5 +48,4 @@ Figure UL-S1: Expected floor plan for the Dining room
 |LLS-REQ6|The dining room window must be able to be opened for ventilation|||
 |LLS-REQ7|The dining room window must have a fly screen to keep the insects out|||
 |LLS-REQ8|The dining room must have a fitted night/day internal roller blind with sun/heat block|||
-|LLS-REQ9|The dining room must have a centrally installed ceiling fan|||
-|LLS-REQ10|The same appliance/fixtures must have been installed in the same positions as the other dining room|||
+|LLS-REQ9|The same appliance/fixtures must have been installed in similar positions as the other dining room|||

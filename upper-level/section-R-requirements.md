@@ -6,11 +6,11 @@ Section R will be the 1st bedroom on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section R diagram](Upper-Level-TO-BE-section-R.svg)
 
-Figure UL-R1: Expected floor plan for the 1st Bedroom 
+Figure UL-R1: Expected floor plan
 
 
 ## Problem
@@ -47,5 +47,5 @@ Figure UL-R1: Expected floor plan for the 1st Bedroom
 |LLR-REQ5|The bedroom must have a ducted heating vent|||
 |LLR-REQ6|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
 |LLR-REQ7|The bedroom must have a centrally installed ceiling fan|||
-|LLR-REQ8|The bedroom must have power outlets appropriate positioned near each corner|||
+|LLR-REQ8|The bedroom must have power outlets appropriately positioned near each corner|||
 |LLR-REQ9|The same appliance/fixtures must have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||

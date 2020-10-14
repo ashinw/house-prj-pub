@@ -8,16 +8,16 @@ The study is designed to be an open space. It will likely host a printer,  filin
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section P diagram](Upper-Level-TO-BE-section-P.svg)
 
-Figure UL-P1: Expected floor plan for Study 
+Figure UL-P1: Expected floor plan
 
 
 ## Problem
 
-1. Residents require an area for accessing shared electrical devices, hot desking and file storage
+1. Both upper & lower level residents require an area for accessing shared electrical devices, hot desking and file storage
 
 
 ## Solution

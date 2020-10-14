@@ -6,11 +6,11 @@ Section M will be the main bathroom on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section M diagram](Upper-Level-TO-BE-section-M.svg)
 
-Figure UL-M1: Expected floor plan for upper level Main bathroom 
+Figure UL-M1: Expected floor plan 
 
 
 ## Problem
@@ -37,7 +37,7 @@ Figure UL-M1: Expected floor plan for upper level Main bathroom
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLM-REQ1|The bathroom must have an LED light|||
+|LLM-REQ1|The bathroom must have an LED downlight|||
 |LLM-REQ2|The bathroom must have a sink with ceramic washer taps|||
 |LLM-REQ3|The bathroom must have a toilet|||
 |LLM-REQ4|The bathroom must have a cabinet|||
@@ -47,7 +47,7 @@ Figure UL-M1: Expected floor plan for upper level Main bathroom
 |LLM-REQ8|The bathroom must have a bathtub with ceramic washer taps|||
 |LLM-REQ9|The bathroom must have an exhaust fan|||
 |LLM-REQ10|The bathroom must be connected to the ducted heating|||
-|LLM-REQ11|The bathroom must have an appropriately sized window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLM-REQ11|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLM-REQ12|The bathroom window must be able to be opened for ventilation|||
 |LLM-REQ13|The bathroom window must have a fly screen to keep the insects out|||
 |LLM-REQ14|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||

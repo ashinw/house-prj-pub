@@ -1,53 +1,78 @@
-# Section G
+# Section G - 1st Bedroom
 
 ## Context
-Section G was & still is the first bedroom encounted upon entry in the lower level as per the original floor plan.
+
+Section G remains as the 1st bedroom encounted upon entry from the front door on the lower level.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
-Figure LL2: TO-BE lower-level sections
+Figure LL2: Expected layout
 
-There is/are:
+There is/are currently:
 * Two downlights and a bedside wall attached reading light in the south east wall of the room
 * A ducted heating vent beside the east window
-* An external blind to the east of the window
-* A bulky pinch pleated curtains with thermo insulation lining
+* An external window blind to the east of the window
+* Bulky pinch pleated curtains with thermo insulation lining
+
 
 ## Problem
-1. The wardrobe is build into the wall and is bulky
+
+1. The wardrobe is built into the wall and is bulky
 2. There is no cooling system in this room
 3. The current window frames are old, large and difficult to open behind the fly screen
 4. There is a halogen downlight dimmer transformer installed
 5. The curtains are heavy and cumbersome to operate
+6. Longevity and resale value will be impacted if there are less than three rooms
+
 
 ## Solution
-1. Renew the entire bedroom and make it identical to the corresponding Upper Level bedroom. Note, all non-master bedrooms should be identical
 
-|As-is Section G model| Expected floor plan for G model|
+1. Keep 1st bedroom in Section G because of the following principles:
+    * Symmetry with split occupancy
+        - Equally equitable whether on the upper or lower levels
+    * Reduce overall transit as the basis of location
+        - Close proximity to all resources
+    * Rooms/resources that are used together should be adjacent to one another
+        - Close proximity to stairs, and bathroom
+    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
+2. Choose appliances and fixtures that satisfy the following principles in order:
+    1. Symmetry with split occupancy 
+        - Same quality and fittings whether on upper or lower levels 
+    2. Embrace value for money first, but select premium if just 20% more than standard pricing
+    3. No maintenance over low/some maintenance
+
+|Actual|Expected|
 |:---:|:---:|
 |![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
-Table LL-G1: AS-IS & Expected floor plan for G model comparison
+Table LL-G1: Floor plan comparison
 
-## Requirements
+
+## Symmetric Requirements
+
+|ID|Description|Est. Cost|Alternative Solution Cost|
+|:---|:---|:---|:---|
+|LLG-REQ1|The bedroom must have an efficient/effective wardrobe that maximises space|||
+|LLG-REQ2|The bedroom must have an appropriate number of LED downlights|||
+|LLG-REQ3|The bedroom must be carpeted|||
+|LLG-REQ4|The bedroom must have an appropriately sized double glazzed window|||
+|LLG-REQ5|The bedroom must have a ducted heating vent|||
+|LLG-REQ6|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
+|LLG-REQ7|The bedroom must have a centrally installed ceiling fan|||
+|LLG-REQ8|The bedroom must have power outlets appropriately positioned near each corner|||
+|LLG-REQ9|The same appliance/fixtures must have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
+
+
+## Refurbishing Requirements
+
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |---|---|---|---|
-|LLG-REQ1|Replace carpet||
-|LLG-REQ2|Replace wardrobe with slider doors|||
-|LLG-REQ3|Replace door handle||
-|LLG-REQ4|Replace window & frame with double glazzed product||
-|LLG-REQ5|Replace curtains with fitted night/day blinds||
-|LLG-REQ6|Install north powerpoints outlets with more sockets||
-|LLG-REQ7|Repaint||
-|LLG-REQ8|Install ceiling fan||
-|LLG-REQ9|Replace ducted heating vent||
-|LLG-REQ10|Replace diming downlight  transformer with standard transformer||
-|LLG-REQ11|Remove wall light on the south wall||
-|LLG-REQ12|Reposition downlights to a central position||
-|LLG-REQ13|Remove external window blind||
-|LLG-REQ14|Reposition the downlights centrally||
+|LLG-REQ10|Refurbish existing appliances/fixtures if equivalent & no loss in quality between upper and lower levels|||
+|LLG-REQ11|Remove external window blind||
+|LLG-REQ12|Replace the downlight dimmer transformer with a standard transformer|||
 
 
 ## Known issues
+
 |ID|Description|
 |---|---|
-|LLG-ISS-1|The large window frames openings will likely need to be fiLLGd with foamed clad and rendered to achieve a similar look & feel to the upper level. Seek Brett's advice on window transition plan|
-|LLG-ISS-2|The south most downlight experiences routine fault or flickering. I suspect that there is fault in the wiring or the downlight housing|
+|LLG-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
+|LLG-ISS-2|The south most facing downlight experiences routine faults or flickering. I suspect that there is a fault in the wiring or in the downlight housing|

@@ -2,15 +2,15 @@
 
 ## Context
 
-Section N will be the ensuite for the master bedroom on the upper level.
+Section N will be the master bedroom's ensuite on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section N diagram](Upper-Level-TO-BE-section-N.svg)
 
-Figure UL-N1: Expected floor plan for Ensuite 
+Figure UL-N1: Expected floor plan
 
 
 ## Problem
@@ -38,7 +38,7 @@ Figure UL-N1: Expected floor plan for Ensuite
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLN-REQ1|The bathroom must have an LED light|||
+|LLN-REQ1|The bathroom must have an LED downlight|||
 |LLN-REQ2|The bathroom must have a sink with ceramic washer taps|||
 |LLN-REQ3|The bathroom must have a toilet|||
 |LLN-REQ4|The bathroom must have a cabinet|||
@@ -48,7 +48,7 @@ Figure UL-N1: Expected floor plan for Ensuite
 |LLN-REQ8|The bathroom must have a bathtub with ceramic washer taps|||
 |LLN-REQ9|The bathroom must have an exhaust fan|||
 |LLN-REQ10|The bathroom must be connected to the ducted heating|||
-|LLN-REQ11|The bathroom must have an appropriately sized window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLN-REQ11|The bathroom must have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLN-REQ12|The bathroom window must be able to be opened for ventilation|||
 |LLN-REQ13|The bathroom window must have a fly screen to keep the insects out|||
 |LLN-REQ14|The bathroom must have a fitted night/day internal roller blind with sun/heat block|||

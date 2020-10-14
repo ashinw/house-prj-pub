@@ -6,11 +6,11 @@ Section Q will be the 2nd bedroom on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section Q diagram](Upper-Level-TO-BE-section-Q.svg)
 
-Figure UL-Q1: Expected floor plan for the 2nd Bedroom 
+Figure UL-Q1: Expected floor plan
 
 
 ## Problem
@@ -47,5 +47,5 @@ Figure UL-Q1: Expected floor plan for the 2nd Bedroom
 |LLQ-REQ5|The bedroom must have a ducted heating vent|||
 |LLQ-REQ6|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
 |LLQ-REQ7|The bedroom must have a centrally installed ceiling fan|||
-|LLQ-REQ8|The bedroom must have power outlets appropriate positioned near each corner|||
+|LLQ-REQ8|The bedroom must have power outlets appropriately positioned near each corner|||
 |LLQ-REQ9|The same appliance/fixtures must have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||

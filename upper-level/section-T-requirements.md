@@ -6,11 +6,11 @@ Section T will be the lounge room on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section T diagram](Upper-Level-TO-BE-section-T.svg)
 
-Figure UL-S1: Expected floor plan for the Lounge room 
+Figure UL-S1: Expected floor plan
 
 
 ## Problem
@@ -49,4 +49,5 @@ Figure UL-S1: Expected floor plan for the Lounge room
 |LLT-REQ6|The lounge room windows must be able to be opened for ventilation|||
 |LLT-REQ7|The lounge room windows must have a fly screen to keep the insects out|||
 |LLT-REQ8|The lounge room must have a fitted night/day internal roller blinds with sun/heat block|||
-|LLT-REQ9|The same appliance/fixtures must have been installed as with the other lounge room|||
+|LLT-REQ9|The lounge room must have a centrally installed ceiling fan|||
+|LLT-REQ10|The same appliance/fixtures must have been installed as with the other lounge room|||

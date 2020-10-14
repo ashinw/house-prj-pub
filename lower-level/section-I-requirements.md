@@ -1,28 +1,29 @@
-# Section I
+# Section I - Entry [Shared Resource]
 
 ## Context
 
-Section I still is the main entrance and hallway passage access in the lower level as per the original floor plan.
+Section I remains as the main entrance and hallway passage access in the lower level.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
-Figure LL2: TO-BE lower-level sections
+Figure LL2: Expected layout
 
-There is/are:
+There is/are currently:
 * A single downlight inside
 * Three downlights installed outside which light up the verandah
 * Steps leading up to the door
 * The electricity box (with smart meter) is outside the front door
 * A sklight and an old flurecent cicular tube light installed in the north part of the hallway
 * A ducted heating INLET
+* Carpeting across all hall ways
 
 
 ## Problem
 
-1. The original design of the house is closed plan with walls and doors everywhere
-2. The front door has poor sealing and both cold and hot enter. All doors through to kitcken needed to be temporarily removed to get fridge into the kitchen
-3. The long window beside the front door lets in a lot of heat during the summar 
-4. The security door gets jammed against the concrete in winter and often cannot be locked properly
+1. The original design of the house is a closed plan with walls and doors everywhere
+2. The front door has poor sealing and both cold and hot enter
+3. The long window beside the front door lets in a lot of heat in during the summer 
+4. The security door gets jammed against the concrete in winter and often cannot be locked
 5. There are large dark grey stains that cannot be removed on the carpet by the entrance
 6. The cloak closet is bulkly and primarily serves as the internal air inlet for central heating
 7. The electricity box has a lot of old surge protectors and switches installed and we frequently encounter trips when there is too much load caused by a combination of devices (eg. kettle, microwave, TV)
@@ -32,22 +33,22 @@ There is/are:
 
 ## Solution
 
-1. Replace the security door and the door with a larger front door that is well sealed
+1. Replace the security door and the door with a single larger front door that is well sealed
 2. Remove all unneccessary doors, walls and closed spaces to create an open floor plan
 3. Consolidate the electricity system
 
-|As-is Section I model| Expected floor plan for I model|
+|Actual|Expected|
 |:---:|:---:|
 |![AS-IS lower-level Section I diagram](Lower-Level-AS-IS-section-I.svg)|![TO-BE lower-level Section I diagram](Lower-Level-TO-BE-section-I.svg)|
 
-Table LL-I1: AS-IS & Expected floor plan for I model comparison
+Table LL-I1: Floor plan comparison
 
 
 ## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLI-REQ1|Replace carpet at entrance and hallway with anything cheap and durable|||
+|LLI-REQ1|Replace carpet along all hallways with consistent non-carpet flooring|||
 |LLI-REQ2|Replace main door with larger main entry door|||
 |LLI-REQ3|Remove cloak closet (refer to [issue LLI-ISS-1](#Known-Issues))|||
 |LLI-REQ4|Remove sliding door and overhead to lounge room|||
@@ -82,5 +83,4 @@ Photo: LLI-photo-2
 
 ## Questions
 
-1. Is there any benefit setting the front door back 68cm given that the front door will be entirely replaced?
-2. If it is determined that the beam by the cloak closet is load bearing please advise on the cost/benefits ot its removal?
+1. If it is determined that the beam by the cloak closet is load bearing please advise on the cost/benefits ot its removal?

@@ -6,11 +6,11 @@ Section O will be the master bedroom on the upper level.
 
 ![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
 
-Figure UL1: Planned level sectioning
+Figure UL1: Expected layout
 
 ![TO-BE upper-level Section O diagram](Upper-Level-TO-BE-section-O.svg)
 
-Figure UL-O1: Expected floor plan for Master bedroom 
+Figure UL-O1: Expected floor plan
 
 
 ## Problem
@@ -48,7 +48,7 @@ Figure UL-O1: Expected floor plan for Master bedroom
 |LLO-REQ5|The bedroom must have an appropriately sized double glazzed window|||
 |LLO-REQ6|The bedroom must have a ducted heating vent|||
 |LLO-REQ7|The bedroom must have a fitted night/day internal roller blind with sun/heat block|||
-|LLO-REQ8|The bedroom must have power outlets appropriate positioned on the north east, north west and south east sides|||
+|LLO-REQ8|The bedroom must have power outlets appropriately positioned on the north east, north west and south east sides|||
 |LLO-REQ9|The bedroom must have a centrally installed ceiling fan|||
 |LLO-REQ10|The same appliance/fixtures must have been installed in the same positions as the other master bedroom|||
 

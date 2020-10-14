@@ -20,7 +20,7 @@ Please note:
 * All diagrams and models in this repository have been modeled by me! They have been modeled to get us all on the same page and understand the scope of this project. These models will serve as a source of input for the deliverables that Brett produces. Hence, they are a starting point of which I suspect you all will see glaring enhancements through your direct experiences.
 * All measurements in the AS-IS model were recorded in cm and represent my best efforts. I recommend using these measurements as a guide **ONLY** and use Brett's measurements as authoratative when he comes here.
 * All position of building fixtures are to scale in the AS-IS model and predicted to be to scale in the TO-BE model 
-* I have attempted to model all aspects because of the inherent inter-relationship of the features (eg. in order to quote on the lower-level renovation, you need to speculate where the staircase is going to be to get to the upper-level and the removable of walls to accomodate it)
+* I have attempted to model all aspects because of the inherent inter-relationship of the features (eg. in order to quote on the lower-level renovation, you need to speculate where the stair case is going to be to get to the upper-level and the removable of walls to accomodate it)
 * Where possible I have also identified known issues below the requirements to draw your attention to a concern that may affect the design and/or cost estimation.
 * On several requirements sections I have documented questions with affect decisions. I would appreciate your responses to these questions.
 * In order for Tim/Andre to provide an accurate quote on the entire project scope, they need engineering specfications. In order to get the engineering specifications Brett needs to have submitted his building plans/working drawings to the engaged Structural Engineer. Therefore, in order for my family to finalise our prioritised build scope based on costings, we will likely need a process that round-trips with the Structural Engineer most likely two times. 
@@ -42,6 +42,28 @@ Please note:
 8. Reduce overall transit as the basis of location
 
 
+## Symmetry
+
+To a large extent there is intentional architectural symmetry across both levels. That is, most room configurations are mirrored in size, position and characteristics. In terms of personal space both levels occupy the same total surface area, thus making each level equally equitable for future tenants/families to split in order to cohabit the dwelling.
+
+|Room|Symmetry|Lower Level|Upper Level|
+|---|---|---|---|
+|Master bedroom|same|[Section C](./lower-level/section-C-requirements.md)|[Section O](./upper-level/section-O-requirements.md)|
+|Master bedroom ensuite|same|[Section B](./lower-level/section-B-requirements.md)|[Section N](./upper-level/section-N-requirements.md)|
+|2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section Q](./upper-level/section-Q-requirements.md)|
+|1st bedroom|same|[Section G](./lower-level/section-G-requirements.md)|[Section R](./upper-level/section-R-requirements.md)|
+|Dining|same size, similar position|[Section J](./lower-level/section-J-requirements.md)|[Section S](./upper-level/section-S-requirements.md)|
+|Main bathroom|similar size, similar position|[Section DF](./lower-level/section-DF-requirements.md)|[Section P](./upper-level/section-P-requirements.md)|
+|Lounge|similar size, similar position|[Section K](./lower-level/section-K-requirements.md)|[Section T](./upper-level/section-T-requirements.md)|
+|Entry|shared|[Section I](./lower-level/section-I-requirements.md)||
+|Kitchen|shared|[Section H](./lower-level/section-H-requirements.md)||
+|Laundry|shared|[Section A](./lower-level/section-A-requirements.md)||
+|Study|shared||[Section P](./upper-level/section-P-requirements.md)|
+|Rumpus|shared||[Section L](./lower-level/section-L-requirements.md)|
+
+
+---
+
 ## Requirements
 
 Tim/Andre, could you please visit all of the following links to price the components that do not require structural engineering input.
@@ -49,62 +71,4 @@ Tim/Andre, could you please visit all of the following links to price the compon
 Brett, could you please visit all of the following links as part of the input for your build working drawings.
 
 1. [Lower-Level requirements](./lower-level/Lower-Level-requirements.md)
-2. [Opper-Level requirements](./upper-level/Upper-Level-requirements.md)
-
----
-TODO:
-* replace outdoor tap due to dripping from the spout. Cannot turn it any tighter
-
-
-
-
-These are ONLY just my thoughts and models that I intend share with Brett! This repository can be used by Brett and myself to review any/all revisions of documentation or models that I have authored and published. Put simply it is less error prone than collaborating via email.
-
-## Requirements
-The wishlist is as follows:
-- accommodation for dad & sister
-  - 1 main bedroom w/ ensuite
-  - 1 small bedroom
-  - 1 leasure area
-  - 1 extra toilet
-- kitchen reno (no workspace in current kitchen for wife, daughter and sister to all cook together)
-- general house reno incl:
-  - bathrooms reno
-  - fix up water pressure and hammering
-  - fix up electricity from tripping/surges
-  - fix outdated windows/wardrobes/doors/carpets around house
-
-
-## Known issues with current configuration (ie. pain points)
-1. kitchen workspace is too small for collaboration and non-trivial preparations 
-2. lack of natural light in dining room (need to turn lights on almost all the time)
-3. summer sun
-    * morning summer sun from the east  through the window next to the main entry causes the hallway to become very hot
-    * evening summer sun from the west through the kitchen, meals area and laundry causes those respective areas to become extremely hot
-4. laundry back door next to sink is too difficult to exit from and also too high (1.2m) from the ground. Thus, it is not really used
-5. driveway is 2.24m wide between corner of house and fence and thus the carport is not used (thinking about repurposing this as a more secluded outdoor area)
-6. both north and south triangular regions of the property are mostly unused (thinking about putting an secondary driveway at the southen end)
-7. there is only a single window/wall aircon in the dining room
-8. Rumpus/meditation room (almost 1m drop) is typically 2-4 degrees colder than rest of house (good in the summer, but very cold in winter)
-
-## Models
-
-The most recent update of the current floor plan is:
-
-![alt](./house_floor_plan.svg)
-
-* You can [load the above image directly into the browser](https://raw.githubusercontent.com/ashinw/house-prj-pub/master/house_floor_plan.svg) and use the zoom in/out browser features for a better viewing experience.
-
-
-The most recent update of the current title & outdoor plan is:
-
-![alt](./title_and_outdoor_plan.svg)
-
-* You can [load the above image directly into the browser](https://raw.githubusercontent.com/ashinw/house-prj-pub/master/title_and_outdoor_plan.svg) and use the zoom in/out browser features for a better viewing experience.
-
-
-The most recent update of the current combined floor, title & outdoor plan is:
-
-![alt](./combo_title_and_outdoor_and_floor_plan.svg)
-
-* You can [load the above image directly into the browser](https://raw.githubusercontent.com/ashinw/house-prj-pub/master/combo_title_and_outdoor_and_floor_plan.svg) and use the zoom in/out browser features for a better viewing experience.
+2. [Upper-Level requirements](./upper-level/Upper-Level-requirements.md)
