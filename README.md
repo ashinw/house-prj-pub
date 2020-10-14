@@ -53,7 +53,7 @@ To a large extent there is intentional architectural symmetry across both levels
 |2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section Q](./upper-level/section-Q-requirements.md)|
 |1st bedroom|same|[Section G](./lower-level/section-G-requirements.md)|[Section R](./upper-level/section-R-requirements.md)|
 |Dining|same size, similar position|[Section J](./lower-level/section-J-requirements.md)|[Section S](./upper-level/section-S-requirements.md)|
-|Main bathroom|similar size, similar position|[Section DF](./lower-level/section-DF-requirements.md)|[Section P](./upper-level/section-P-requirements.md)|
+|Main bathroom|similar size, similar position|[Section DF](./lower-level/section-DF-requirements.md)|[Section M](./upper-level/section-M-requirements.md)|
 |Lounge|similar size, similar position|[Section K](./lower-level/section-K-requirements.md)|[Section T](./upper-level/section-T-requirements.md)|
 |Entry|shared|[Section I](./lower-level/section-I-requirements.md)||
 |Kitchen|shared|[Section H](./lower-level/section-H-requirements.md)||
