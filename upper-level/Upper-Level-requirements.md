@@ -14,7 +14,7 @@ Table UL1: Expected layout and floor plan
 
 Using the above diagrams as a guide, visit each link in the Upper-Level Section Requirements table below to assess the complete set of requirements for the upper-level.
 
-|Section Group|TO-BE (Planned)|
+|Section Group|Expected|
 |:---|:---|
 |[Section M](./section-M-requirements.md)|Main Bathroom|
 |[Section N](./section-N-requirements.md)|Ensuite|

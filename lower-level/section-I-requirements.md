@@ -61,6 +61,7 @@ Table LL-I1: Floor plan comparison
 |LLI-REQ10|Remove skylight|||
 |LLI-REQ11|Replace old flurecent light with standard downlight|||
 |LLI-REQ12|Replace plaster board where required|||
+|LLI-REQ13|Repair the crack in the plaster on the external main entrance overhead|||
 
 
 ## Known issues
@@ -74,11 +75,15 @@ Table LL-I1: Floor plan comparison
 
 ![above cloak closet](./photos/IMG_20201010_134053722.jpg)
 
-Photo: LLI-photo-1
+Photo: LLI-photo-1 - Vertical beam connecting to the ridge beam 
 
 ![below the cloak closet](./photos/IMG_20201010_135005432.jpg)
 
-Photo: LLI-photo-2
+Photo: LLI-photo-2 - Vertical bean stops at floor board
+
+![crack in plaster at entrance](./photos/IMG_20201015_094843057.jpg)
+
+Photo: LLI-photo-3 - External main entrance overhead crack
 
 
 ## Questions
