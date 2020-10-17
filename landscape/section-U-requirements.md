@@ -37,6 +37,15 @@ Landscape the north backyard and make it more fit for purpose with better space 
 7. Repair/replace the car port's rusted gutters
 8. Install car port entrance [corrogated gate](#References) #3 into backyard
 
+Applicable principles:
+* Embrace value for money first
+    - Aggregate concrete is better value for money over other outdoor flooring solutions
+* No maintenance over low/some maintenance
+    - The tree drops a lot of foliage and attracts many birds
+    - Aggregate concrete has little/no maintenance 
+* Reduce overall transit as the basis of location
+    - The larger shed will still be in close proximity of the back door for moving things in and out of storage
+
 
 |Actual|Expected|
 |:---:|:---:|

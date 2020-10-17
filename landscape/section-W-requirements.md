@@ -40,6 +40,12 @@ Landscape the south backyard to make more fit for purpose
 7. Replace broken timber plank on side of deck and stain plank
 8. Floor the gate passage and deck entry with exposed [aggregate concrete](#References) #1 Area = 3m^2
 
+Applicable principles:
+* Embrace value for money first
+    - Corrugated fencing is just 10% more than timber
+    - Aggregate concrete is better value for money over other outdoor flooring solutions
+    - Shade cloth & darker paint along fence line is cheap solution to reducing reflective light/heat
+
 |Actual|Expected|
 |:---:|:---:|
 |![AS-IS landscape Section W diagram](Landscape-AS-IS-section-W.svg)|![TO-BE landscape Section W diagram](Landscape-TO-BE-section-W.svg)|

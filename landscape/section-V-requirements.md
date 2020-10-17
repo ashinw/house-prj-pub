@@ -31,6 +31,14 @@ Landscape the east frontyard to accomodate vehicle parking
 3. Flatten the entire area in preparation for the concreting
 4. Floor the frontyard with exposed [aggregate concrete](#References) #1 Area = 83m^2
 
+Applicable principles:
+* Embrace value for money first
+    - Avoid paying for cross-over permit and creating cross-over
+    - Aggregate concrete is better value for money over other outdoor flooring solutions
+* No maintenance over low/some maintenance
+    - Reduced amount of garden maintenance
+* Reduce overall transit as the basis of location
+    - Short distance and travel time from car to kitchen to empty groceries
 
 |Actual|Expected|
 |:---:|:---:|
