@@ -22,11 +22,19 @@ There is/are currently:
 5. There is a tree and bushes along the north west fence line
 6. There is a lack of storage space in the house
 7. There is a clothes line
+8. There is no privacy gate into the backyard
 
 
 ## Solution
 
-1. Landscape the north backyard and make it more fit for purpose
+1. Landscape the north backyard and make it more fit for purpose with better space utilisation
+
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS landscape Section U diagram](Landscape-AS-IS-section-U.svg)|![TO-BE landscape Section U diagram](Landscape-TO-BE-section-U.svg)|
+
+Table LS-U1: Landscape comparison
 
 
 ## Requirements
@@ -34,12 +42,14 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LSU-REQ1|Remove stump, tree and remaining bushes along the north west fence line|||
-|LSU-REQ2|Flatten the area in preperator for the north backyard concreting|||
-|LSU-REQ3|Extend the concrete slab to the north of the fence lines as the floor for the larger shed using standard concrete Area = 8.4m^2|||
-|LSU-REQ4|Floor north backyard triangle with exposed [aggregate concrete](#References) #1 Area = 65m^2|||
+|LSU-REQ2|Flatten the area in preperation for the north backyard concreting|||
+|LSU-REQ3|To accomodate a larger shed extend the concrete slab to the north of the fence lines using standard concrete Area = 8.4m^2|||
+|LSU-REQ4|Concrete north backyard with exposed [aggregate concrete](#References) #1 Area = 48m^2|||
 |LSU-REQ5|Install steps down from laundry|||
 |LSU-REQ6|Replace shed with [larger shed](#References) #2|||
 |LSU-REQ7|Repair/replace car port's rusted gutters|||
+|LSU-REQ8|Install car port entrance gate into backyard|||
+
 
 
 ## Photos
@@ -79,3 +89,4 @@ Photo: LSU-photo-1 - Old car port gate
 
 1. https://www.decorativeconcretewa.com.au/aggregate-vs-stamped-concrete/
 2. https://www.bunnings.com.au/endurashed-4-5-x-2-25-x-2-35m-tall-truss-roof-garden-shed-zincalume_p0076422
+3. https://www.melbournegatesandfencing.com.au/our-services/fencing/colorbond-fencing/
