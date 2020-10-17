@@ -14,20 +14,28 @@ There is/are currently:
 * A car port
 * The remainder of an old backyard & car port gate
 
+
 ## Problem
 1. There is a slope from the east neighbour's fence line to the west neighbour's fence line
 2. The shed is small with a broken door
 3. The open car port has rusted gutters 
-4. There is a stump north of the shed
-5. There is a tree and bushes along the north west fence line
+4. There is a stump north of the shed unnecessarily occupying space
+5. There is a tree and bushes along the north west fence line that indirectly affect clothes on the line by visiting birds
 6. There is a lack of storage space in the house
-7. There is a clothes line
-8. There is no privacy gate into the backyard
+7. There is no privacy in the backyard
 
 
 ## Solution
 
-1. Landscape the north backyard and make it more fit for purpose with better space utilisation
+Landscape the north backyard and make it more fit for purpose with better space utilisation
+1. Remove stump, tree and remaining bushes along the north west fence line
+2. Flatten the area in preperation for the north backyard concreting
+3. To accomodate a larger shed extend the concrete slab to the north of the fence lines using standard concrete Area = 8.4m^2
+4. Concrete north backyard with exposed [aggregate concrete](#References) #1 Area = 48m^2
+5. Install steps down from laundry
+6. Replace shed with [larger shed](#References) #2
+7. Repair/replace the car port's rusted gutters
+8. Install car port entrance [corrogated gate](#References) #3 into backyard
 
 
 |Actual|Expected|
@@ -41,15 +49,13 @@ Table LS-U1: Landscape comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LSU-REQ1|Remove stump, tree and remaining bushes along the north west fence line|||
-|LSU-REQ2|Flatten the area in preperation for the north backyard concreting|||
-|LSU-REQ3|To accomodate a larger shed extend the concrete slab to the north of the fence lines using standard concrete Area = 8.4m^2|||
-|LSU-REQ4|Concrete north backyard with exposed [aggregate concrete](#References) #1 Area = 48m^2|||
+|LSU-REQ1|The north west fence line area shall be cleared to accommodate a shed extension and concreting|||
+|LSU-REQ2|The backyard shall be floored with aggregate concrete or something similar|||
+|LSU-REQ3|The backyard shall have a step entry into the laundry|||
+|LSU-REQ4|The backyard shall have a larger shed in the north of the property|||
 |LSU-REQ5|Install steps down from laundry|||
-|LSU-REQ6|Replace shed with [larger shed](#References) #2|||
-|LSU-REQ7|Repair/replace car port's rusted gutters|||
-|LSU-REQ8|Install car port entrance gate into backyard|||
-
+|LSU-REQ6|They carport shall be refurbished|||
+|LSU-REQ7|A privacy gate south of the carport shall be installed|||
 
 
 ## Photos
@@ -61,28 +67,27 @@ Photo: LSU-photo-1 - Slope
 
 ![stump removal](./photos/IMG_20201010_144533366_HDR.jpg)
 
-Photo: LSU-photo-1 - Stump removal
+Photo: LSU-photo-2 - Stump removal
 
 
 ![tree and bush removal](./photos/IMG_20201010_144615697_HDR.jpg)
 
-Photo: LSU-photo-1 - Tree and bush removal
+Photo: LSU-photo-3 - Tree and bush removal
 
 
 ![broken shed door](./photos/IMG_20201010_144704616.jpg)
 
-Photo: LSU-photo-1 - Broken shed door
+Photo: LSU-photo-4 - Broken shed door
 
 
 ![rushed gutters](./photos/IMG_20201010_144728905.jpg)
 
-Photo: LSU-photo-1 - Rusted gutters
+Photo: LSU-photo-5 - Rusted gutters
 
 
 ![Old car port gate](./photos/IMG_20201016_124727917.jpg)
 
-Photo: LSU-photo-1 - Old car port gate
-
+Photo: LSU-photo-6 - Old car port gate
 
 
 ## References

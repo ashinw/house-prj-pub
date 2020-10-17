@@ -2,7 +2,7 @@
 
 ## Context
 
-Section W represents the frontyard for the property that leeds from the bottom on the property boundary to the area around the deck.
+Section W represents the frontyard for the property that leeds from the bottom of the property boundary to the area beside the deck.
 
 ![TO-BE landscape diagram](Landscape-TO-BE.svg)
 
@@ -15,24 +15,30 @@ There is/are currently:
 * A deck with a stair case to the verandah
 
 
-
 ## Problem
 
-1. The fence with neighbouring south west property is dilapidated
+1. The fence with the neighbouring south west property is dilapidated
 2. The fence between the front and backyards have some broken palings
-3. The fence's gate is broken off entirely
+3. The fence's gate between the front and backyards is broken off entirely
 4. The deck has one broken piece of timber along the south side
-5. The stair case has a loose and step supported by a red oil jack
-6. Two broken pillars along the south east fence line have fractures and cracks
-7. The large yellow palings along the south east fence line reflects a lot of the afternoon western sun light back to the house
-8. The large gaps between the palings prohibit privacy
-9. There is a lot of water retension in the grass areas and it can be slushy walking through the gate to the deck
+5. The yellow fence along the south east has two broken pillars, fractures and cracks
+6. The large yellow palings along the south east fence line reflects a lot of the afternoon western sun light back to the house
+7. The large gaps between the palings prohibit privacy
+8. There is a lot of water retension in the grass areas and it can be slushy walking through the gate to the deck
+9. The stair case has a loose step and is currently supported by a red oil jack
 
 
 ## Solution
 
-1. Landscape the south backyard to make more fit for purpose
-
+Landscape the south backyard to make more fit for purpose
+1. Organise with neighbour and replace fence with durable [colorbond fence](./#References) #2 for length = 24m
+2. Repair/replace damaged fence palings along yellow fence
+3. Repair cracked fence pillars
+4. Repaint from yellow to dark brown matching house brickwork length = 28m
+5. Install [light duty shade cloth](#References) #3 along inner side of south east fence line for greater privacy length = 28m
+6. Repair/replace damaged gate between deck and new carport
+7. Replace broken timber plank on side of deck and stain plank
+8. Floor the gate passage and deck entry with exposed [aggregate concrete](#References) #1 Area = 3m^2
 
 |Actual|Expected|
 |:---:|:---:|
@@ -45,14 +51,11 @@ Table LS-U1: Landscape comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LSW-REQ1|Organise with neighbour and replace fence with durable [colorbond fence](./#References) #2 for length = 24m|||
-|LSW-REQ1|Repair/replace damaged fence palings|||
-|LSW-REQ2|Repair/replace damaged gate|||
-|LSW-REQ2|Repair cracked fence pillars|||
-|LSW-REQ2|Repaint from yellow to dark brown matching house brickwork length = 28m|||
-|LSW-REQ2|Install light duty shade cloth along inner side of south east fence line for greater privacy length = 28m|||
-|LSW-REQ2|Replace broken timber plank on side of deck and stain plank|||
-|LSW-REQ4|Floor the gate passage and deck entry with exposed [aggregate concrete](#References) #1 Area = 3m^2|||
+|LSW-REQ1|A new fence with the neighbouring south west property will be erected|||
+|LSW-REQ2|The main fence along the south east shall be refurbished|||
+|LSW-REQ3|The main fence shall have a shade cloth pinned into its inner side providing privacy and reduced reflected light|||
+|LSW-REQ4|The deck shall be refurbished|||
+|LSW-REQ5|There shall be an aggregate concrete floor or similar to move between the car port and the deck|||
 
 
 ## Photos
