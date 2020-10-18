@@ -11,52 +11,25 @@ Figure LL2: Expected layout
 There is/are currently:
 * A single downlight installed
 * A ducted heating outlet
-* a tiled floor
-* No better place for a backdoor/outdoor exit point at ground level than on the north wall in this room  
+* A tiled floor
+* No better place for a backdoor/outdoor exit point at near ground level than on the north wall of this room  
 
 
 ## Problem
 
 1. Refer to [laundry related problems](./section-H-requirements.md#Problem) that are captured in section H
 2. Visitors would need to navigate to the far end of the house to go to the bathroom
-3. Both upper & lower level residents require a convenient area for washing and hanging clothes
+3. Both upper & lower level residents require an area for washing and hanging clothes with convenient access to the clothes line
 
 
-## Solution
-
-1. Relocate laundry in Section A because of the following principles:
-    * Rooms/resources that are used together should be adjacent to one another
-        - External clothes line is directly outside
-    * Reduce overall transit as the basis of location
-        - The burden of carrying laundry loads over distance is reduced
-    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
-        - In winter: With an internal drying rack and a ducted heating vent, clothes can dry well in this closed space
-        - In summer: With an internal drying rack and the windows open, clothes can dry well in this closed space 
-2. Choose sliding door, window position & size, and laundry fixtures that satisfy the following principles in order:
-    1. Embrace natural lighting and reduce demand on heating/cooling systems
-        - West facing windows invite a lot of heat/sun
-    2. Embrace value for money first, but select premium if just 20% more than standard pricing
-    3. Symmetry with split occupancy
-        - Externally matches the rest of the build structures
-    4. No maintenance over low/some maintenance
-3. Move the [laundry](./section-H-requirements.md) to this location and, move the [main bathroom](./section-DF-requirements.md) beside this room
-4. Move the back door such that it is now a single step outside to level ground beside the clothes line  
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS lower-level section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level section A diagram](Lower-Level-TO-BE-section-A.svg)|
-
-Table LL-A1: Floor plan comparison
-
-
-## Requirements
+## Symmetric Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLA-REQ1|The laundry shall have an LED downlight|||
 |LLA-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
 |LLA-REQ3|The laundry shall have a cleaning products cabinet with overhead shelves|||
-|LLA-REQ4|The laundry shall be connected to the ducted heating|||
+|LLA-REQ4**|The laundry shall be connected to the ducted heating|||
 |LLA-REQ5|The laundry shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLA-REQ6|The laundry window shall be able to be opened for ventilation|||
 |LLA-REQ7|The laundry window shall have a fly screen to keep the insects out|||
@@ -65,20 +38,56 @@ Table LL-A1: Floor plan comparison
 |LLA-REQ10|The laundry shall have hot & cold water outlets for the washer|||
 |LLA-REQ11|The laundry shall have power outlets appropriately positioned for washer, dryer, iron|||
 |LLA-REQ12|The laundry shall have a linen cabinet that maximises space and storage space for iron board|||
-|LLA-REQ13|The laundry shall have a sliding door access to outside|||
+|LLA-REQ13|The laundry shall have a sliding door access to clothes line outside|||
 |LLA-REQ14|The laundry shall have a downlight to the outside area|||
+|LLA-REQ15|In winter, the laundry shall be able to bottle heat in the enclosed space to dry clothes on a drying rack|||
+|LLA-REQ16|The laundry shall be refurbished to as new condition|||
 
 
-## Refurbishing Requirements
+## Solution
 
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|LLA-REQ15|Refurbish existing appliances/fixtures if they can be reused|||
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS lower-level section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level section A diagram](Lower-Level-TO-BE-section-A.svg)|
+
+Table LL-A1: Floor plan comparison
+
+|Design principles|
+|:---|
+|Rooms/resources that are used together should be adjacent to one another|
+|Reduce overall transit as the basis of location|
+|Embrace natural lighting and reduce demand on heating/cooling systems|
+
+Table LL-A2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
+
+1. Relocate the [main bathroom](./section-DF-requirements.md) from Section A to Section DF
+2. Relocate the [laundry](./section-H-requirements.md) from Section H to Section A
+3. Move the back door to the north end of the house such that it is now beside the clothes line  
+4. Create [step down](../landscape/section-U-requirements.md) to ground level as part of Section U
+
+### Considerations
+
+1. LLA-REQ4
+    - Subject to the decision on centralised heating & cooling option selected
 
 
 ## Known issues
 
 |ID|Description|
 |:---|:---|
-|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ5|  
+|LLA-ISS-1|The outside tap on the north wall brickwork will need to be re-located about 1m to the east to clear space for the external sliding door|
+|LLA-ISS-2|The frame for the external sliding must be less than 1.7m due to room width|  
 
+
+## Photos
+
+![sliding door with tap obstruction](../landscape/photos/IMG_20201016_124657344_HDR.jpg)
+
+Photo: LSA-photo-1 - Tap obstucting area of sliding door
+
+
+## References
+1. Bunnings
+    - https://www.bunnings.com.au/johnson-tiles-500-x-500mm-white-jura-stone-gloss-ceramic-floor-tile-4-pack_p6661693

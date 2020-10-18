@@ -16,7 +16,7 @@ There is/are currently:
 
 ## Problem
 
-1. The wardrobe is built into the wall and is bulky
+1. The wardrobe is built into the wall and it is bulky
 2. There is no cooling system in this room
 3. The current window frames are old, large and difficult to open behind the fly screen
 4. There is a halogen downlight dimmer transformer installed
@@ -24,40 +24,17 @@ There is/are currently:
 6. Longevity and resale value will be impacted if there are less than three rooms
 
 
-## Solution
-
-1. Keep 1st bedroom in Section G because of the following principles:
-    * Symmetry with split occupancy
-        - Equally equitable whether on the upper or lower levels
-    * Reduce overall transit as the basis of location
-        - Close proximity to all resources
-    * Rooms/resources that are used together should be adjacent to one another
-        - Close proximity to stairs, and bathroom
-    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
-2. Choose appliances and fixtures that satisfy the following principles in order:
-    1. Symmetry with split occupancy 
-        - Same quality and fittings whether on upper or lower levels 
-    2. Embrace value for money first, but select premium if just 20% more than standard pricing
-    3. No maintenance over low/some maintenance
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
-
-Table LL-G1: Floor plan comparison
-
-
 ## Symmetric Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLG-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
-|LLG-REQ2|The bedroom shall have an appropriate number of LED downlights|||
+|LLG-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLG-REQ3|The bedroom shall be carpeted|||
 |LLG-REQ4|The bedroom shall have an appropriately sized double glazzed window|||
-|LLG-REQ5|The bedroom shall have a ducted heating vent|||
+|LLG-REQ5**|The bedroom shall have a ducted heating vent|||
 |LLG-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLG-REQ7|The bedroom shall have a centrally installed ceiling fan|||
+|LLG-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
 |LLG-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
 |LLG-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
 
@@ -66,9 +43,42 @@ Table LL-G1: Floor plan comparison
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLG-REQ10|Refurbish existing appliances/fixtures if equivalent & no loss in quality between upper and lower levels|||
-|LLG-REQ11|Remove external window blind||
-|LLG-REQ12|Replace the downlight dimmer transformer with a standard transformer|||
+|LLG-REQ10|The room shall be refurbished to as new condition|||
+|LLG-REQ11|The rooms external window blind shall be removed||
+|LLG-REQ12|The downlight dimmer transformer shall be replaced with a standard transformer|||
+
+** - Optional requirement which may prove unnecessary given the situation
+
+
+## Solution
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS lower-level Section G diagram](Lower-Level-AS-IS-section-G.svg)|![TO-BE lower-level Section G diagram](Lower-Level-TO-BE-section-G.svg)|
+
+Table LL-G1: Floor plan comparison
+
+Note, although the bedroom will remain the same size, the furnishing sizes may vary and they need not remain the same (eg. window frame size, wardrobe & position of the downlights)
+
+|Design principles|
+|:---|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
+|Symmetry with split occupancy|
+|Reduce overall transit as the basis of location|
+|Rooms/resources that are used together should be adjacent to one another|
+|Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
+
+Table LL-G2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
+
+1. Keep the 1st bedroom in the same location and refurbish it in line with non-master bedrooms  and the rest of the house  
+
+### Considerations
+
+1. LLG-REQ5 & LLG-REQ7
+    - Subject to the decision on centralised heating & cooling option selected
 
 
 ## Known issues
@@ -77,3 +87,19 @@ Table LL-G1: Floor plan comparison
 |:---|:---|
 |LLG-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
 |LLG-ISS-2|The south most facing downlight experiences routine faults or flickering. I suspect that there is a fault in the wiring or in the downlight housing|
+
+
+## Photos
+
+![full size window](./photos/IMG_20201016_124830063.jpg)
+
+Photo: LSE-photo-1 - Full size window and external blind
+
+
+## References
+
+1. Ikea
+    - https://www.ikea.com/au/en/p/elvarli-2-sections-white-s59302996/
+    - https://www.ikea.com/au/en/p/elvarli-1-section-white-s19157901/
+2. Carpet Tiles 1
+    - https://www.carpettiles1.com.au/carpet-tiles/product-details/matin-dark-tan-brown--model:cpt-393

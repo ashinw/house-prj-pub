@@ -18,34 +18,46 @@ Figure UL-R1: Expected floor plan
 1. Longevity and resale value will be impacted if there are less than three rooms
 2. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
-## Solution
-
-1. Locate 1st bedroom in Section R because of the following principles:
-    * Symmetry with split occupancy
-        - Equally equitable whether on the upper or lower levels
-    * Reduce overall transit as the basis of location
-        - Close proximity to all resources
-    * Rooms/resources that are used together should be adjacent to one another
-        - Close proximity to stairs, and bathroom
-    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
-2. Choose appliances and fixtures that satisfy the following principles in order:
-    1. Symmetry with split occupancy 
-        - Same quality and fittings whether on upper or lower levels 
-    2. Embrace value for money first, but select premium if just 20% more than standard pricing
-    3. No maintenance over low/some maintenance
-        - External window cleaning will rarely occur
-
 
 ## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLR-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
-|LLR-REQ2|The bedroom shall have an appropriate number of LED downlights|||
+|LLR-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLR-REQ3|The bedroom shall be carpeted|||
 |LLR-REQ4|The bedroom shall have an appropriately sized double glazzed window|||
-|LLR-REQ5|The bedroom shall have a ducted heating vent|||
+|LLR-REQ5**|The bedroom shall have a ducted heating vent|||
 |LLR-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLR-REQ7|The bedroom shall have a centrally installed ceiling fan|||
+|LLR-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
 |LLR-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
 |LLR-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
+
+
+## Solution
+
+|Design principles|
+|:---|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
+|Symmetry with split occupancy|
+|Reduce overall transit as the basis of location|
+|Rooms/resources that are used together should be adjacent to one another|
+|Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
+
+Table UL-R2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
+
+1. Build new 1st bedroom in Section R
+
+### Considerations
+
+1. LLR-REQ5 & LLR-REQ7
+    - Subject to the decision on centralised heating & cooling option selected
+
+
+## References
+
+1. Carpet Tiles 1
+    - https://www.carpettiles1.com.au/carpet-tiles/product-details/matin-dark-tan-brown--model:cpt-393

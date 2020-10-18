@@ -20,31 +20,37 @@ There is/are currently:
 2. There is no garage and the car port driveway entry is too narrow for a standard modern vehicle sqeeze through between the house and the fence
 3. Our smaller vehicle is almost always street parked which means groceries are carried further after a shopping run
 4. Parking on the grass area to the east of the house frequently creates skid marks and a lot of mud due to a lot of water retention on the soils surface 
-5. Vehicles must navigate around a council to enter the preferred location
+5. Vehicles must navigate around a council tree to enter the preferred location
 
 
 ## Solution
-
-Landscape the east frontyard to accomodate vehicle parking
-1. Remove brick letterbox and east most garden bed
-2. Remove original concrete foot path to entry
-3. Flatten the entire area in preparation for the concreting
-4. Floor the frontyard with exposed [aggregate concrete](#References) #1 Area = 83m^2
-
-Applicable principles:
-* Embrace value for money first
-    - Avoid paying for cross-over permit and creating cross-over
-    - Aggregate concrete is better value for money over other outdoor flooring solutions
-* No maintenance over low/some maintenance
-    - Reduced amount of garden maintenance
-* Reduce overall transit as the basis of location
-    - Short distance and travel time from car to kitchen to empty groceries
 
 |Actual|Expected|
 |:---:|:---:|
 |![AS-IS landscape Section V diagram](Landscape-AS-IS-section-V.svg)|![TO-BE landscape Section V diagram](Landscape-TO-BE-section-V.svg)|
 
 Table LS-U1: Landscape comparison
+
+|Design principles|
+|:---|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
+|Reduce overall transit as the basis of location|
+
+Table LS-V2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
+Landscape the east frontyard to accomodate vehicle parking
+1. Remove brick letterbox and east most garden bed
+2. Remove original concrete foot path to entry
+3. Flatten the entire area in preparation for the concreting
+4. Floor the frontyard with exposed [aggregate concrete](#References) #1 Area = 83m^2
+
+### Considerations
+* Avoid paying for cross-over permit (2k?) and creating cross-over (2k?)
+* Aggregate concrete is better value for money over other outdoor flooring solutions
+* Reduced amount of garden maintenance
+* Short distance and travel time from car to kitchen to empty groceries
 
 
 ## Requirements

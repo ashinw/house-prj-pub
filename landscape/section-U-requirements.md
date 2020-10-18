@@ -25,7 +25,36 @@ There is/are currently:
 7. There is no privacy in the backyard
 
 
+## Requirements
+
+|ID|Description|Est. Cost|Alternative Solution Cost|
+|:---|:---|:---|:---|
+|LSU-REQ1|The north west fence line area shall be cleared to accommodate a shed extension and concreting|||
+|LSU-REQ2|The backyard shall be floored with aggregate concrete or something similar|||
+|LSU-REQ3|The backyard shall have a step entry into the laundry|||
+|LSU-REQ4|The backyard shall replace the existing shed in the north of the property with a larger one|||
+|LSU-REQ5|There shall be a step(s) up to the  laundry|||
+|LSU-REQ6|They carport shall be refurbished|||
+|LSU-REQ7|A privacy gate south of the carport shall be installed|||
+
+
 ## Solution
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS landscape Section U diagram](Landscape-AS-IS-section-U.svg)|![TO-BE landscape Section U diagram](Landscape-TO-BE-section-U.svg)|
+
+Table LS-U1: Landscape comparison
+
+|Design principles|
+|:---|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
+|Reduce overall transit as the basis of location|
+
+Table LS-U2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
 
 Landscape the north backyard and make it more fit for purpose with better space utilisation
 1. Remove stump, tree and remaining bushes along the north west fence line
@@ -37,34 +66,13 @@ Landscape the north backyard and make it more fit for purpose with better space 
 7. Repair/replace the car port's rusted gutters
 8. Install car port entrance [corrogated gate](#References) #3 into backyard
 
-Applicable principles:
-* Embrace value for money first
-    - Aggregate concrete is better value for money over other outdoor flooring solutions
-* No maintenance over low/some maintenance
-    - The tree drops a lot of foliage and attracts many birds
-    - Aggregate concrete has little/no maintenance 
-* Reduce overall transit as the basis of location
-    - The larger shed will still be in close proximity of the back door for moving things in and out of storage
 
+### Considerations
 
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS landscape Section U diagram](Landscape-AS-IS-section-U.svg)|![TO-BE landscape Section U diagram](Landscape-TO-BE-section-U.svg)|
-
-Table LS-U1: Landscape comparison
-
-
-## Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|LSU-REQ1|The north west fence line area shall be cleared to accommodate a shed extension and concreting|||
-|LSU-REQ2|The backyard shall be floored with aggregate concrete or something similar|||
-|LSU-REQ3|The backyard shall have a step entry into the laundry|||
-|LSU-REQ4|The backyard shall have a larger shed in the north of the property|||
-|LSU-REQ5|Install steps down from laundry|||
-|LSU-REQ6|They carport shall be refurbished|||
-|LSU-REQ7|A privacy gate south of the carport shall be installed|||
+* Aggregate concrete is better value for money over other outdoor flooring solutions
+* The tree drops a lot of foliage and attracts many birds
+* Aggregate concrete has little/no maintenance 
+* The larger shed will still be in close proximity of the back door for moving things in and out of storage
 
 
 ## Photos

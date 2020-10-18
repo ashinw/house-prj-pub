@@ -26,9 +26,36 @@ There is/are currently:
 7. The large gaps between the palings prohibit privacy
 8. There is a lot of water retension in the grass areas and it can be slushy walking through the gate to the deck
 9. The stair case has a loose step and is currently supported by a red oil jack
+10. The main outdoor garden tap that is connected to the meter occasionally drips despite being tighly closed
+
+## Requirements
+
+|ID|Description|Est. Cost|Alternative Solution Cost|
+|:---|:---|:---|:---|
+|LSW-REQ1|A new fence with the neighbouring south west property shall be erected|||
+|LSW-REQ2|The main fence along the south east shall be refurbished|||
+|LSW-REQ3|The main fence shall have a shade cloth pinned into its inner side providing privacy and reduced reflected light|||
+|LSW-REQ4|The deck shall be refurbished|||
+|LSW-REQ5|There shall be an aggregate concrete floor or similar to move between the car port and the deck|||
+|LSW-REQ6|There shall be a new garden tap connected to the meter|||
 
 
 ## Solution
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS landscape Section W diagram](Landscape-AS-IS-section-W.svg)|![TO-BE landscape Section W diagram](Landscape-TO-BE-section-W.svg)|
+
+Table LS-U1: Landscape comparison
+
+|Design principles|
+|:---|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
+
+Table LS-W2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
 
 Landscape the south backyard to make more fit for purpose
 1. Organise with neighbour and replace fence with durable [colorbond fence](./#References) #2 for length = 24m
@@ -39,29 +66,12 @@ Landscape the south backyard to make more fit for purpose
 6. Repair/replace damaged gate between deck and new carport
 7. Replace broken timber plank on side of deck and stain plank
 8. Floor the gate passage and deck entry with exposed [aggregate concrete](#References) #1 Area = 3m^2
+9. Replace garden tap
 
-Applicable principles:
-* Embrace value for money first
-    - Corrugated fencing is just 10% more than timber
-    - Aggregate concrete is better value for money over other outdoor flooring solutions
-    - Shade cloth & darker paint along fence line is cheap solution to reducing reflective light/heat
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS landscape Section W diagram](Landscape-AS-IS-section-W.svg)|![TO-BE landscape Section W diagram](Landscape-TO-BE-section-W.svg)|
-
-Table LS-U1: Landscape comparison
-
-
-## Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|LSW-REQ1|A new fence with the neighbouring south west property will be erected|||
-|LSW-REQ2|The main fence along the south east shall be refurbished|||
-|LSW-REQ3|The main fence shall have a shade cloth pinned into its inner side providing privacy and reduced reflected light|||
-|LSW-REQ4|The deck shall be refurbished|||
-|LSW-REQ5|There shall be an aggregate concrete floor or similar to move between the car port and the deck|||
+### Consideratiions
+* Corrugated fencing is just 10% more than timber
+* Aggregate concrete is better value for money over other outdoor flooring solutions
+* Shade cloth & darker paint along fence line is cheap solution to reducing reflective light/heat
 
 
 ## Photos

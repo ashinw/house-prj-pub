@@ -1,6 +1,6 @@
 # Landscape Requirements
 
-The landscape requirements are requirements that should be satisfied which are dis-joined to the core building structure.
+The landscape requirements are requirements that are dis-joined to the core building structure.
 
 Again, section labels have been applied to present regions that require attention.
 

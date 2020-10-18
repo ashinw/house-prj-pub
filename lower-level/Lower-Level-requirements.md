@@ -2,7 +2,7 @@
 
 The lower-level refers to the entire building structure that is directly connected to the ground. 
 
-In the first diagram ine the below table below, "Actual" view represents the current house's room floor plan mapped with section labels. The "Expected" view represents how some rooms have been repurposed, moved or merged. With these transformations we will use section labels which represent regions as the basis for analysing comparisons to quote the scope of work on.
+In the diagrams in the tables below, "Actual" view represents the current house's room layout/floor plan mapped with section labels. The "Expected" layout view represents how some rooms have been repurposed, moved or merged. With these transformations the section labels represent the same positions and form a basis for comparisons to quoting the cost of the lower level.
 
 |Actual|Expected|
 |:---:|:---:|
@@ -14,7 +14,7 @@ Table LL1 outlines the two views side by side highlighting that all of the struc
 
 I have deliberately tried to reduce the number of structural changes in order to reduce the overrall costs.
 
-Note, that a stair case has also been modeled to ensure that quote accouts for this structural change to.
+Note, that a stair case has also been modeled to ensure that Tim/Andre's quote accounts for this structural change too.
 
 Use the following diagrams in Table LL2 (see below) to get an overall visualisation of the floor plan in sections outlined.
 
@@ -24,7 +24,7 @@ Use the following diagrams in Table LL2 (see below) to get an overall visualisat
 
 Table LL2: Floor plan comparison
 
-Using the above diagrams as a guide, visit each link in the Lower-Level Section Requirements table below to assess the complete set of requirements for the lower-level.
+Using the above diagrams as a guide, visit each link in the Lower-Level Section Requirements mapping table below to assess the complete set of requirements for the lower-level.
 
 |Section Group|Was|Will be|
 |:---|:---|:---|
@@ -40,4 +40,4 @@ Using the above diagrams as a guide, visit each link in the Lower-Level Section 
 |[Section K](./section-K-requirements.md)|Lounge room|Lounge room|
 |[Section L](./section-L-requirements.md)|Rumpus room|Rumpus room|
 
-Table LL3: Lower-Level Section Requirements
+Table LL3: Lower-Level Section Requirements Mapping table

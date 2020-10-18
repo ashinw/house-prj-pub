@@ -10,8 +10,8 @@ Figure LL2: Expected layout
 
 There is/are currently:
 * Four downlights installed operating from a dimmer transformer
-* A old style home theatre setup installed
-* A sliding door & wall to the north to main entrance & hall
+* An old style home theatre setup installed
+* A sliding door & north wall to main entrance & hall
 * A south facing sliding door to the verandah and deck
 * A ducted heating vent beside the east window
 
@@ -31,33 +31,6 @@ There is/are currently:
 11. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
-## Solution
-
-1. Keep the lounge room in Section K because of the following principles:
-    * Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
-        - Lounge areas are often highly utilised areas in the house
-    * Rooms/resources that are used together should be adjacent to one another
-        - Lounge areas can pull in the space and resources of the dining area
-    * Symmetry with split occupancy
-        - Equally equitable whether on the upper or lower levels
-2. Choose window positions & sizes that satisfy the following principles in order:
-    1. Embrace natural lighting and reduce demand on heating/cooling systems
-        - West facing windows invite a lot of heat/sun
-    2. Embrace value for money first, but select premium if just 20% more than standard pricing
-    3. Symmetry with split occupancy
-        - Externally matches the rest of the build structures
-    4. No maintenance over low/some maintenance
-
-1. Remove all old technology, wiring and/ore housing
-2. Use double glazzed windows on all large windowing surfaces
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS lower-level Section K diagram](Lower-Level-AS-IS-section-K.svg)|![TO-BE lower-level Section K diagram](Lower-Level-TO-BE-section-K.svg)|
-
-Table LL-K1: Floor plan comparison
-
-
 ## Symmetric Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
@@ -65,35 +38,53 @@ Table LL-K1: Floor plan comparison
 |LLK-REQ1|The lounge room shall have an appropriate number of power outlets installed near each corner|||
 |LLK-REQ2|The lounge room shall have an appropriate number of LED downlights|||
 |LLK-REQ3|The lounge room shall be carpeted|||
-|LLK-REQ4|The lounge room shall be connected to the ducted heating|||
+|LLK-REQ4**|The lounge room shall be connected to the ducted heating|||
 |LLK-REQ5|The lounge room shall have an appropriately sized double glazzed windows|||
 |LLK-REQ6|The lounge room windows shall be able to be opened for ventilation|||
 |LLK-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
 |LLK-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||
-|LLK-REQ9|The lounge room shall have a centrally installed ceiling fan|||
-|LLK-REQ10|The same appliance/fixtures shall have been installed as with the other lounge room|||
+|LLK-REQ9**|The lounge room shall have a centrally installed ceiling fan|||
+|LLK-REQ11|The same appliance/fixtures shall have been installed as with the other lounge room|||
 
 
-## Refurbishinf Requirements
+## Refurbishing Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLK-REQ11|Refurbish existing appliances/fixtures if they can be reused|||
-|LLK-REQ12|Replace carpet|||
-|LLK-REQ13|Replace window & frame with double glazzed product|||
-|LLK-REQ14|Replace sliding door windows with double glazzing exising frames product|||
-|LLK-REQ15|Replace curtains with fitted night/day blinds|||
-|LLK-REQ16|Replace east & west powerpoints outlets with more sockets|||
-|LLK-REQ17|Repaint|||
-|LLK-REQ18|Install ceiling fan|||
-|LLK-REQ19|Replace ducted heating vent|||
-|LLK-REQ20|Remove cat5 port bracket and cables to [original office room](./section-E-requirements.md)|||
-|LLK-REQ21|Remove secondary UHF TV port bracket and splitter to port|||
-|LLK-REQ22|Replace diming downlight  transformer with standard transformer|||
-|LLK-REQ23|Remove RCA/VGA port brackets & wiring from east wall that connects to ceiling|||
-|LLK-REQ24|Remove projector and mounting harness from ceiling|||
-|LLK-REQ25|Remove projector screen and mount points|||
-|LLK-REQ26|Replace plaster board where required|||
+|LLK-REQ12|The windows on the external sliding door to the verandah shall be replaced with double glazzing exising frames product|||
+|LLK-REQ13|The curtains for the external sliding door to the verandah shall be replaced with fitted night/day blinds|||
+|LLK-REQ14|All old technology including cat5 port bracket and cables to [original office room](./section-E-requirements.md), secondary UHF TV port, RCA/VGA port, projector & screen shall be removed|||
+|LLK-REQ15|All diming downlight transformers shall be replaced with standard transformer|||
+|LLK-REQ16|The lounge shall be refurbished to as new condition|||
+|LLK-REQ17|The verandah concrete flooring and yellow fence shall be refurbished to as new condition|||
+
+## Solution
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS lower-level Section K diagram](Lower-Level-AS-IS-section-K.svg)|![TO-BE lower-level Section K diagram](Lower-Level-TO-BE-section-K.svg)|
+
+Table LL-K1: Floor plan comparison
+
+|Design principles|
+|:---|
+|Rooms/resources that are used together should be adjacent to one another|
+|Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
+|Symmetry with split occupancy|
+|Embrace natural lighting and reduce demand on heating/cooling systems|
+
+Table LL-K2: The design principles that should be influencing the solution's location/choices/decisions
+
+### Steps
+
+1. Refurbish the lounge room
+2. Remove all old technology, wiring and/or housing
+3. Refurbish verandah and outdoor entrance
+
+### Considerations
+
+1. LLK-REQ4 & LLK-REQ9
+    - Subject to the decision on centralised heating & cooling option selected
 
 
 ## Known issues
@@ -102,3 +93,8 @@ Table LL-K1: Floor plan comparison
 |:---|:---|
 |LLK-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
 |LLK-ISS-2|Need to investigate whether we dedicate one TV aerial per level as there is no signal repeaters installed and splitting reduces the signal strength. Note, there are currently four splitting points already installed throughout the house|
+
+
+## References
+1. Carpet Tiles 1
+    - https://www.carpettiles1.com.au/carpet-tiles/product-details/matin-dark-tan-brown--model:cpt-393
