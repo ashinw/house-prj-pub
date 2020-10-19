@@ -4,7 +4,7 @@
 
 Section R will be the 1st bedroom on the upper level.
 
-![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
+![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
 Figure UL1: Expected layout
 

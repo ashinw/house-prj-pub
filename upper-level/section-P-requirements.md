@@ -10,7 +10,7 @@ The study is designed to be an open space.
 * People should be able to work together around a table
 * The west facing windows if installed can invite a lot of heat and light
 
-![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
+![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
 Figure UL1: Expected layout
 

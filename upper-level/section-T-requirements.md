@@ -6,7 +6,7 @@ Section T will be the lounge room on the upper level.
 
 Note, west facing windows can invite a lot of heat & light.
 
-![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
+![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
 Figure UL1: Expected layout
 
