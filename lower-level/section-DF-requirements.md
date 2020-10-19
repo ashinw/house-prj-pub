@@ -45,7 +45,7 @@ There is/are currently:
 |LLDF-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
 |LLDF-REQ9|The bathroom shall have an exhaust fan|||
 |LLDF-REQ10**|The bathroom shall be connected to the ducted heating|||
-|LLDF-REQ11|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLDF-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLDF-REQ12|The bathroom window shall be able to be opened for ventilation|||
 |LLDF-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
 |LLDF-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
@@ -66,7 +66,7 @@ There is/are currently:
 |LLDF-REQ23|The stair case's central platform shall host a shared storage cabinet|||
 |LLDF-REQ24|The stair case's area shall have a powerpoint outlet near storage cabinet|||
 |LLDF-REQ25|The stair case's area shall host the NBN HFC Coaxial port and bracket, NBN modem and WIFI above storage cabinet|||
-|LLDF-REQ26|The stair case area shall have a double glazzed window and frame above the cabinet spanning both levels|||
+|LLDF-REQ26|The stair case area shall have a double glazed window and frame above the cabinet spanning both levels|||
 |LLDF-REQ27|The stair case area's window shall have fitted night/day internal roller blind with sun/heat block|||
 |LLDF-REQ28|The bathroom and stair shall be refurbished to as new condition|||
 |LLDF-REQ29|The external window blind shall be removed|||

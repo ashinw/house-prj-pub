@@ -27,7 +27,7 @@ Figure UL-O1: Expected floor plan
 |LLO-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLO-REQ3|The bedroom shall have a UHF TV port socket installed and connected to the external aerial|||
 |LLO-REQ4|The bedroom shall be carpeted|||
-|LLO-REQ5|The bedroom shall have an appropriately sized double glazzed window|||
+|LLO-REQ5|The bedroom shall have an appropriately sized double glazed window|||
 |LLO-REQ6**|The bedroom shall have a ducted heating vent|||
 |LLO-REQ7|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLO-REQ8|The bedroom shall have power outlets appropriately positioned on the north east, north west and south east sides|||

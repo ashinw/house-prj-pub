@@ -26,7 +26,7 @@ Figure UL-R1: Expected floor plan
 |LLR-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
 |LLR-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLR-REQ3|The bedroom shall be carpeted|||
-|LLR-REQ4|The bedroom shall have an appropriately sized double glazzed window|||
+|LLR-REQ4|The bedroom shall have an appropriately sized double glazed window|||
 |LLR-REQ5**|The bedroom shall have a ducted heating vent|||
 |LLR-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLR-REQ7**|The bedroom shall have a centrally installed ceiling fan|||

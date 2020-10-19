@@ -31,7 +31,7 @@ There is/are currently:
 |LLG-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
 |LLG-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLG-REQ3|The bedroom shall be carpeted|||
-|LLG-REQ4|The bedroom shall have an appropriately sized double glazzed window|||
+|LLG-REQ4|The bedroom shall have an appropriately sized double glazed window|||
 |LLG-REQ5**|The bedroom shall have a ducted heating vent|||
 |LLG-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLG-REQ7**|The bedroom shall have a centrally installed ceiling fan|||

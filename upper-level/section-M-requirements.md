@@ -33,7 +33,7 @@ Figure UL-M1: Expected floor plan
 |LLM-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
 |LLM-REQ9|The bathroom shall have an exhaust fan|||
 |LLM-REQ10**|The bathroom shall be connected to the ducted heating|||
-|LLM-REQ11|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLM-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLM-REQ12|The bathroom window shall be able to be opened for ventilation|||
 |LLM-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
 |LLM-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||

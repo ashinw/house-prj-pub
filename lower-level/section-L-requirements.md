@@ -34,7 +34,7 @@ There is/are currently:
 |:---|:---|:---|:---|
 |LLL-REQ1|The rumpus room shall have a stair case that matches the [multi-level stair case](./section-DF-requirements.md)|||
 |LLL-REQ2|The rumpus room shall have carpet/fixtures/furnishings that are consistent with the rest of the house|||
-|LLL-REQ3|The rumpus room shall have double glazzed windows|||
+|LLL-REQ3|The rumpus room shall have double glazed windows|||
 |LLL-REQ4|The rumpus room windows shall be able to be opened for ventilation|||
 |LLL-REQ5|The rumpus room windows shall have a fly screen to keep the insects out|||
 |LLL-REQ6|The rumpus room windows shall have a fitted night/day internal roller blind with sun/heat block|||

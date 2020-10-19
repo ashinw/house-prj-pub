@@ -39,7 +39,7 @@ There is/are currently:
 |LLK-REQ2|The lounge room shall have an appropriate number of LED downlights|||
 |LLK-REQ3|The lounge room shall be carpeted|||
 |LLK-REQ4**|The lounge room shall be connected to the ducted heating|||
-|LLK-REQ5|The lounge room shall have an appropriately sized double glazzed windows|||
+|LLK-REQ5|The lounge room shall have an appropriately sized double glazed windows|||
 |LLK-REQ6|The lounge room windows shall be able to be opened for ventilation|||
 |LLK-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
 |LLK-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||

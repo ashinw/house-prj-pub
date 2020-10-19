@@ -31,7 +31,7 @@ Figure UL-N1: Expected floor plan
 |LLN-REQ7|The bathroom shall have a mirror|||
 |LLN-REQ8|The bathroom shall have an exhaust fan|||
 |LLN-REQ9**|The bathroom shall be connected to the ducted heating|||
-|LLN-REQ10|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLN-REQ10|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLN-REQ11|The bathroom window shall be able to be opened for ventilation|||
 |LLN-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
 |LLN-REQ13**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||

@@ -6,7 +6,7 @@ Section S will be the dining room located beside the multi-level stair case on t
 
 Note that west facing windows if installed can invite a lot of heat & light.
 
-![TO-BE upper-level diagram](upper-Level-TO-BE-sections.svg)
+![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
 Figure UL1: Expected layout
 
@@ -29,7 +29,7 @@ Figure UL-S1: Expected floor plan
 |LLS-REQ2|The dining room shall have an appropriate number of LED downlights|||
 |LLS-REQ3|The dining room shall have the same tiled flooring as the hall|||
 |LLS-REQ4**|The dining room shall be connected to the ducted heating|||
-|LLS-REQ5|The dining room shall have an appropriately sized double glazzed window|||
+|LLS-REQ5|The dining room shall have an appropriately sized double glazed window|||
 |LLS-REQ6|The dining room window shall be able to be opened for ventilation|||
 |LLS-REQ7|The dining room window shall have a fly screen to keep the insects out|||
 |LLS-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||

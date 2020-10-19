@@ -32,7 +32,7 @@ Figure UL-P1: Expected floor plan
 |LLP-REQ2|The study shall have an appropriate number of LED downlights|||
 |LLP-REQ3|The study shall be carpeted|||
 |LLP-REQ4**|The study shall be connected to the ducted heating|||
-|LLP-REQ5|The study shall have an appropriately sized double glazzed window|||
+|LLP-REQ5|The study shall have an appropriately sized double glazed window|||
 |LLP-REQ6|The study window shall be able to be opened for ventilation|||
 |LLP-REQ7|The study window shall have a fly screen to keep the insects out|||
 |LLP-REQ8|The study shall have a fitted night/day internal roller blind with sun/heat block|||

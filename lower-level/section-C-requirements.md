@@ -38,7 +38,7 @@ There is/are currently:
 |LLC-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLC-REQ3|The bedroom shall have a UHF TV port socket installed and connected to the external aerial|||
 |LLC-REQ4|The bedroom shall be carpeted|||
-|LLC-REQ5|The bedroom shall have an appropriately sized double glazzed window|||
+|LLC-REQ5|The bedroom shall have an appropriately sized double glazed window|||
 |LLC-REQ6**|The bedroom shall have a ducted heating vent|||
 |LLC-REQ7|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLC-REQ8|The bedroom shall have power outlets appropriately positioned on the north east, north west and south east sides|||

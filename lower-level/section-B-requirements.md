@@ -36,7 +36,7 @@ There is/are currently:
 |LLB-REQ7|The bathroom shall have a mirror|||
 |LLB-REQ8|The bathroom shall have an exhaust fan|||
 |LLB-REQ9**|The bathroom shall be connected to the ducted heating|||
-|LLB-REQ10|The bathroom shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLB-REQ10|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLB-REQ11|The bathroom window shall be able to be opened for ventilation|||
 |LLB-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
 |LLB-REQ13**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||

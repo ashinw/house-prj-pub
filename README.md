@@ -32,7 +32,7 @@ Please note:
 
 ## Design principles
 
-There are design principles that I have used to govern my architectural choices, and design decisions. They should equally inform your options with respect to fixtures, furnishings and other build related decisions and considerations. 
+There are design principles that I have used to govern my architectural choices, and design decisions. They should equally inform your options with respect to architecture, design, fixtures, furnishings and other build related decisions and considerations. 
 
 1. Embrace value for money first, but select premium if just 20% more than standard pricing
 2. No maintenance over low/some maintenance

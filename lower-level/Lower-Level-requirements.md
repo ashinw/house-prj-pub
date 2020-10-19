@@ -20,7 +20,7 @@ Use the following diagrams in Table LL2 (see below) to get an overall visualisat
 
 |Actual|Expected|
 |:---:|:---:|
-|![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE lower-level diagram](Lower-Level-TO-BE-floor-plan.svg)|
+|![TO-BE lower-level diagram](Lower-Level-TO-BE-floor-plan.svg)|![TO-BE lower-level diagram](Lower-Level-TO-BE-floor-plan.svg)|
 
 Table LL2: Floor plan comparison
 

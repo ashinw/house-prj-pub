@@ -28,7 +28,7 @@ There is/are currently:
 
 ## Problem
 
-1. In summer this whole western section is almost unbearable. It's the hostest area in the house even with the external kitchen window blind down and all the night/day blockout blinds closed
+1. In summer this whole western section is almost unbearable. It's the hottest area in the house even with the external kitchen window blind down and all the night/day blockout blinds closed
 2. The external window frames are weathered from the climate and barely holding together
 3. Although the kitchen has a more modern (24 years ago) design, its south west cooking & preperation area is too cramped for even a single cook
 4. The large fridge sticks out by approx 10+cm 
@@ -45,7 +45,7 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLH-REQ1**|The kitchen shall be made larger to accomodate more cooks working in collaboration. The meals area's ducted heating vent will need to be removed|||
-|LLH-REQ2|The kitchen windows shall be double glazzed and appropriately sized for optimal light and temperature control|||
+|LLH-REQ2|The kitchen windows shall be double glazed and appropriately sized for optimal light and temperature control|||
 |LLH-REQ3|The kitchen windows shall have night/day blinds for improved temperature control and privacy|||
 |LLH-REQ4|The kitchen shall have a long work bench with distributed space to avoid people getting in each anothers way|||
 |LLH-REQ5|The kitchen shall have a large island workstation|||

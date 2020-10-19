@@ -30,7 +30,7 @@ There is/are currently:
 |LLA-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
 |LLA-REQ3|The laundry shall have a cleaning products cabinet with overhead shelves|||
 |LLA-REQ4**|The laundry shall be connected to the ducted heating|||
-|LLA-REQ5|The laundry shall have an appropriately sized double glazzed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLA-REQ5|The laundry shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLA-REQ6|The laundry window shall be able to be opened for ventilation|||
 |LLA-REQ7|The laundry window shall have a fly screen to keep the insects out|||
 |LLA-REQ8|The laundry shall have a fitted night/day internal roller blind with sun/heat block|||

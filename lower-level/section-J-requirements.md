@@ -37,7 +37,7 @@ There is/are currently:
 |LLJ-REQ2|The dining room shall have an appropriate number of LED downlights|||
 |LLJ-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
 |LLJ-REQ4**|The dining room shall be connected to the ducted heating|||
-|LLJ-REQ5|The dining room shall have an appropriately sized double glazzed window|||
+|LLJ-REQ5|The dining room shall have an appropriately sized double glazed window|||
 |LLJ-REQ6|The dining room window shall be able to be opened for ventilation|||
 |LLJ-REQ7|The dining room window shall have a fly screen to keep the insects out|||
 |LLJ-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
