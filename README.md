@@ -84,7 +84,7 @@ The requirements have been organised into the following main categories:
     <td align="center"><b>Lower</b></td><td align="center"><b>Upper</b></td>
   </tr>
   <tr>
-    <td valign="top"><img src="./lower-level/Lower-Level-AS-IS-floor-plan.svg"></td><td valign="top"><img src="./upper-level/Upper-Level-TO-BE-floor-plan.svg"></td>
+    <td valign="top"><img src="./lower-level/Lower-Level-TO-BE-floor-plan.svg"></td><td valign="top"><img src="./upper-level/Upper-Level-TO-BE-floor-plan.svg"></td>
   </tr>
 </table>
 

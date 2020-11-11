@@ -2,7 +2,7 @@
 
 ## Context
 
-Section V represents the frontyard for the property that leeds from the footpath to the front door.
+Section V represents the frontyard for the property that leads from the footpath to the front door.
 
 ![TO-BE landscape diagram](Landscape-TO-BE.svg)
 
@@ -17,7 +17,7 @@ There is/are currently:
 
 ## Problem
 1. There is a slope from driveway to the front of the house
-2. There is no garage and the car port driveway entry is too narrow for a standard modern vehicle sqeeze through between the house and the fence
+2. There is no garage and the car port driveway entry is too narrow for a standard modern vehicle to sqeeze through between the house and the fence
 3. Our smaller vehicle is almost always street parked which means groceries are carried further after a shopping run
 4. Parking on the grass area to the east of the house frequently creates skid marks and a lot of mud due to a lot of water retention on the soils surface 
 5. Vehicles must navigate around a council tree to enter the preferred location
