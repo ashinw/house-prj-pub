@@ -1,8 +1,8 @@
-# Section DF - Main bathroom and Multi-level stair case
+# Section DF - Laundry and Multi-level stair case [shared resource]
 
 ## Context
 
-Section DF was originally the 3rd bedroom that was closest to the original bathroom. The new bathroom will now be relocated here in a slightly more accessible location.
+Section DF was originally the 3rd bedroom that was situated beside the laundry to south.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -28,47 +28,44 @@ There is/are currently:
 5. There is no cooling system in this room
 6. The current window frames are old, large and difficult to open behind the fly screen
 7. The curtains are heavy and cumbersome to operate
-8. The Symmetry principle will be violated because the laundry shall now be moved to the original main bathroom's location 
 
 
 ## Symmetric Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLDF-REQ1|The bathroom shall have an LED downlight|||
-|LLDF-REQ2|The bathroom shall have a sink with ceramic washer taps|||
-|LLDF-REQ3|The bathroom shall have a toilet|||
-|LLDF-REQ4|The bathroom shall have a cabinet|||
-|LLDF-REQ5|The bathroom shall have heat lamps|||
-|LLDF-REQ6|The bathroom shall have a shower with ceramic washer taps|||
-|LLDF-REQ7|The bathroom shall have a mirror|||
-|LLDF-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
-|LLDF-REQ9|The bathroom shall have an exhaust fan|||
-|LLDF-REQ10**|The bathroom shall be connected to the ducted heating|||
-|LLDF-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLDF-REQ12|The bathroom window shall be able to be opened for ventilation|||
-|LLDF-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
-|LLDF-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLDF-REQ15|The bathroom's floor shall be tiled|||
-|LLDF-REQ16|The bathroom shall have power outlets appropriately positioned|||
-|LLDF-REQ17|The same appliance/fixtures shall have been installed in similar positions as the other main bathroom [note, there are slight difference in size]|||
-
+|LLDF-REQ1|The laundry shall have an LED downlight|||
+|LLDF-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
+|LLDF-REQ3|The laundry shall have a cleaning products cabinet with overhead shelves|||
+|LLDF-REQ4**|The laundry shall be connected to the ducted heating|||
+|LLDF-REQ5|The laundry shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLDF-REQ6|The laundry window shall be able to be opened for ventilation|||
+|LLDF-REQ7|The laundry window shall have a fly screen to keep the insects out|||
+|LLDF-REQ8|The laundry shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLDF-REQ9|The laundry's floor shall be tiled|||
+|LLDF-REQ10|The laundry shall have hot & cold water outlets for the washer|||
+|LLDF-REQ11|The laundry shall have power outlets appropriately positioned for washer, dryer, iron|||
+|LLDF-REQ12|The laundry shall have a linen cabinet that maximises space and storage space for iron board|||
+|LLDF-REQ13|The laundry shall have a sliding door access to clothes line outside|||
+|LLDF-REQ14|The laundry shall have a downlight to the outside area|||
+|LLDF-REQ15|In winter, the laundry shall be able to bottle heat in the enclosed space to dry clothes on a drying rack|||
+|LLDF-REQ16|The laundry shall be refurbished to as new condition|||
 
 ## New/Refurbishing Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLDF-REQ18|The bathroom shall have a south wall against multi-level stair case|||
-|LLDF-REQ19|The bathroom wall shall now be extend along the north east and the door frame moved to accomodate a shower|||
-|LLDF-REQ20**|The ducted heating vent shall be relocated to an appropriate position in the bathroom|||
+|LLDF-REQ18|The laundry shall have an accordion door to south side against multi-level stair case to access the storage under the stair case. Note, the stair case shall also have a small accordion door on the south side too|||
+|LLDF-REQ19|The laundry wall shall now be extend along the north east and the door frame moved to accomodate a shower|||
+|LLDF-REQ20**|The ducted heating vent shall be relocated to an appropriate position in the laundry|||
 |LLDF-REQ21|The stair case and hall flooring shall be replaced and consistent across all wet areas|||
 |LLDF-REQ22|The stair case shall not be bulky|||
 |LLDF-REQ23|The stair case's central platform shall host a shared storage cabinet|||
 |LLDF-REQ24|The stair case's area shall have a powerpoint outlet near storage cabinet|||
 |LLDF-REQ25|The stair case's area shall host the NBN HFC Coaxial port and bracket, NBN modem and WIFI above storage cabinet|||
-|LLDF-REQ26|The stair case area shall have a double glazed window and frame above the cabinet spanning both levels|||
+|LLDF-REQ26|The stair case area shall have a double glazed window and frame above the cabinet for the top level only|||
 |LLDF-REQ27|The stair case area's window shall have fitted night/day internal roller blind with sun/heat block|||
-|LLDF-REQ28|The bathroom and stair shall be refurbished to as new condition|||
+|LLDF-REQ28|The laundry and stair shall be refurbished to as new condition|||
 |LLDF-REQ29|The external window blind shall be removed|||
 
 
@@ -93,9 +90,9 @@ Table LL-DF2: The design principles that should be influencing the solution's lo
 ### Steps
 
 1. Partition the room into two to provide:
-    1. The main bathroom 
+    1. The laundry 
     2. The multi-level stair case
-2. Relocate the main bathroom in section DF 
+2. Relocate the laundry in section DF 
 
 ### Considerations
 
@@ -106,8 +103,7 @@ Table LL-DF2: The design principles that should be influencing the solution's lo
 
 |ID|Description|
 |:---|:---|
-|LLDF-ISS-1|The original [main bathroom](./section-A-requirements.md) is 11% larger than this space|
-|LLDF-ISS-2|A large portion of the original large bedroom's window will need to be filled with rendered cladded foam. This will probably look very jarring from the outside|
+|LLDF-ISS-1|A large portion of the original large bedroom's window will need to be filled with rendered cladded foam. This will probably look very jarring from the outside|
 
 
 ## Photos

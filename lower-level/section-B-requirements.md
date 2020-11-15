@@ -69,7 +69,6 @@ Note, although the ensuite room will remain the same size, the furnishing sizes 
 |Design principles|
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
-|Symmetry with split occupancy|
 |Fixtures and furnishings value function over form|
 |No maintenance over low/some maintenance|
 |Rooms/resources that are used together should be adjacent to one another|
