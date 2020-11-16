@@ -26,7 +26,6 @@ There is/are currently:
 6. Water has damaged some of the ceiling plaster board on the west side via the sky-light
 6. There are printer ink stains on the carpet
 7. The curtains are broken and cumbersome to operate
-8. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Symmetric Requirements
@@ -49,7 +48,7 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLE-REQ10|The room shall be refurbished to as new condition|||
-|LLE-REQ11|The active NBN HFC/Coaxial wall port & NBN modem shall be relocated to [central storage on stair case platform](./section-DF-requirements.md)|||
+|LLE-REQ11|The active NBN HFC/Coaxial wall port & NBN modem shall be relocated to [central storage on stair case platform](./section-D-requirements.md)|||
 |LLE-REQ12|The cat5 port bracket and cables to [lounge room](./section-K-requirements.md) shall be removed|||
 |LLE-REQ13|The UHF TV port bracket and splitter to port shall be removed. Thus improving signal strength to other ports located in the house|||
 |LLE-REQ14|The room's external window blind shall be removed|||
@@ -71,7 +70,6 @@ Note, although the bedroom will remain the same size, the furnishing sizes may v
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
-|Symmetry with split occupancy|
 |Reduce overall transit as the basis of location|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|

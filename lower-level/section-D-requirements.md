@@ -2,7 +2,7 @@
 
 ## Context
 
-Section DF was originally the 3rd bedroom that was situated beside the laundry to south.
+Section DF was originally the 3rd bedroom that was situated beside south of the original bathroom location.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -22,7 +22,7 @@ There is/are currently:
 ## Problem
 
 1. There is a need for a central multi-level stair case in the new house design for conveniently navigating between floors and rooms in the house
-2. The original room's built-in wardrobe & desk with shelves is bulky
+2. The original room's built-in wardrobe & desk with shelves are bulky
 3. The original room's wardrobe reduces the effective space of the room when opening and also conflicts with the room's entrance door
 4. The room's door handle is completely broken 
 5. There is no cooling system in this room
@@ -36,7 +36,7 @@ There is/are currently:
 |:---|:---|:---|:---|
 |LLDF-REQ1|The laundry shall have an LED downlight|||
 |LLDF-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
-|LLDF-REQ3|The laundry shall have a cleaning products cabinet with overhead shelves|||
+|LLDF-REQ3|The laundry shall have a cleaning products cabinet with an overhead cabinet|||
 |LLDF-REQ4**|The laundry shall be connected to the ducted heating|||
 |LLDF-REQ5|The laundry shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLDF-REQ6|The laundry window shall be able to be opened for ventilation|||
@@ -56,7 +56,7 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLDF-REQ18|The laundry shall have an accordion door to south side against multi-level stair case to access the storage under the stair case. Note, the stair case shall also have a small accordion door on the south side too|||
-|LLDF-REQ19|The laundry wall shall now be extend along the north east and the door frame moved to accomodate a shower|||
+|LLDF-REQ19|The laundry wall shall now be extend along the north east and the door frame moved to accommodate a linen cabinet|||
 |LLDF-REQ20**|The ducted heating vent shall be relocated to an appropriate position in the laundry|||
 |LLDF-REQ21|The stair case and hall flooring shall be replaced and consistent across all wet areas|||
 |LLDF-REQ22|The stair case shall not be bulky|||
@@ -73,7 +73,7 @@ There is/are currently:
 
 |Actual|Expected|
 |:---:|:---:|
-|![AS-IS lower-level Section DF diagram](Lower-Level-AS-IS-section-DF.svg)|![TO-BE lower-level Section DF diagram](Lower-Level-TO-BE-section-DF.svg)|
+|![AS-IS lower-level Section DF diagram](Lower-Level-AS-IS-section-D.svg)|![TO-BE lower-level Section DF diagram](Lower-Level-TO-BE-section-D.svg)|
 
 Table LL-DF1: Floor plan comparison
 
@@ -81,7 +81,6 @@ Table LL-DF1: Floor plan comparison
 |:---|
 |Reduce overall transit as the basis of location|
 |Embrace natural lighting and reduce demand on heating/cooling systems|
-|Symmetry with split occupancy|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
 

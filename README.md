@@ -38,7 +38,7 @@ There are design principles that I have used to govern my architectural choices,
 2. No maintenance over low/some maintenance
 3. Embrace natural lighting and reduce demand on heating/cooling systems
 4. Fixtures and furnishings value function over form 
-5. Symmetry with split occupancy will likely result in greater longevity (ie. resale)
+5. ~~Symmetry with split occupancy will likely result in greater longevity (ie. resale)~~
 6. Centralise shared building services/resources over decentralisation
 7. Rooms/resources that are used together should be adjacent to one another
 8. Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others
@@ -56,7 +56,7 @@ There is an intentional architectural symmetry across both levels. That is, most
 |2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section Q](./upper-level/section-Q-requirements.md)||
 |1st bedroom|same|[Section G](./lower-level/section-G-requirements.md)|[Section R](./upper-level/section-R-requirements.md)||
 |Dining|same size, similar position|[Section J](./lower-level/section-J-requirements.md)|[Section S](./upper-level/section-S-requirements.md)||
-|Main bathroom|similar size, similar position|[Section DF](./lower-level/section-DF-requirements.md)|[Section M](./upper-level/section-M-requirements.md)||
+|Main bathroom|similar size, similar position|[Section DF](./lower-level/section-D-requirements.md)|[Section M](./upper-level/section-M-requirements.md)||
 |Lounge|similar size, similar position|[Section K](./lower-level/section-K-requirements.md)|[Section T](./upper-level/section-T-requirements.md)||
 |Entry|shared|[Section I](./lower-level/section-I-requirements.md)|||
 |Kitchen|shared|[Section H](./lower-level/section-H-requirements.md)|||

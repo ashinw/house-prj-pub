@@ -48,7 +48,6 @@ Figure UL-M1: Expected floor plan
 |:---|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 |Reduce overall transit as the basis of location|
-|Symmetry with split occupancy|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
 

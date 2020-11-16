@@ -18,7 +18,6 @@ Figure UL-S1: Expected floor plan
 ## Problem
 
 1. An autonomous area is required for split residents to entertain separately
-2. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Requirements
@@ -45,7 +44,6 @@ Figure UL-S1: Expected floor plan
 |Embrace natural lighting and reduce demand on heating/cooling systems|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
-|Symmetry with split occupancy|
 |No maintenance over low/some maintenance|
 
 Table UL-T2: The design principles that should be influencing the solution's location/choices/decisions

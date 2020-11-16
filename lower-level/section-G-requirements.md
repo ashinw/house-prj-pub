@@ -64,7 +64,6 @@ Note, although the bedroom will remain the same size, the furnishing sizes may v
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
-|Symmetry with split occupancy|
 |Reduce overall transit as the basis of location|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
@@ -73,7 +72,7 @@ Table LL-G2: The design principles that should be influencing the solution's loc
 
 ### Steps
 
-1. Keep the 1st bedroom in the same location and refurbish it in line with non-master bedrooms  and the rest of the house  
+1. Keep the 1st bedroom in the same location and refurbish it in line with non-master bedrooms in the rest of the house  
 
 ### Considerations
 

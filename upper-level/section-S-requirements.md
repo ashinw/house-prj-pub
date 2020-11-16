@@ -18,7 +18,6 @@ Figure UL-S1: Expected floor plan
 ## Problem
 
 1. An autonomous area is required for split residents to dine separately
-2. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Requirements
@@ -45,7 +44,6 @@ Figure UL-S1: Expected floor plan
 |Reduce overall transit as the basis of location|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 |No maintenance over low/some maintenance|
-|Symmetry with split occupancy|
 |Rooms/resources that are used together should be adjacent to one another|
 
 Table UL-S2: The design principles that should be influencing the solution's location/choices/decisions

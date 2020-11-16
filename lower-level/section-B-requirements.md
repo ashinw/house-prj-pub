@@ -20,7 +20,6 @@ There is/are currently:
 1. The ensuite is old and has had mold on the ceiling
 2. There is no ducted heating outlet installed and heating is achieved using an electric heater and/or the exhaust fan's heat lamps
 3. The sliding door constantly bumps up against the inner enclosure when the wind blows and is overly bulky
-4. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Symmetric Requirements
@@ -35,7 +34,7 @@ There is/are currently:
 |LLB-REQ6|The bathroom shall have a shower with ceramic washer taps|||
 |LLB-REQ7|The bathroom shall have a mirror|||
 |LLB-REQ8|The bathroom shall have an exhaust fan|||
-|LLB-REQ9**|The bathroom shall be connected to the ducted heating|||
+|~~LLB-REQ9~~|~~The bathroom shall be connected to the ducted heating~~|||
 |LLB-REQ10|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLB-REQ11|The bathroom window shall be able to be opened for ventilation|||
 |LLB-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
@@ -49,7 +48,7 @@ There is/are currently:
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLB-REQ17|The room's external window blind shall be removed|||
+|~~LLB-REQ17~~|~~The room's external window blind shall be removed~~|||
 |LLB-REQ18|The ensuite shall be refurbished to as new condition|||
 |LLB-REQ19|The outside external ensuite wall shall have a multi-socket power point installed to give power to the shed and carport|||
 

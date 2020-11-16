@@ -27,7 +27,6 @@ There is/are currently:
 5. There is no cooling system in this room
 6. The current window frames are old, large and difficult to open behind the fly screen
 7. The curtains are heavy and cumbersome to operate
-8. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Symmetric Requirements
@@ -73,7 +72,6 @@ Note, although the master bedroom will remain the same size, the furnishing size
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
-|Symmetry with split occupancy|
 |Reduce overall transit as the basis of location|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|

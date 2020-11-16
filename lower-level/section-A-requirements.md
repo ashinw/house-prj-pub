@@ -20,7 +20,7 @@ There is/are currently:
 1. Refer to [laundry related problems](./section-H-requirements.md#Problem) that are captured in section H
 2. Visitors would need to navigate to the far end of the house to go to the bathroom
 3. Both upper & lower level residents require an area for washing and hanging clothes with convenient access to the clothes line
-4. Brett has advised that it is cost prohibitive to move the laundry into this location due to all the plumbing work (particularly the toilet). It is significantly cheaper to keep the bathroom here and use a slopped deck instead. 
+4. Brett has advised that it is cost prohibitive to move the laundry into this location due to all the plumbing work (particularly the toilet). It is significantly cheaper to keep the bathroom here and move the [laundry to section D](./section-D-requirements.md) using a slopped deck for outside access.
 
 
 ## Symmetric Requirements
@@ -36,7 +36,7 @@ There is/are currently:
 |LLA-REQ7|The bathroom shall have a mirror|||
 |LLA-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
 |LLA-REQ9|The bathroom shall have an exhaust fan|||
-|LLA-REQ10**|The bathroom shall be connected to the ducted heating|||
+|~~LLA-REQ10~~|~~The bathroom shall be connected to the ducted heating~~|||
 |LLA-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLA-REQ12|The bathroom window shall be able to be opened for ventilation|||
 |LLA-REQ13|The bathroom window shall have a fly screen to keep the insects out|||

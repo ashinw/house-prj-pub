@@ -1,8 +1,8 @@
-# Section J - Dining
+# Section J - Butler's pantry
 
 ## Context
 
-Section J remains as the dining room located beside the kitchen on the lower level.
+The southern most region of Section J is now a walk in pantry. Note, the [dining room](./section-K-requirements.md) has been moved section K.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -26,38 +26,18 @@ There is/are currently:
 4. There is no natural lighting and the downlights shall be turned on even in daylight
 5. The south east window onlooking the verandah extension cavity is pointless
 6. The north most facing downlight frequently experiences flicker despite having change the globe
-7. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
-## Symmetric Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|LLJ-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
-|LLJ-REQ2|The dining room shall have an appropriate number of LED downlights|||
-|LLJ-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
-|LLJ-REQ4**|The dining room shall be connected to the ducted heating|||
-|LLJ-REQ5|The dining room shall have an appropriately sized double glazed window|||
-|LLJ-REQ6|The dining room window shall be able to be opened for ventilation|||
-|LLJ-REQ7|The dining room window shall have a fly screen to keep the insects out|||
-|LLJ-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLJ-REQ9|The dining room shall have a tiled floor that is the same as the hallways|||
-|LLJ-REQ10|The same appliance/fixtures shall have been installed in the same/similar positions as the other dining room|||
-
-
-## Refurbishing Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLJ-REQ11|The dining room shall have an open plan design with the kitchen|||
-|LLJ-REQ12**|The heating system shall be upgraded to include central cooling|||
-|LLJ-REQ13|The dining room shall replace the wall air condition unit with either a window or suitable filler|||
-|LLJ-REQ14|The dining room shall replace the wall air condition unit with either a window or suitable filler|||
-|LLJ-REQ15**|The dining room's east window facing window beside the stair case shall be covered with some solution to improve temperature management|||
-|LLJ-REQ16|The leaky roof fascia board/gable end vent above rumpus room stair case shall be repaired|||
-|LLJ-REQ17|The dining room shall be refurbished to as new condition|||
-
-** - Optional requirement which may prove unnecessary given the situation
+|LLJ-REQ1|The pantry shall be tiled|||
+|LLJ-REQ2|The pantry shall have power outlets appropriately positioned near each corner|||
+|LLJ-REQ3|The pantry shall have multi-level open shelves only (ie. no cabinets)|||
+|LLJ-REQ4|The pantry shall have timber batton screening concealing its open shelves|||
+|LLJ-REQ5|The leaky roof fascia board/gable end vent above rumpus room stair case shall be repaired|||
+|LLJ-REQ6|The kitchen shall replace the wall air conditioner unit with a window|||
 
 
 ## Solution
@@ -73,7 +53,6 @@ Table LL-J1: Floor plan comparison
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |Embrace natural lighting and reduce demand on heating/cooling systems|
 |Reduce overall transit as the basis of location|
-|Symmetry with split occupancy|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 
@@ -81,15 +60,11 @@ Table LL-J2: The design principles that should be influencing the solution's loc
 
 ### Steps
 
-1. Refurbish the dining room
-
-### Considerations
-
-1. LLJ-REQ4 & LLJ-REQ12
-    - Subject to the decision on centralised heating & cooling option selected
-2. LLJ-REQ15
-    Choose the cheaper of filling & covering in the window internally & externally or applying double glazzing
-
+1. Remove ducted heating vent
+2. Extended floor for pantry by reducing [staircase to rumpus room](./section-L-requirements.md)
+3. Remove staircase banister
+4. Mount shelved to batton timber screen 
+5. Remove air conditioner
 
 ## Known issues
 
@@ -97,10 +72,6 @@ Table LL-J2: The design principles that should be influencing the solution's loc
 |:---|:---|
 |LLJ-ISS-1|When inspecting the roof above the dining room it is clear that the fascia/gable end vent is barely holding together. Unlike the north facing roof fascia/gable end vent, I'm unsure whether this one would have been addressed as part of the upper level build?|
 |LLJ-ISS-2|I contacted Coldflow who told me that an add on cooling system to the existing ducted heating unit will be approx 14K. They also told me that a new more efficient electrical dual heating/cooling refridgerated system installed in the ceilings would be approx 14K. Which heating/cooling and whether ducts are moved, replaced, removed & filled in or added will be determined after the quote for the full build had been assessed|
-
-## Questions
-
-* Are there any issues with removing the north wall that covers the kitchen pantry/cabinets? I kept it in because its connected to the wall that is behind those same cabinet as part of the lounge.
 
 
 ## Photos

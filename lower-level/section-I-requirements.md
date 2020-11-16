@@ -58,7 +58,6 @@ Table LL-I1: Floor plan comparison
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |Reduce overall transit as the basis of location|
-|Symmetry with split occupancy|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 

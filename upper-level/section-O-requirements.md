@@ -16,7 +16,6 @@ Figure UL-O1: Expected floor plan
 ## Problem
 
 1. Longevity and resale value will be impacted if there was no master bedroom
-2. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
 ## Requirements
@@ -41,7 +40,6 @@ Figure UL-O1: Expected floor plan
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
 |No maintenance over low/some maintenance|
-|Symmetry with split occupancy|
 |Reduce overall transit as the basis of location|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|

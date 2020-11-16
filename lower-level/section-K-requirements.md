@@ -28,35 +28,27 @@ There is/are currently:
 8. In the summer, heat enters the room through the large windows on the east and the large windows on the south sliding doors to the deck. There is a lot of afternoon light reflected from the fencing on the east
 9. There is a halogen downlight dimmer transformer installed
 10. The north-east most facing downlight frequently experiences flicker despite having change the globe
-11. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 
-## Symmetric Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|LLK-REQ1|The lounge room shall have an appropriate number of power outlets installed near each corner|||
-|LLK-REQ2|The lounge room shall have an appropriate number of LED downlights|||
-|LLK-REQ3|The lounge room shall be carpeted|||
-|LLK-REQ4**|The lounge room shall be connected to the ducted heating|||
-|LLK-REQ5|The lounge room shall have an appropriately sized double glazed windows|||
-|LLK-REQ6|The lounge room windows shall be able to be opened for ventilation|||
-|LLK-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
-|LLK-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||
-|LLK-REQ9**|The lounge room shall have a centrally installed ceiling fan|||
-|LLK-REQ11|The same appliance/fixtures shall have been installed as with the other lounge room|||
-
-
-## Refurbishing Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLK-REQ12|The windows on the external sliding door to the verandah shall be replaced with double glazzing exising frames product|||
-|LLK-REQ13|The curtains for the external sliding door to the verandah shall be replaced with fitted night/day blinds|||
-|LLK-REQ14|All old technology including cat5 port bracket and cables to [original office room](./section-E-requirements.md), secondary UHF TV port, RCA/VGA port, projector & screen shall be removed|||
-|LLK-REQ15|All diming downlight transformers shall be replaced with standard transformer|||
-|LLK-REQ16|The lounge shall be refurbished to as new condition|||
-|LLK-REQ17|The verandah concrete flooring and yellow fence shall be refurbished to as new condition|||
+|LLK-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
+|LLK-REQ2|The dining room shall have an appropriate number of LED downlights|||
+|LLK-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
+|LLK-REQ4**|The dining room shall be connected to the ducted heating|||
+|LLK-REQ5|The dining room shall have an appropriately sized double glazed window|||
+|LLK-REQ6|The dining room window shall be able to be opened for ventilation|||
+|LLK-REQ7|The dining room window shall have a fly screen to keep the insects out|||
+|LLK-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLK-REQ9|The dining room shall have a tiled floor that is the same as the hallways|||
+|LLK-REQ10|The windows on the external sliding door to the verandah shall be replaced with double glazzing exising frames product|||
+|LLK-REQ11|The curtains for the external sliding door to the verandah shall be replaced with fitted night/day blinds|||
+|LLK-REQ12|All old technology including cat5 port bracket and cables to [original office room](./section-E-requirements.md), secondary UHF TV port, RCA/VGA port, projector & screen shall be removed|||
+|LLK-REQ13|All diming downlight transformers shall be replaced with standard transformer|||
+|LLK-REQ14|The lounge shall be refurbished to as new condition|||
+|LLK-REQ15|The verandah concrete flooring and yellow fence shall be refurbished to as new condition|||
 
 ## Solution
 
@@ -70,7 +62,6 @@ Table LL-K1: Floor plan comparison
 |:---|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
-|Symmetry with split occupancy|
 |Embrace natural lighting and reduce demand on heating/cooling systems|
 
 Table LL-K2: The design principles that should be influencing the solution's location/choices/decisions
@@ -87,14 +78,5 @@ Table LL-K2: The design principles that should be influencing the solution's loc
     - Subject to the decision on centralised heating & cooling option selected
 
 
-## Known issues
-
-|ID|Description|
-|:---|:---|
-|LLK-ISS-1|Brett to advice how window/frame consistency can be achieved between levels|
-|LLK-ISS-2|Need to investigate whether we dedicate one TV aerial per level as there is no signal repeaters installed and splitting reduces the signal strength. Note, there are currently four splitting points already installed throughout the house|
-
 
 ## References
-1. Carpet Tiles 1
-    - https://www.carpettiles1.com.au/carpet-tiles/product-details/matin-dark-tan-brown--model:cpt-393

@@ -16,7 +16,6 @@ Figure UL-N1: Expected floor plan
 ## Problem
 
 1. Longevity and resale value will be impacted if the master bedroom lacks an ensuite
-2. Inequity will arise if there are differences in size, quality and positioning between upper and lower levels
 
 ## Requirements
 
@@ -45,7 +44,6 @@ Figure UL-N1: Expected floor plan
 |Design principles|
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
-|Symmetry with split occupancy|
 |No maintenance over low/some maintenance|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
