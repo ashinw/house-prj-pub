@@ -32,8 +32,8 @@ Using the above diagrams as a guide, visit each link in the Lower-Level Section 
 |[Section B](./section-B-requirements.md)|Ensuite|Ensuite|
 |[Section C](./section-C-requirements.md)|Master bedroom|Master bedroom|
 |[Section D](./section-D-requirements.md)|3rd bedroom|Bathroom & multi-level stairs|
-|[Section F](./section-F-requirements.md)|Laundry and meals area|Lounge room|
 |[Section E](./section-E-requirements.md)|Study|2nd bedroom|
+|[Section F](./section-F-requirements.md)|Laundry and meals area|Lounge room|
 |[Section G](./section-G-requirements.md)|1st bedroom|1st bedroom|
 |[Section H](./section-H-requirements.md)|Kitchen|Enlarged kitchen|
 |[Section I](./section-I-requirements.md)|Main entrance and hall passage|Main entrance and hall passage|

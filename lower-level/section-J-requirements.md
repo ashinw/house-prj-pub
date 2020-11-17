@@ -78,21 +78,26 @@ Table LL-J2: The design principles that should be influencing the solution's loc
 
 ![internal aircondition view](./photos/IMG_20201016_124446296.jpg)
 
-Photo: LLL-photo-1 -internal view of wall air conditioner 
+Photo: LLJ-photo-1 - internal view of wall air conditioner 
+
 
 ![external aircondition view](./photos/IMG_20201016_124603944.jpg)
 
-Photo: LLL-photo-2 - external view of wall air conditioner 
+Photo: LLJ-photo-2 - external view of wall air conditioner 
+
+![rumpus room staircase](./photos/IMG_20201016_140114247.jpg)
+
+Photo: LLJ-photo-3 - rumpus room staircase
 
 
 ![extension cavity](./photos/IMG_20201016_135552426.jpg)
 
-Photo: LLL-photo-2 - extension cavity between dining room, lounge room and rumpus room
+Photo: LLJ-photo-2 - extension cavity between dining room, lounge room and rumpus room
 
 
 ![outside under house entry](./photos/IMG_20201016_124526904.jpg)
 
-Photo: LLL-photo-3 - outside under house entry
+Photo: LLJ-photo-3 - outside under house entry
 
 
 ## References
