@@ -42,3 +42,18 @@ Using the above diagrams as a guide, visit each link in the Lower-Level Section 
 |[Section L](./section-L-requirements.md)|Rumpus room|Rumpus room|
 
 Table LL3: Lower-Level Section Requirements Mapping table
+
+## Alternatives
+
+### 2. Toilet under staircase
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE alt 2 diagram](Lower-Level-TO-BE-floor-plan-alt-toil.svg)|
+
+
+### 3. Bathroom under staircase
+
+|Actual|Expected|
+|:---:|:---:|
+|![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE alt 3 diagram](Lower-Level-TO-BE-floor-plan-alt-br.svg)|
