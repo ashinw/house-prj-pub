@@ -1,8 +1,8 @@
-# Section K - Lounge
+# Section K - Dining room
 
 ## Context
 
-Section K remains as the lounge area in the lower level as per the original floor plan.
+Section K will be a central dining room/meals area in the lower level.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -36,7 +36,7 @@ There is/are currently:
 |:---|:---|:---|:---|
 |LLK-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
 |LLK-REQ2|The dining room shall have an appropriate number of LED downlights|||
-|LLK-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to stair case|||
+|LLK-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to staircase|||
 |LLK-REQ4**|The dining room shall be connected to the ducted heating|||
 |LLK-REQ5|The dining room shall have an appropriately sized double glazed window|||
 |LLK-REQ6|The dining room window shall be able to be opened for ventilation|||
@@ -47,7 +47,7 @@ There is/are currently:
 |LLK-REQ11|The curtains for the external sliding door to the verandah shall be replaced with fitted night/day blinds|||
 |LLK-REQ12|All old technology including cat5 port bracket and cables to [original office room](./section-E-requirements.md), secondary UHF TV port, RCA/VGA port, projector & screen shall be removed|||
 |LLK-REQ13|All diming downlight transformers shall be replaced with standard transformer|||
-|LLK-REQ14|The lounge shall be refurbished to as new condition|||
+|LLK-REQ14|The dining room shall be refurbished to as new condition|||
 |LLK-REQ15|The verandah concrete flooring and yellow fence shall be refurbished to as new condition|||
 
 ## Solution
@@ -68,7 +68,7 @@ Table LL-K2: The design principles that should be influencing the solution's loc
 
 ### Steps
 
-1. Refurbish the lounge room
+1. Refurbish the dining room
 2. Remove all old technology, wiring and/or housing
 3. Refurbish verandah and outdoor entrance
 
@@ -77,6 +77,3 @@ Table LL-K2: The design principles that should be influencing the solution's loc
 1. LLK-REQ4 & LLK-REQ9
     - Subject to the decision on centralised heating & cooling option selected
 
-
-
-## References

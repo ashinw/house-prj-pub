@@ -2,7 +2,7 @@
 
 ## Context
 
-Section H was originally the combined meals area and kitchen on the lower level. The meals area has been replaced by the dining room and the island kitchen bench. The kitchen has been extended southward into the original [dining area in section J](./section-J-requirements.md).
+Section H remains as the kitchen on the lower level. The meals area has been replaced by the dining room and the island kitchen bench. The kitchen has been extended southward into the original [dining area](./section-J-requirements.md) which has now moved to in section J.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -12,7 +12,6 @@ There is/are currently:
 * Three downlights installed in the kitchen
 * A Bosch instant hot water system installed outside on the west side. The system is about 15yo 
 * A Braemar heating system installed outside on the west side. This system is about 5+yo 
-* A man hole accessible on the west side ceiling in the laundry
 * A lot of large windows that absorb the summer sun
 * An external window blind to the west of the kitchen
 * A fridge with water and ice dispenser that is connected to plumbing on the east side installed in the allocated cavity in the cabinet
@@ -28,7 +27,7 @@ There is/are currently:
 4. The large fridge sticks out by approx 10+cm 
 5. The meals area table and the dining room table are frequently used as additional workspace and preperation area
 7. The large window built into the laundry door lets a lot of sun/heat in
-8. [Electrical surges are encountered](./section-I-requirements.md) and the breaker trips when using a certain combination of appliances in the kitchen/lounge/dining room
+8. Electrical surges trips the switches in the [electricity box outside the entrance](./section-I-requirements.md). The breaker trips when using a certain combination of appliances in the kitchen/lounge/dining room
 
 
 ## Requirements
@@ -37,7 +36,7 @@ There is/are currently:
 |:---|:---|:---|:---|
 |LLH-REQ1**|The kitchen shall be made larger to accommodate more cooks working in collaboration|||
 |LLH-REQ2|The kitchen windows shall be double glazed and appropriately sized for optimal light and temperature control|||
-|LLH-REQ3|The kitchen windows shall have night/day blinds for improved temperature control and privacy|||
+|LLH-REQ3**|The kitchen windows shall have night/day blinds for improved temperature control and privacy|||
 |LLH-REQ4|The kitchen shall have a long work bench with distributed space to avoid people getting in each anothers way|||
 |LLH-REQ5|The kitchen shall have a large island workstation|||
 |LLH-REQ6|The kitchen shall have new stove, rangehood & oven appliances|||
@@ -51,6 +50,7 @@ There is/are currently:
 |LLH-REQ14|The kitchen's external window blind shall be removed|||
 |LLH-REQ15|The kitchen shall have power outlets appropriately positioned near each corner|||
 |LLH-REQ17|The kitchen shall be tiled|||
+|LLH-REQ18|The fridge will have an water inlet for the ice dispenser|||
 
 
 ## Solution
@@ -92,13 +92,9 @@ Table LL-H2: The design principles that should be influencing the solution's loc
 
 ## Photos
 
-![back door & stair case to be removed](./photos/IMG_20201016_124623486.jpg)
-
-Photo: LSH-photo-1 - Back door & stair case to be removed
-
 ![Kitchen window](./photos/IMG_20201016_124603944.jpg)
 
-Photo: LSH-photo-3 - Kitchen window with external window blind beside instant hot water unit & ducted heating system
+Photo: LSH-photo-1 - Kitchen window with external window blind beside instant hot water unit & ducted heating system
 
 
 ## References

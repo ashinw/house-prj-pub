@@ -1,12 +1,12 @@
-# Section P - Study [Shared Resource]
+# Section P - Study
 
 ## Context
 
-Section P will be the study which is a shared resource. The study is located beside the multi-level stair case on the upper level.
+Section P will be the study that will be re-located to the upper-level. The study will be a nook that is located beside the multi-level staircase on the upper level.
 
 The study is designed to be an open space. 
 
-* It will likely host a printer, filing cabinet and will likely require powering a number of devices
+* It will likely host a printer, filing cabinet and will likely require powering a number of devices (give space is available)
 * People should be able to work together around a table
 * The west facing windows if installed can invite a lot of heat and light
 
@@ -31,7 +31,6 @@ Figure UL-P1: Expected floor plan
 |LLP-REQ1|The study shall have an appropriate number of power outlets installed on the north east, north west and east walls|||
 |LLP-REQ2|The study shall have an appropriate number of LED downlights|||
 |LLP-REQ3|The study shall be carpeted|||
-|LLP-REQ4**|The study shall be connected to the ducted heating|||
 |LLP-REQ5|The study shall have an appropriately sized double glazed window|||
 |LLP-REQ6|The study window shall be able to be opened for ventilation|||
 |LLP-REQ7|The study window shall have a fly screen to keep the insects out|||

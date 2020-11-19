@@ -1,8 +1,8 @@
-# Section W - South Backyard
+# Section W - Backyard
 
 ## Context
 
-Section W represents the frontyard for the property that leeds from the bottom of the property boundary to the area beside the deck.
+Section W represents the backyard for the property that leeds from the bottom of the property boundary to the area behind the house.
 
 ![TO-BE landscape diagram](Landscape-TO-BE.svg)
 
@@ -10,9 +10,11 @@ Figure LS2: Expected landscape
 
 There is/are currently:
 * A fence with the neighbouring south west property
-* A fence and gate beside the deck separating front (north/east) and backyards (south)
+* A fence and gate beside the deck separating front & nature strip (north/east) and backyards (south)
 * The south east fence line has large yellow palings with brick pillars in between
-* A deck with a stair case to the verandah
+* A deck with a staircase to the verandah
+* An old cubby house
+* An old brick in-ground BBQ
 
 
 ## Problem
@@ -25,8 +27,10 @@ There is/are currently:
 6. The large yellow palings along the south east fence line reflects a lot of the afternoon western sun light back to the house
 7. The large gaps between the palings prohibit privacy
 8. There is a lot of water retension in the grass areas and it can be slushy walking through the gate to the deck
-9. The stair case has a loose step and is currently supported by a red oil jack
+9. The staircase has a loose step and is currently supported by a red oil jack
 10. The main outdoor garden tap that is connected to the meter occasionally drips despite being tighly closed
+11. The cubby house has almost completely fallen apart (after 25 years)
+12. The brick in-ground BBQ is broken and hasn't been used for almost 20 years  
 
 ## Requirements
 
@@ -38,7 +42,8 @@ There is/are currently:
 |LSW-REQ4|The deck shall be refurbished|||
 |LSW-REQ5|There shall be an aggregate concrete floor or similar to move between the car port and the deck|||
 |LSW-REQ6|There shall be a new garden tap connected to the meter|||
-
+|LSW-REQ7|The cubby house shall be removed|||
+|LSW-REQ8|The old BBQ shall be removed|||
 
 ## Solution
 
@@ -46,7 +51,7 @@ There is/are currently:
 |:---:|:---:|
 |![AS-IS landscape Section W diagram](Landscape-AS-IS-section-W.svg)|![TO-BE landscape Section W diagram](Landscape-TO-BE-section-W.svg)|
 
-Table LS-U1: Landscape comparison
+Table LS-W1: Landscape comparison
 
 |Design principles|
 |:---|
@@ -82,22 +87,35 @@ Photo: LSW-photo-1 - Dilapidated south west fence
 
 ![broken gate](./photos/IMG_20201011_094318838.jpg)
 
-Photo: LSW-photo-1 - Broken gate held in place by rope
+Photo: LSW-photo-2 - Broken gate held in place by rope
 
 
 ![cracked palings](./photos/IMG_20201010_145011483.jpg)
 
-Photo: LSW-photo-1 - Cracked palings
+Photo: LSW-photo-3 - Cracked palings
 
 
 ![fractured pillars](./photos/IMG_20201011_094227319.jpg)
 
-Photo: LSW-photo-1 - Fractured pillars
+Photo: LSW-photo-4 - Fractured pillars
 
 
-![loose stair case step](./photos/IMG_20201016_135642087.jpg)
+![loose staircase step](./photos/IMG_20201016_135642087.jpg)
 
-Photo: LSW-photo-1 - Loose stair case step
+Photo: LSW-photo-5 - Loose staircase step
+
+
+![broken deck plank](./photos/IMG_20201119_155644189.jpg)
+
+Photo: LSW-photo-6 - broken deck plank
+
+![dilapidated cubby house](./photos/IMG_20201119_155311694_HDR.jpg)
+
+Photo: LSW-photo-7 - dilapidated cubby house
+
+![dilapidated BBQ](./photos/IMG_20201119_192922946.jpg)
+
+Photo: LSW-photo-8 - dilapidated BBQ
 
 
 ## References

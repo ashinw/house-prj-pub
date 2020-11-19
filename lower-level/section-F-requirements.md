@@ -2,7 +2,7 @@
 
 ## Context
 
-Section F was originally the laundry on the lower level. The laundry has now been moved northward into the original [3rd bedroom in section D](./section-D-requirements.md).
+Section F was originally the laundry & meals area on the lower level. The laundry has now been moved to the north west most corner into the original [bathroom in section A](./section-A-requirements.md) and the meals area has becomed the dining room & kitchen island bench.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -10,10 +10,10 @@ Figure LL2: Expected layout
 
 There is/are currently:
 * A single globe light (ie. non-downlight) inside for the laundry
-* A single globe light (ie. non-downlight) outside the laundry for the backyard stair case
+* A single globe light (ie. non-downlight) outside the laundry for the backyard staircase
 * Two downlights installed in the meals area
 * The linen cupboard is built into the wall on the east of the laundry
-* A laundry stair case to the backyard is 1.2m above ground level 
+* A laundry staircase to the backyard is 1.2m above ground level 
 * A man hole accessible on the west side ceiling in the laundry
 * A lot of large windows that absorb the summer sun
 * A ducted heating vent on the west side of meals area 
@@ -26,7 +26,7 @@ There is/are currently:
 2. The laundry is too small despite having the dryer installed above the top loader washing machine
 3. There is an unusually loud hammering with respect to plumbing in the house. This is typically observable when toilets are flushed, showers turned on/off, washing machine operates
 4. The large window built into the laundry door lets a lot of sun/heat in
-5. The wooden 1.2m high stair case outside the laundry is very weathered from climate and is becoming dangerous to use, thus the laundry is hung on the clothes line outside via the main front door entrance. Therefore, the [laundry is better placed near ground level](./section-A-requirements.md)
+5. The wooden 1.2m high staircase outside the laundry is very weathered from climate and is becoming dangerous to use, thus the laundry is hung on the clothes line outside via the main front door entrance. Therefore, the laundry is better placed near ground level in the north most [section](./section-A-requirements.md)
 6. The external meals area window frames are weathered from the climate and barely holding together
 
 
@@ -34,7 +34,7 @@ There is/are currently:
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLF-REQ1|The lounge room shall have an appropriate number of power outlets installed and UHF connection|||
+|LLF-REQ1|The lounge room shall have an appropriate number of power outlets installed and UHF TV connection and a cat5 connection to the staircase storage|||
 |LLF-REQ2|The lounge room shall have an appropriate number of LED downlights|||
 |LLF-REQ3|The lounge room shall be carpeted|||
 |LLF-REQ4**|The lounge room shall be connected to the ducted heating|||
@@ -44,6 +44,8 @@ There is/are currently:
 |LLF-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||
 |LLF-REQ9**|The lounge room shall have a centrally installed ceiling fan|||
 |LLF-REQ11|The same appliance/fixtures shall have been installed as with the other lounge room|||
+|LLF-REQ12|The external light shall be replaced with a with directed downlight|||
+|LLF-REQ13|The external door, security door and staircase shall be removed and replaced with a appropriate weather proof and insulated coverings|||
 
 
 ## Solution
@@ -67,7 +69,7 @@ Table LL-F2: The design principles that should be influencing the solution's loc
 ### Steps
 1. Move the laundry and plumbing fixtures to the north side of the house where its almost ground level and beside the clothes line
 2. Create a more open space by removing walls and cabinets that occupy **central** areas
-3. Remove the stair case, back door & security door and replace the gap with well insulated filler
+3. Remove the outdoor staircase, back door & security door and replace the gap with well insulated filler
 4. Replace full length larger windows with a more appropriate temperature managed window solution to manage the impact of the western sun/heat
 
 
@@ -86,13 +88,13 @@ Table LL-F2: The design principles that should be influencing the solution's loc
 
 ## Photos
 
-![back door & stair case to be removed](./photos/IMG_20201016_124623486.jpg)
+![back door & staircase to be removed](./photos/IMG_20201119_155539231_HDR.jpg)
 
-Photo: LSH-photo-1 - Back door & stair case to be removed
+Photo: LSF-photo-1 - Back door & staircase to be removed
 
 ![Meals area window](./photos/IMG_20201016_124612400.jpg)
 
-Photo: LSH-photo-2 - Meals area window with no external blind but with night/day internal blind
+Photo: LSF-photo-2 - Meals area window with no external blind but with night/day internal blind
 
 
 ## References

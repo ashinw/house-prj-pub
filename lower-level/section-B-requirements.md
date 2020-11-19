@@ -19,10 +19,10 @@ There is/are currently:
 
 1. The ensuite is old and has had mold on the ceiling
 2. There is no ducted heating outlet installed and heating is achieved using an electric heater and/or the exhaust fan's heat lamps
-3. The sliding door constantly bumps up against the inner enclosure when the wind blows and is overly bulky
+3. The sliding door constantly bumps up against the inner enclosure when the wind blows
 
 
-## Symmetric Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
@@ -42,15 +42,8 @@ There is/are currently:
 |LLB-REQ14|The bathroom's floor shall be tiled|||
 |LLB-REQ15|The bathroom shall have power outlets appropriately positioned|||
 |LLB-REQ16|The same appliance/fixtures shall have been installed in the same positions as the other ensuite|||
-
-
-## Refurbishing Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
-|~~LLB-REQ17~~|~~The room's external window blind shall be removed~~|||
 |LLB-REQ18|The ensuite shall be refurbished to as new condition|||
-|LLB-REQ19|The outside external ensuite wall shall have a multi-socket power point installed to give power to the shed and carport|||
+|LLB-REQ19|Outside the external ensuite wall shall have a multi-socket power point installed to give power to the shed and carport|||
 
 ** - Optional requirement which may prove unnecessary given the situation
 
@@ -79,7 +72,7 @@ Table LL-B2: The design principles that should be influencing the solution's loc
 ### Steps
 
 1. Refurbish ensuite in line with upper level and rest of house
-2. Streamline the bulky in-wall sliding door to make the same as the upper-level
+2. Repair the in-wall sliding door to make the same as the upper-level
 
 ### Considerations
 
@@ -92,7 +85,14 @@ Table LL-B2: The design principles that should be influencing the solution's loc
 |ID|Description|
 |:---|:---|
 |LLB-ISS-1|The bathroom is prone to accumulating mold on the ceiling||
-|LLC-ISS-2|The current exhaust fan with a slightly open window is not very effective at removing the mist after a hot shower||
+|LLB-ISS-2|The current exhaust fan with a slightly open window is not very effective at removing the mist after a hot shower||
+
+
+## Photos
+
+![north west external plumbing](./photos/IMG_20201119_155454515.jpg)
+
+Photo: LSB-photo-1 - north west external plumbing
 
 
 ## References

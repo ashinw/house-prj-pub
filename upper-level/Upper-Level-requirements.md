@@ -16,13 +16,13 @@ Using the above diagrams as a guide, visit each link in the Upper-Level Section 
 
 |Section Group|Expected|
 |:---|:---|
-|[Section M](./section-M-requirements.md)|Main Bathroom|
-|[Section N](./section-N-requirements.md)|Ensuite|
-|[Section O](./section-O-requirements.md)|Master bedroom|
+|[Section M](./section-M-requirements.md)|1st bedroom|
+|[Section N](./section-N-requirements.md)|Shared Bathroom|
+|[Section O](./section-O-requirements.md)|2nd bedroom|
 |[Section P](./section-P-requirements.md)|Study|
-|[Section Q](./section-Q-requirements.md)|2nd bedroom|
-|[Section R](./section-R-requirements.md)|1st bedroom|
-|[Section S](./section-S-requirements.md)| Dining|
-|[Section T](./section-T-requirements.md)|Lounge|
+|[Section Q](./section-Q-requirements.md)|Lounge|
+|[Section R](./section-R-requirements.md)|Ensuite|
+|[Section S](./section-S-requirements.md)| Master bedroom|
+|[Section T](./section-T-requirements.md)|Walk through wardrobe|
 
 Table UL2: Upper-Level Section Requirements

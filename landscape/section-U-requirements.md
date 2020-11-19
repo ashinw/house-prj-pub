@@ -17,7 +17,7 @@ There is/are currently:
 
 ## Problem
 1. There is a slope from the east neighbour's fence line to the west neighbour's fence line
-2. The shed is small with a broken door
+2. The shed is small and has a broken door
 3. The open car port has rusted gutters 
 4. There is a stump north of the shed unnecessarily occupying space
 5. There is a tree and bushes along the north west fence line that indirectly affect clothes on the line by visiting birds

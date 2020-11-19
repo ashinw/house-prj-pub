@@ -1,8 +1,8 @@
-# Section Q - 2nd bedroom
+# Section Q - Lounge
 
 ## Context
 
-Section Q will be the 2nd bedroom on the upper level.
+Section Q will be the lounge room on the upper level.
 
 ![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
@@ -15,22 +15,24 @@ Figure UL-Q1: Expected floor plan
 
 ## Problem
 
-1. Longevity and resale value will be impacted if there are less than three rooms
+1. An autonomous entertainment area is required for upper level occupants
 
 
 ## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLQ-REQ1|The bedroom shall have an efficient/effective wardrobe that maximises space|||
-|LLQ-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
-|LLQ-REQ3|The bedroom shall be carpeted|||
-|LLQ-REQ4|The bedroom shall have an appropriately sized double glazed window|||
-|LLQ-REQ5**|The bedroom shall have a ducted heating vent|||
-|LLQ-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLQ-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
-|LLQ-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
-|LLQ-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
+|LLQ-REQ1|The lounge room shall have an appropriate number of power outlets installed near each corner|||
+|LLQ-REQ2|The lounge room shall have an appropriate number of LED downlights|||
+|LLQ-REQ3|The lounge room shall be carpeted|||
+|~~LLQ-REQ4~~|~~The lounge room shall be connected to the ducted heating~~|||
+|LLQ-REQ5|The lounge room shall have an appropriately sized double glazed windows|||
+|LLQ-REQ6|The lounge room windows shall be able to be opened for ventilation|||
+|LLQ-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
+|LLQ-REQ8|The lounge room shall have a fitted night/day internal roller blinds with sun/heat block|||
+|LLQ-REQ9**|The lounge room shall have a centrally installed ceiling fan|||
+|LLQ-REQ10|The lounge room shall have a UHF TV connection and a cat5 connection to the staircase storage|||
+|LLQ-REQ11|The same appliance/fixtures shall have been installed as with the other lounge room|||
 
 
 ## Solution
@@ -38,20 +40,20 @@ Figure UL-Q1: Expected floor plan
 |Design principles|
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
-|No maintenance over low/some maintenance|
-|Reduce overall transit as the basis of location|
+|Embrace natural lighting and reduce demand on heating/cooling systems|
 |Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
+|No maintenance over low/some maintenance|
 
 Table UL-Q2: The design principles that should be influencing the solution's location/choices/decisions
 
 ### Steps
 
-1. Build new 2nd bedroom in Section Q 
+1. Build new lounge room in Section Q
 
 ### Considerations
 
-1. LLQ-REQ5 & LLQ-REQ7
+1. LLQ-REQ4 & LLQ-REQ9
     - Subject to the decision on centralised heating & cooling option selected
 
 

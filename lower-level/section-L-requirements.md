@@ -1,4 +1,4 @@
-# Section L - Rumpus room [Shared Resource]
+# Section L - Rumpus room
 
 ## Context
 
@@ -6,33 +6,33 @@ Section L remains as the Rumpus room on the lower level.
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
-The rumpus room is located in the south end of the house where the land slopes significantly. This split level is almost 1m lower than the rest of the house. It was the biggest extension that I think that the previous owners were able to make.
+The rumpus room is located in the south end of the house where the land slopes significantly. This split level is almost 1m lower than the rest of the house. I think it was the biggest extension that the previous owners were able to make.
 
 There is/are currently:
-* A stair case from the dining area to the rumpus room. A thermal curtain has been placed around the stair case to try and retain heat
+* A staircase from the dining area to the rumpus room. A thermal curtain has been placed around the staircase to try and retain heat in the room
 * Two ducted heating vents installed by the south and east walls
 * Four LED downlights installed and centrally positioned
 * Windows on every side and all but one of them have hand winders
 * A UHF TV Antenna port on the north east wall
 * A sliding door on the east side which connects to the deck
-* A large outside stair case from the verandah to the north side of the deck
+* A large outside staircase from the verandah to the north side of the deck
 * West facing windows which invite a lot of heat/sun
 
 
 ## Problem
 
 1. The room is cool in summer but very cold in winter
-2. The stair case is bulky and dated
+2. The staircase is bulky and dated
 3. The north facing window is pointless with a view to the extension cavity area
 4. In the summer the heat also enters the room through the east and south sides by the light bouncing off the fencing on the east side 
-5. The outdoor deck stair case has a faulty step and is currently held in position using a red hydrolic oil jack 
+5. The outdoor deck staircase has a faulty step and is currently held in position using a red hydrolic oil jack 
 
 
 ## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLL-REQ1|The rumpus room shall have a stair case that matches the [multi-level stair case](./section-D-requirements.md)|||
+|LLL-REQ1|The rumpus room shall have a staircase that matches the [multi-level staircase](./section-D-requirements.md)|||
 |LLL-REQ2|The rumpus room shall have carpet/fixtures/furnishings that are consistent with the rest of the house|||
 |LLL-REQ3|The rumpus room shall have double glazed windows|||
 |LLL-REQ4|The rumpus room windows shall be able to be opened for ventilation|||
@@ -43,6 +43,7 @@ There is/are currently:
 |LLL-REQ10**|The rumpus room's existing ducted heating vents shall be replaced|||
 |LLL-REQ11**|The rumpus room's north window facing window shall be covered with some solution to improve temperature management|||
 |LLL-REQ12|The rumpus room shall be refurbished to as new condition|||
+|LLL-REQ13|The ducted heating vent against the east most wall shall be re-allocated to a bedroom on the upper level|||
 
 ** - Optional requirement which may prove unnecessary given the situation
 
@@ -55,7 +56,7 @@ There is/are currently:
 
 Table LL-L1: Floor plan comparison
 
-Note, the only key difference between the two diagrams in the table above is the removal of the window beside the stair case.
+Note, the only key difference between the two diagrams in the table above is the removal of the window beside the staircase.
 
 |Design principles|
 |:---|
@@ -66,7 +67,7 @@ Table LL-L2: The design principles that should be influencing the solution's loc
 
 ### Steps
 1. Refurbish rumpus room in line with the rest of the house
-2. Rebuild stair case in line with multi-level stair case
+2. Rebuild staircase in line with multi-level staircase
 
 ### Considerations
 1. LLL-REQ9 & LLL-REQ10
@@ -77,9 +78,9 @@ Table LL-L2: The design principles that should be influencing the solution's loc
 
 ## Photos
 
-![bulky stair case](./photos/IMG_20201016_140114247.jpg)
+![bulky staircase](./photos/IMG_20201016_140114247.jpg)
 
-Photo: LLL-photo-1 - bulky stair case
+Photo: LLL-photo-1 - bulky staircase
 
 
 ![large windowesliding doors](./photos/IMG_20201016_135612093.jpg)
@@ -87,9 +88,9 @@ Photo: LLL-photo-1 - bulky stair case
 Photo: LLL-photo-2 - large windowesliding doors
 
 
-![outside deck stair case](../landscape/photos/IMG_20201016_135642087.jpg)
+![outside deck staircase](../landscape/photos/IMG_20201016_135642087.jpg)
 
-Photo: LLL-photo-3 - outside deck stair case
+Photo: LLL-photo-3 - outside deck staircase
 
 
 ## References

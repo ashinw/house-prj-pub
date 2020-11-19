@@ -1,8 +1,9 @@
-# Section A - Main bathroom [Resource]
+# Section A - Laundry
 
 ## Context
 
-Section A remains as the main bathroom on the lower level.
+Section A will become the laundry located in the north west corner in the house where the main bathroom is currently located. The [main bathroom](./section-D-requirements.md) will be moved to section D.
+
 
 ![TO-BE lower-level diagram](Lower-Level-TO-BE-sections.svg)
 
@@ -17,60 +18,76 @@ There is/are currently:
 
 ## Problem
 
-1. Refer to [laundry related problems](./section-H-requirements.md#Problem) that are captured in section H
-2. Visitors would need to navigate to the far end of the house to go to the bathroom
+1. Refer to [laundry related problems](./section-F-requirements.md#Problem) that are captured in section F
+2. Visitors would need to walk to the far end of the house to go to the bathroom
 3. Both upper & lower level residents require an area for washing and hanging clothes with convenient access to the clothes line
-4. Brett has advised that it is cost prohibitive to move the laundry into this location due to all the plumbing work (particularly the toilet). It is significantly cheaper to keep the bathroom here and move the [laundry to section D](./section-D-requirements.md) using a slopped deck for outside access.
+4. Brett has advised that it is cost prohibitive to move the laundry into this location due to all the plumbing work (particularly the toilet). He believes that it is significantly cheaper to keep the bathroom here and move the [laundry to section D](./section-D-requirements.md) using a slopped deck for outside access. 
+    * Note, this solution too is problematic with all the external plumbing would be covered by the deck and would need to be removed should problems arise.
+    * I have discussed Brett's plumbing concerns with Tim who believes that there will be no significant cost related to moving the plumbing
 
 
-## Symmetric Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLA-REQ1|The bathroom shall have an LED downlight|||
-|LLA-REQ2|The bathroom shall have a sink with ceramic washer taps|||
-|LLA-REQ3|The bathroom shall have a toilet|||
-|LLA-REQ4|The bathroom shall have a cabinet|||
-|LLA-REQ5|The bathroom shall have heat lamps|||
-|LLA-REQ6|The bathroom shall have a shower with ceramic washer taps|||
-|LLA-REQ7|The bathroom shall have a mirror|||
-|LLA-REQ8|The bathroom shall have a bathtub with ceramic washer taps|||
-|LLA-REQ9|The bathroom shall have an exhaust fan|||
-|~~LLA-REQ10~~|~~The bathroom shall be connected to the ducted heating~~|||
-|LLA-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLA-REQ12|The bathroom window shall be able to be opened for ventilation|||
-|LLA-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
-|LLA-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLA-REQ15|The bathroom's floor shall be tiled|||
-|LLA-REQ16|The bathroom shall have power outlets appropriately positioned|||
-|LLA-REQ17|The same appliance/fixtures shall have been installed in similar positions as the other main bathroom [note, there are slight difference in size]|||
-
-
-
+|LLA-REQ1|The laundry shall have an LED downlight|||
+|LLA-REQ2|The laundry shall have a laundry sink with ceramic washer taps|||
+|LLA-REQ3|The laundry shall have a cleaning products cabinet with an overhead cabinet|||
+|LLA-REQ4**|The laundry shall be connected to the ducted heating|||
+|LLA-REQ5|The laundry shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLA-REQ6|The laundry window shall be able to be opened for ventilation|||
+|LLA-REQ7|The laundry window shall have a fly screen to keep the insects out|||
+|LLA-REQ8|The laundry shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLA-REQ9|The laundry's floor shall be tiled|||
+|LLA-REQ10|The laundry shall have hot & cold water outlets for the washer|||
+|LLA-REQ11|The laundry shall have power outlets appropriately positioned for washer, dryer, iron|||
+|LLA-REQ12|The laundry shall have a linen cabinet that maximises space and storage space for iron board|||
+|LLA-REQ13|The laundry shall have a sliding door access to clothes line outside|||
+|LLA-REQ14|The laundry shall have a downlight to the outside area|||
+|LLA-REQ15|In winter, the laundry shall be able to bottle heat in the enclosed space to dry clothes on a drying rack|||
+|LLA-REQ16|The laundry shall be refurbished to as new condition|||
 
 
 ## Solution
 
 |Actual|Expected|
 |:---:|:---:|
-|![AS-IS lower-level section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level section A diagram](Lower-Level-TO-BE-section-A.svg)|
+|![AS-IS lower-level Section A diagram](Lower-Level-AS-IS-section-A.svg)|![TO-BE lower-level Section A diagram](Lower-Level-TO-BE-section-A.svg)|
 
 Table LL-A1: Floor plan comparison
 
 |Design principles|
 |:---|
-|Embrace value for money first, but select premium if just 20% more than standard pricing|
-|Fixtures and furnishings value function over form|
-|No maintenance over low/some maintenance|
-|Rooms/resources that are used together should be adjacent to one another|
 |Reduce overall transit as the basis of location|
 |Embrace natural lighting and reduce demand on heating/cooling systems|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
 
 Table LL-A2: The design principles that should be influencing the solution's location/choices/decisions
 
 ### Steps
 
-1. Refurbish bathroom in line with upper level and rest of house
+1. Partition the room into two to provide:
+    1. The laundry 
+    2. The multi-level staircase
+2. Relocate the laundry in section A 
+
+
+## Known issues
+
+|ID|Description|
+|:---|:---|
+|LLA-ISS-1|Outside tap will need to be re-located as it is installed on the north wall brickwork and will be affected by LLA-REQ13|
+
+## Photos
+
+![north west external wall](./photos/IMG_20201119_155417538.jpg)
+
+Photo: LSA-photo-1 - north west external wall
+
+![north west external plumbing](./photos/IMG_20201119_155454515.jpg)
+
+Photo: LSA-photo-2 - north west external plumbing
 
 
 ## References

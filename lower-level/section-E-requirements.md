@@ -28,7 +28,7 @@ There is/are currently:
 7. The curtains are broken and cumbersome to operate
 
 
-## Symmetric Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
@@ -41,14 +41,8 @@ There is/are currently:
 |LLE-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
 |LLE-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
 |LLE-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
-
-
-## Refurbishing Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
 |LLE-REQ10|The room shall be refurbished to as new condition|||
-|LLE-REQ11|The active NBN HFC/Coaxial wall port & NBN modem shall be relocated to [central storage on stair case platform](./section-D-requirements.md)|||
+|LLE-REQ11|The active NBN HFC/Coaxial wall port & NBN modem shall be relocated to [central storage on staircase platform](./section-D-requirements.md)|||
 |LLE-REQ12|The cat5 port bracket and cables to [lounge room](./section-K-requirements.md) shall be removed|||
 |LLE-REQ13|The UHF TV port bracket and splitter to port shall be removed. Thus improving signal strength to other ports located in the house|||
 |LLE-REQ14|The room's external window blind shall be removed|||

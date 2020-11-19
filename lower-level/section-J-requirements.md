@@ -10,11 +10,11 @@ Figure LL2: Expected layout
 
 There is/are currently:
 * Two LED downlights installed operating from a dimmer transformer
-* Small wall air-conditioner installed on the upper right corner of the west wall
+* A small wall air-conditioner installed on the upper right corner of the west wall. Note, this is the only air cooling system in the house
 * A sliding door to the kitchen 
-* A stair case down to the rumpus room
+* A staircase down to the rumpus room
 * An outside hatch door for under house access on the south-west corner
-* A ducted heating vent near the south wall beside the stair case to the rumpus room
+* A ducted heating vent near the south wall beside the staircase to the rumpus room
 * The potential to place a window on the west facing wall to invite a lot more heat & light
 
 
@@ -23,7 +23,7 @@ There is/are currently:
 1. The wall air-conditioner is old, highly inefficient and only capable of cooling a small area. When turned on the generated cool air moves its way down to the rumpus room 
 2. There is a 2x2m water stain on the carpet near the north sliding door entrance to the kitchen
 3. The ceiling plaster board is damaged by the leaky roof fascia board/gable end vent directly above the room
-4. There is no natural lighting and the downlights shall be turned on even in daylight
+4. There is no natural lighting and the downlights need to be turned on even in daylight
 5. The south east window onlooking the verandah extension cavity is pointless
 6. The north most facing downlight frequently experiences flicker despite having change the globe
 
@@ -33,12 +33,12 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLJ-REQ1|The pantry shall be tiled|||
-|LLJ-REQ2|The pantry shall have power outlets appropriately positioned near each corner|||
+|LLJ-REQ2|The pantry shall have power outlets appropriately positioned near each corner of the central shelf|||
 |LLJ-REQ3|The pantry shall have multi-level open shelves only (ie. no cabinets)|||
 |LLJ-REQ4|The pantry shall have timber batton screening concealing its open shelves|||
-|LLJ-REQ5|The leaky roof fascia board/gable end vent above rumpus room stair case shall be repaired|||
+|LLJ-REQ5|The leaky roof fascia board/gable end vent above rumpus room staircase shall be repaired|||
 |LLJ-REQ6|The kitchen shall replace the wall air conditioner unit with a window|||
-
+|LLJ-REQ7|The ducted heating vent shall be re-allocated to a bedroom on the upper level|||
 
 ## Solution
 
@@ -63,7 +63,7 @@ Table LL-J2: The design principles that should be influencing the solution's loc
 1. Remove ducted heating vent
 2. Extended floor for pantry by reducing [staircase to rumpus room](./section-L-requirements.md)
 3. Remove staircase banister
-4. Mount shelved to batton timber screen 
+4. Mount shelves to batton timber screen 
 5. Remove air conditioner
 
 ## Known issues
@@ -92,12 +92,12 @@ Photo: LLJ-photo-3 - rumpus room staircase
 
 ![extension cavity](./photos/IMG_20201016_135552426.jpg)
 
-Photo: LLJ-photo-2 - extension cavity between dining room, lounge room and rumpus room
+Photo: LLJ-photo-4 - extension cavity between dining room, lounge room and rumpus room
 
 
 ![outside under house entry](./photos/IMG_20201016_124526904.jpg)
 
-Photo: LLJ-photo-3 - outside under house entry
+Photo: LLJ-photo-5 - outside under house entry beneath dining room
 
 
 ## References

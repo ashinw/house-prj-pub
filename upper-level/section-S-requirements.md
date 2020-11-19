@@ -1,10 +1,8 @@
-# Section S - Dining
+# Section S - Master bedroom
 
 ## Context
 
-Section S will be the dining room located beside the multi-level stair case on the upper level.
-
-Note that west facing windows if installed can invite a lot of heat & light.
+Section S will be the master bedroom on the upper level.
 
 ![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
@@ -17,22 +15,23 @@ Figure UL-S1: Expected floor plan
 
 ## Problem
 
-1. An autonomous area is required for split residents to dine separately
+1. Longevity and resale value will be impacted if there was no master bedroom
 
 
 ## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLS-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
-|LLS-REQ2|The dining room shall have an appropriate number of LED downlights|||
-|LLS-REQ3|The dining room shall have the same tiled flooring as the hall|||
-|LLS-REQ4**|The dining room shall be connected to the ducted heating|||
-|LLS-REQ5|The dining room shall have an appropriately sized double glazed window|||
-|LLS-REQ6|The dining room window shall be able to be opened for ventilation|||
-|LLS-REQ7|The dining room window shall have a fly screen to keep the insects out|||
-|LLS-REQ8|The dining room shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLS-REQ9|The same appliance/fixtures shall have been installed in similar positions as the other dining room|||
+|~~LLS-REQ1~~|~~The bedroom shall have an efficient/effective wardrobe that maximises space~~|||
+|LLS-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
+|LLS-REQ3|The bedroom shall have a UHF TV port socket installed and connected to the external aerial|||
+|LLS-REQ4|The bedroom shall be carpeted|||
+|LLS-REQ5|The bedroom shall have an appropriately sized double glazed window|||
+|LLS-REQ6**|The bedroom shall have a ducted heating vent|||
+|LLS-REQ7|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLS-REQ8|The bedroom shall have power outlets appropriately positioned on the north east, north west and south east sides|||
+|LLS-REQ9**|The bedroom shall have a centrally installed ceiling fan|||
+|LLS-REQ10|The same appliance/fixtures shall have been installed in the same positions as the other master bedroom|||
 
 
 ## Solution
@@ -40,25 +39,25 @@ Figure UL-S1: Expected floor plan
 |Design principles|
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|
-|Embrace natural lighting and reduce demand on heating/cooling systems|
-|Reduce overall transit as the basis of location|
-|Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 |No maintenance over low/some maintenance|
+|Reduce overall transit as the basis of location|
 |Rooms/resources that are used together should be adjacent to one another|
+|Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 
 Table UL-S2: The design principles that should be influencing the solution's location/choices/decisions
 
 ### Steps
-
-1. Build new dining room in Section S
+1. Build new master bedroom in Section S
 
 ### Considerations
 
-1. LLS-REQ4
+1. LLS-REQ6 & LLS-REQ9
     - Subject to the decision on centralised heating & cooling option selected
 
 
 ## References
-
-1. Bunnings
-    - https://www.bunnings.com.au/senso-urban-914-x-152-x-2mm-2-20m-whitetech-self-adhesive-vinyl-planks-16-pack_p6600075
+1. Ikea
+    - https://www.ikea.com/au/en/p/elvarli-5-sections-white-bamboo-s79302896/
+    - https://www.ikea.com/au/en/p/nissedal-mirror-white-10320322/
+2. Carpet Tiles 1
+    - https://www.carpettiles1.com.au/carpet-tiles/product-details/matin-dark-tan-brown--model:cpt-393

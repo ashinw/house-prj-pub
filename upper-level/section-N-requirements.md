@@ -1,8 +1,8 @@
-# Section N - Ensuite for the master bedroom
+# Section N - Shared bathroom
 
 ## Context
 
-Section N will be the master bedroom's ensuite on the upper level.
+Section N will be the main bathroom on the upper level.
 
 ![TO-BE upper-level diagram](Upper-Level-TO-BE-sections.svg)
 
@@ -10,12 +10,12 @@ Figure UL1: Expected layout
 
 ![TO-BE upper-level Section N diagram](Upper-Level-TO-BE-section-N.svg)
 
-Figure UL-N1: Expected floor plan
+Figure UL-N1: Expected floor plan 
 
 
 ## Problem
 
-1. Longevity and resale value will be impacted if the master bedroom lacks an ensuite
+1. A bathroom with toilet & shower is required for the two guests rooms & visitors
 
 ## Requirements
 
@@ -23,46 +23,48 @@ Figure UL-N1: Expected floor plan
 |:---|:---|:---|:---|
 |LLN-REQ1|The bathroom shall have an LED downlight|||
 |LLN-REQ2|The bathroom shall have a sink with ceramic washer taps|||
-|LLN-REQ3|The bathroom shall have a toilet|||
+|LLN-REQ3|The bathroom shall have an independent cubical toilet|||
 |LLN-REQ4|The bathroom shall have a cabinet|||
 |LLN-REQ5|The bathroom shall have heat lamps|||
 |LLN-REQ6|The bathroom shall have a shower with ceramic washer taps|||
 |LLN-REQ7|The bathroom shall have a mirror|||
-|LLN-REQ8|The bathroom shall have an exhaust fan|||
-|LLN-REQ9**|The bathroom shall be connected to the ducted heating|||
-|LLN-REQ10|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
-|LLN-REQ11|The bathroom window shall be able to be opened for ventilation|||
-|LLN-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
-|LLN-REQ13**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
-|LLN-REQ14|The bathroom's floor shall be tiled|||
-|LLN-REQ15|The bathroom shall have power outlets appropriately positioned|||
-|LLN-REQ16|The same appliance/fixtures shall have been installed in the same positions as the other ensuite|||
+|~~LLN-REQ8~~|~~The bathroom shall have a bathtub with ceramic washer taps~~|||
+|LLN-REQ9|The bathroom shall have an exhaust fan|||
+|LLN-REQ10**|The bathroom shall be connected to the ducted heating|||
+|LLN-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
+|LLN-REQ12|The bathroom window shall be able to be opened for ventilation|||
+|LLN-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
+|LLN-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLN-REQ15|The bathroom's floor shall be tiled|||
+|LLN-REQ16|The bathroom shall have power outlets appropriately positioned|||
+|LLN-REQ17|The same appliance/fixtures shall have been installed as the other main bathroom except for bathtub|||
 
 
 ## Solution
 
 |Design principles|
 |:---|
-|Embrace value for money first, but select premium if just 20% more than standard pricing|
-|No maintenance over low/some maintenance|
-|Rooms/resources that are used together should be adjacent to one another|
 |Rooms/resources that are frequented in terms of time spent/people should attract more space/investment than others|
 |Reduce overall transit as the basis of location|
+|Embrace value for money first, but select premium if just 20% more than standard pricing|
+|No maintenance over low/some maintenance|
 
 Table UL-N2: The design principles that should be influencing the solution's location/choices/decisions
 
 ### Steps
-1. Build new ensuite in Section N
+
+1. Build new main bathroom in section N
 
 ### Considerations
 
-1. LLN-REQ9 & LLN-REQ13
-    - Subject to the decision on centralised heating & cooling option selected  
+1. LLN-REQ10 & LLN-REQ14
+    - Subject to the decision on centralised heating & cooling option selected
 
 
 ## References
 
 1. Bunnings
+    - https://www.bunnings.com.au/caroma-luna-shelf-wall-basin-with-no-tap-hole_p0184852
     - https://www.bunnings.com.au/estilo-90-x-90-x-190cm-white-acrylic-shower-wall_p4890678
     - https://www.bunnings.com.au/mondella-rococo-shower-screen-chrome_p0036480
     - https://www.bunnings.com.au/mondella-wels-3-star-9l-min-rococo-1-function-rail-shower_p5003327

@@ -24,7 +24,7 @@ There is/are currently:
 6. Longevity and resale value will be impacted if there are less than three rooms
 
 
-## Symmetric Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
@@ -37,12 +37,6 @@ There is/are currently:
 |LLG-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
 |LLG-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||
 |LLG-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
-
-
-## Refurbishing Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
 |LLG-REQ10|The room shall be refurbished to as new condition|||
 |LLG-REQ11|The rooms external window blind shall be removed||
 |LLG-REQ12|The downlight dimmer transformer shall be replaced with a standard transformer|||

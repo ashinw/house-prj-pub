@@ -1,4 +1,4 @@
-# Section I - Entry [Shared Resource]
+# Section I - Entry
 
 ## Context
 
@@ -36,11 +36,11 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLI-REQ1|All hallways shall use a durable tile based flooring|||
-|LLI-REQ2|The entrance shall have a larger front door to handle better removal of larger items (eg. large fridge)|||
+|LLI-REQ2|The entrance shall have a larger front door to better accommodate removal of large items (eg. large fridge)|||
 |LLI-REQ3|The entrance shall have an open plan design (refer to [issue LLI-ISS-1](#Known-Issues))|||
-|LLI-REQ4**|There shall be a central location to re-locate the Breamar controller that is currently installed on the wall of cloak closet [perhaps on the platform on the central multi-level stair case]|||
+|LLI-REQ4**|There shall be a central location to re-locate the Breamar controller that is currently installed on the wall of cloak closet [perhaps on the platform on the central multi-level staircase]|||
 |LLI-REQ5|The electricity box shall be improved with better load management switches|||
-|LLI-REQ6|The hallway sky-light and the fluorescent light shall be replaced with appropriately positioned downlights|||
+|LLI-REQ6|The hallway sky-light and the fluorescent light shall be removed and replaced with appropriately positioned downlights|||
 |LLI-REQ7|The entrance and hallways shall be refurbished to as new condition|||
 
 ** - Optional requirement which may prove unnecessary given the situation

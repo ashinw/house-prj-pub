@@ -29,7 +29,7 @@ There is/are currently:
 7. The curtains are heavy and cumbersome to operate
 
 
-## Symmetric Requirements
+## Requirements
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
@@ -43,12 +43,6 @@ There is/are currently:
 |LLC-REQ8|The bedroom shall have power outlets appropriately positioned on the north east, north west and south east sides|||
 |LLC-REQ9**|The bedroom shall have a centrally installed ceiling fan|||
 |LLC-REQ10|The same appliance/fixtures shall have been installed in the same positions as the other master bedroom|||
-
-
-## Refurbishing Requirements
-
-|ID|Description|Est. Cost|Alternative Solution Cost|
-|:---|:---|:---|:---|
 |LLC-REQ11|The master bedroom shall be refurbished to as new condition|||
 |LLC-REQ12|The master bedroom's external window blind shall be removed|||
 

@@ -10,11 +10,7 @@ In the diagrams in the tables below, "Actual" view represents the current house'
 
 Table LL1: Layout comparison
 
-Table LL1 outlines the two views side by side highlighting that all of the structural changes to walls are mostly on the west side of the house (refer to sections between: D, F, H, I,  J & K). 
-
-I have deliberately tried to reduce the number of structural changes in order to reduce the overrall costs.
-
-Note, that a stair case has also been modeled to ensure that Tim/Andre's quote accounts for this structural change too.
+Table LL1 outlines the two views side by side highlighting that all of the structural changes to walls are mostly on the west side of the house (refer to sections between: A, D, F, H, I, J & K). 
 
 Use the following diagrams in Table LL2 (see below) to get an overall visualisation of the floor plan in sections outlined.
 
@@ -28,7 +24,7 @@ Using the above diagrams as a guide, visit each link in the Lower-Level Section 
 
 |Section Group|Was|Will be|
 |:---|:---|:---|
-|[Section A](./section-A-requirements.md)|Main Bathroom|Main Bathroom|
+|[Section A](./section-A-requirements.md)|Main Bathroom|Laundry|
 |[Section B](./section-B-requirements.md)|Ensuite|Ensuite|
 |[Section C](./section-C-requirements.md)|Master bedroom|Master bedroom|
 |[Section D](./section-D-requirements.md)|3rd bedroom|Bathroom & multi-level stairs|
@@ -42,18 +38,3 @@ Using the above diagrams as a guide, visit each link in the Lower-Level Section 
 |[Section L](./section-L-requirements.md)|Rumpus room|Rumpus room|
 
 Table LL3: Lower-Level Section Requirements Mapping table
-
-## Alternatives
-
-### 2. Toilet under staircase
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE alt 2 diagram](Lower-Level-TO-BE-floor-plan-alt-toil.svg)|
-
-
-### 3. Bathroom under staircase
-
-|Actual|Expected|
-|:---:|:---:|
-|![AS-IS lower-level diagram](Lower-Level-AS-IS-floor-plan.svg)|![TO-BE alt 3 diagram](Lower-Level-TO-BE-floor-plan-alt-br.svg)|

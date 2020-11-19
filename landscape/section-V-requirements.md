@@ -12,7 +12,7 @@ There is/are currently:
 * A driveway
 * A garden bed by the footpath
 * A garden bed in front of the verandah and front of the house
-* A footpath leading to the front stair case and steps 
+* A footpath leading from the brick letter box to the front staircase and steps 
 
 
 ## Problem
@@ -57,7 +57,8 @@ Landscape the east frontyard to accomodate vehicle parking
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LSV-REQ1|A carport shall enable vehicles to park directly in front of the house|||
+|LSV-REQ1|The brick letter box shall be replaced with a smaller light weight lettered box that will be placed beside the fence|||
+|LSV-REQ2|A carport shall enable vehicles to park directly in front of the house|||
 
 
 ## Photos
