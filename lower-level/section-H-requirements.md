@@ -34,9 +34,9 @@ There is/are currently:
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|LLH-REQ1**|The kitchen shall be made larger to accommodate more cooks working in collaboration|||
+|LLH-REQ1|The kitchen shall be made larger to accommodate more cooks working in collaboration|||
 |LLH-REQ2|The kitchen windows shall be double glazed and appropriately sized for optimal light and temperature control|||
-|LLH-REQ3**|The kitchen windows shall have night/day blinds for improved temperature control and privacy|||
+|LLH-REQ3**|The kitchen windows shall have night/day blinds for improved temperature control and privacy. (not required if window is used as a narrow splash back)|||
 |LLH-REQ4|The kitchen shall have a long work bench with distributed space to avoid people getting in each anothers way|||
 |LLH-REQ5|The kitchen shall have a large island workstation|||
 |LLH-REQ6|The kitchen shall have new stove, rangehood & oven appliances|||
@@ -51,6 +51,8 @@ There is/are currently:
 |LLH-REQ15|The kitchen shall have power outlets appropriately positioned near each corner|||
 |LLH-REQ17|The kitchen shall be tiled|||
 |LLH-REQ18|The fridge will have an water inlet for the ice dispenser|||
+
+** - Optional requirement which may prove unnecessary given the situation
 
 
 ## Solution

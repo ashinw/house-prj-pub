@@ -22,7 +22,6 @@ Figure UL-S1: Expected floor plan
 
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
-|~~LLS-REQ1~~|~~The bedroom shall have an efficient/effective wardrobe that maximises space~~|||
 |LLS-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLS-REQ3|The bedroom shall have a UHF TV port socket installed and connected to the external aerial|||
 |LLS-REQ4|The bedroom shall be carpeted|||

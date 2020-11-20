@@ -48,7 +48,7 @@ There is/are currently:
 |LLD-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLD-REQ12|The bathroom window shall be able to be opened for ventilation|||
 |LLD-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
-|LLD-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLD-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block. (dependent on the effectiveness of the double glazzed windows)|||
 |LLD-REQ15|The bathroom's floor shall be tiled|||
 |LLD-REQ16|The bathroom shall have power outlets appropriately positioned|||
 |LLD-REQ17|The same appliance/fixtures shall have been installed in the shared bathroom on the upper-level|||
@@ -59,10 +59,9 @@ There is/are currently:
 |ID|Description|Est. Cost|Alternative Solution Cost|
 |:---|:---|:---|:---|
 |LLD-REQ18|The staircase shall have a high raised platform providing walk in access to storage shelves|||
-|LLD-REQ20**|The ducted heating vent shall be relocated to an upper-level bedroom|||
+|LLD-REQ20|The ducted heating vent shall be relocated to an upper-level bedroom|||
 |LLD-REQ21|The staircase and hall flooring shall be replaced and consistent across all wet areas|||
 |LLD-REQ22|The staircase shall not be bulky|||
-|~~LLD-REQ23~~|~~The staircase's central platform shall host a shared storage cabinet~~|||
 |LLD-REQ24|The staircase's area shall have a powerpoint outlet near by the platform|||
 |LLD-REQ25|The staircase's area shall host the NBN HFC Coaxial port and bracket, NBN modem and WIFI by the platform|||
 |LLD-REQ26|The staircase area shall have a double glazed window and frame above the cabinet for the top level only|||
@@ -106,12 +105,16 @@ Table LL-D2: The design principles that should be influencing the solution's loc
 
 1. LLD-REQ20
     - Subject to the decision on centralised heating & cooling option selected
+2. Building Code Ceiling Heights
+    - in a bathroom, shower room, laundry, sanitary compartment, pantry, storeroom, garage, car parking area etc - 2.1m and
+    - in an attic, room with a sloping ceiling or projection below ceiling line or non-habitable room or similar - a height that does not unduly interfere with the proper functioning of the room or space. More than 50% of the ceiling space should be on average a minimum height.
 
 ## Known issues
 
 |ID|Description|
 |:---|:---|
 |LLD-ISS-1|A large portion of the original large bedroom's window will need to be filled with rendered cladded foam. This will probably look very jarring from the outside|
+|LLD-ISS-2|There are min height requirements that must be satisfied for a room with a slopping ceiling|
 
 
 ## Photos
@@ -166,3 +169,6 @@ Photo: LSD-photo-4 - north west external plumbing
     - https://burdensbathrooms.com.au/collections/bathroom-accessories/products/aspire-zodiac-guest-towel-holder-chrome
     - https://burdensbathrooms.com.au/collections/baths-spa-s/products/oceano-urban-inset-bath-1525-x-800-x-470-white-anti-slip
     - https://burdensbathrooms.com.au/collections/bath-tapware-outlets/products/aspire-zodiac-ii-chrome-bath-set-tp1475
+
+3. Building Code Ceiling Heights
+    - https://www.abis.com.au/habitable-room-and-legal-ceiling-heights#:~:text=Building%20Code%20Ceiling%20Heights&text=in%20a%20habitable%20room%20excluding,area%20etc%20%2D%202.1m%20and

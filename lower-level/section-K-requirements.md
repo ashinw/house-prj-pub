@@ -37,7 +37,7 @@ There is/are currently:
 |LLK-REQ1|The dining room shall have an appropriate number of power outlets installed on the east wall|||
 |LLK-REQ2|The dining room shall have an appropriate number of LED downlights|||
 |LLK-REQ3|The dining room shall have consistent non-carpeted flooring as with the entrance, main hall and rumpus room passage to staircase|||
-|LLK-REQ4**|The dining room shall be connected to the ducted heating|||
+|LLK-REQ4**|The dining room shall be connected to the ducted heating. (already connected in section K, just replace vent)|||
 |LLK-REQ5|The dining room shall have an appropriately sized double glazed window|||
 |LLK-REQ6|The dining room window shall be able to be opened for ventilation|||
 |LLK-REQ7|The dining room window shall have a fly screen to keep the insects out|||

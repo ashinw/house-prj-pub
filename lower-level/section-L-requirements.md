@@ -40,7 +40,7 @@ There is/are currently:
 |LLL-REQ6|The rumpus room windows shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLL-REQ7|The rumpus room's sliding door windows shall be replaced with double glazzing product for exising frames|||
 |LLL-REQ9**|The rumpus room shall have a ceiling fan|||
-|LLL-REQ10**|The rumpus room's existing ducted heating vents shall be replaced|||
+|LLL-REQ10**|The rumpus room's south most ducted heating vent shall be replaced|||
 |LLL-REQ11**|The rumpus room's north window facing window shall be covered with some solution to improve temperature management|||
 |LLL-REQ12|The rumpus room shall be refurbished to as new condition|||
 |LLL-REQ13|The ducted heating vent against the east most wall shall be re-allocated to a bedroom on the upper level|||

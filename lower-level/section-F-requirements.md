@@ -37,7 +37,7 @@ There is/are currently:
 |LLF-REQ1|The lounge room shall have an appropriate number of power outlets installed and UHF TV connection and a cat5 connection to the staircase storage|||
 |LLF-REQ2|The lounge room shall have an appropriate number of LED downlights|||
 |LLF-REQ3|The lounge room shall be carpeted|||
-|LLF-REQ4**|The lounge room shall be connected to the ducted heating|||
+|LLF-REQ4**|The lounge room shall be connected to the ducted heating. (already connected, just replace vent)|||
 |LLF-REQ5|The lounge room shall have an appropriately sized double glazed windows|||
 |LLF-REQ6|The lounge room windows shall be able to be opened for ventilation|||
 |LLF-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||

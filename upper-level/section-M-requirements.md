@@ -33,6 +33,7 @@ Figure UL-M1: Expected floor plan
 |LLM-REQ9|The same appliance/fixtures shall have been installed in the same positions as the other 1st & 2nd bedrooms for both levels|||
 |LLM-REQ10|Re-use one of the re-allocated ducted heating outlets from the lower-level|||
 
+
 ## Solution
 
 |Design principles|

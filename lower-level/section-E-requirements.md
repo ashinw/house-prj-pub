@@ -36,7 +36,7 @@ There is/are currently:
 |LLE-REQ2|The bedroom shall have an appropriate number of LED downlights appropriately positioned|||
 |LLE-REQ3|The bedroom shall be carpeted|||
 |LLE-REQ4|The bedroom shall have an appropriately sized double glazed window|||
-|LLE-REQ5**|The bedroom shall have a ducted heating vent|||
+|LLE-REQ5**|The bedroom shall have a ducted heating vent. (already connected in section E, just replace vent)|||
 |LLE-REQ6|The bedroom shall have a fitted night/day internal roller blind with sun/heat block|||
 |LLE-REQ7**|The bedroom shall have a centrally installed ceiling fan|||
 |LLE-REQ8|The bedroom shall have power outlets appropriately positioned near each corner|||

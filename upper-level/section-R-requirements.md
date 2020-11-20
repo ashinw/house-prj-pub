@@ -29,11 +29,10 @@ Figure UL-R1: Expected floor plan
 |LLR-REQ6|The bathroom shall have a shower with ceramic washer taps|||
 |LLR-REQ7|The bathroom shall have a mirror|||
 |LLR-REQ8|The bathroom shall have an exhaust fan|||
-|~~LLR-REQ9~~|~~The bathroom shall be connected to the ducted heating~~|||
 |LLR-REQ10|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLR-REQ11|The bathroom window shall be able to be opened for ventilation|||
 |LLR-REQ12|The bathroom window shall have a fly screen to keep the insects out|||
-|LLR-REQ13**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLR-REQ13**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block. (Brett/Tim to advise)|||
 |LLR-REQ14|The bathroom's floor shall be tiled|||
 |LLR-REQ15|The bathroom shall have power outlets appropriately positioned|||
 

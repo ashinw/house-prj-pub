@@ -28,13 +28,12 @@ Figure UL-N1: Expected floor plan
 |LLN-REQ5|The bathroom shall have heat lamps|||
 |LLN-REQ6|The bathroom shall have a shower with ceramic washer taps|||
 |LLN-REQ7|The bathroom shall have a mirror|||
-|~~LLN-REQ8~~|~~The bathroom shall have a bathtub with ceramic washer taps~~|||
 |LLN-REQ9|The bathroom shall have an exhaust fan|||
 |LLN-REQ10**|The bathroom shall be connected to the ducted heating|||
 |LLN-REQ11|The bathroom shall have an appropriately sized double glazed window to embrace natural lighting and reduce demand on heating/cooling|||
 |LLN-REQ12|The bathroom window shall be able to be opened for ventilation|||
 |LLN-REQ13|The bathroom window shall have a fly screen to keep the insects out|||
-|LLN-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLN-REQ14**|The bathroom shall have a fitted night/day internal roller blind with sun/heat block. (not required if window is north facing)|||
 |LLN-REQ15|The bathroom's floor shall be tiled|||
 |LLN-REQ16|The bathroom shall have power outlets appropriately positioned|||
 |LLN-REQ17|The same appliance/fixtures shall have been installed as the other main bathroom except for bathtub|||

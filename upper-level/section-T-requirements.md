@@ -27,7 +27,6 @@ Figure UL-T1: Expected floor plan
 |LLT-REQ1|The WIR shall be partitioned into 2 sections, one for each room occupant|||
 |LLT-REQ2|The WIR shall have an appropriate number of LED downlights|||
 |LLT-REQ3|The WIR shall have carpet flooring|||
-|LLT-REQ4**|The dining room shall be connected to the ducted heating|||
 |LLT-REQ5|The WIR shall have an appropriately sized and positioned double glazed window|||
 |LLT-REQ6|The WIR window shall be able to be opened for ventilation|||
 |LLT-REQ7|The WIR window shall have a fly screen to keep the insects out|||

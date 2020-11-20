@@ -25,7 +25,6 @@ Figure UL-Q1: Expected floor plan
 |LLQ-REQ1|The lounge room shall have an appropriate number of power outlets installed near each corner|||
 |LLQ-REQ2|The lounge room shall have an appropriate number of LED downlights|||
 |LLQ-REQ3|The lounge room shall be carpeted|||
-|~~LLQ-REQ4~~|~~The lounge room shall be connected to the ducted heating~~|||
 |LLQ-REQ5|The lounge room shall have an appropriately sized double glazed windows|||
 |LLQ-REQ6|The lounge room windows shall be able to be opened for ventilation|||
 |LLQ-REQ7|The lounge room windows shall have a fly screen to keep the insects out|||
