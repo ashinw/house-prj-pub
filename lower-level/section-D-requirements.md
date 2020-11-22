@@ -52,7 +52,7 @@ There is/are currently:
 |LLD-REQ15|The bathroom's floor shall be tiled|||
 |LLD-REQ16|The bathroom shall have power outlets appropriately positioned|||
 |LLD-REQ17|The same appliance/fixtures shall have been installed in the shared bathroom on the upper-level|||
-
+|LLD-REQ30|All bathroom entry doors shall be able to be secured with a lock|||
 
 ## Staircase Requirements
 

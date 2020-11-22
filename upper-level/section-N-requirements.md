@@ -37,6 +37,7 @@ Figure UL-N1: Expected floor plan
 |LLN-REQ15|The bathroom's floor shall be tiled|||
 |LLN-REQ16|The bathroom shall have power outlets appropriately positioned|||
 |LLN-REQ17|The same appliance/fixtures shall have been installed as the other main bathroom except for bathtub|||
+|LLN-REQ30|All bathroom entry doors shall be able to be secured with a lock |||
 
 
 ## Solution
