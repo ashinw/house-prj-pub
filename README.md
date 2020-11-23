@@ -12,12 +12,11 @@ My dad, sister, wife, my kids and I will assess the priority of those requiremen
 
 Please note:
 * All diagrams and models in this repository have been modeled by me! They have been modeled to get us all on the same page and understand the scope of this project. These models will serve as a source of input for the deliverables that Brett produces. Hence, they are a starting point of which I suspect you all will see glaring home improvements to make through your direct experiences.
-* All measurements in the "Actual" views were recorded in cm and represent my best efforts. I recommend using these measurements as a guide **ONLY** and use Brett's measurements as authoratative when he comes here. NOte, I have since aligned by models with Brett's conceptual model which was created using the electronic measurements.
+* All measurements in the "Actual" views were recorded in cm and represent my best efforts. I recommend using these measurements as a guide **ONLY** and use Brett's measurements as authoratative when he comes here. Note, I have since aligned by models with Brett's conceptual model which weres created using an electronic measurement device.
 * All position of building fixtures are to scale in the "Actual" view and estimated to be to scale in the "Expected" model 
 * I have attempted to model all aspects because of the inherent inter-relationship of the features (eg. in order to quote on the lower-level renovation, there are assumptions on where the staircase is going to be to get to the upper-level and the removal of walls to accomodate it)
 * Where possible I have also identified known issues below the requirements to draw your attention to a concern that may affect the design and/or cost estimation.
 * On several requirements sections I have documented questions which affect decisions. I would appreciate your responses to these questions.
-* In order for Tim/Andre to provide an accurate quote on the entire project scope, Tim indicated that he needs engineering specfications. In order to get the engineering specifications Brett needs to have submitted his building plans/working drawings to the engaged Structural Engineer. Therefore, in order for my family to finalise our prioritised build scope based on costings, we will likely need a process that round-trips with the Structural Engineer most likely two times. Brett, believes that Tim/Andre will be able to provide a solid quote without the need for the engineering specification because there will be sufficient specifications documented in his deliverables. Tim please clarify with Brett.
 * My family have tasked me with finding a way to make every cent sunk into this project yield its greatest value. Please let me know if there are things that you recommend that I do in order to reduce your workload such that I can reduce our overrall costs during scope finalisation and build.
 * It's important to realise that this project is financed through different funding stakeholders in my family. I have documented all the requirements indicating that the stakeholders may extend the budget to $250K if the value proposition is there.
 * I would really appreciate you collaborating with me and each other on how things can be done better and cheaper!
@@ -86,7 +85,3 @@ Table 2: Lower & upper levels side-by-side
 
 
 Please, visit the above links to understand the complete set of requirements.
-
-Tim/Andre, could you please use these links to price the components that do not require structural engineering input.
-
-Brett, could you please use these links as part of the input for your build working drawings.
