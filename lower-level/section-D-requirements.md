@@ -78,11 +78,6 @@ There is/are currently:
 Table LL-D1: Floor plan comparison
 
 
-![Lower-Level-TO-BE-section-D-side-view diagram](Lower-Level-TO-BE-section-D-side-view.svg)
-
-Figure LL-D2: Staircase sideview 
-
-
 |Design principles|
 |:---|
 |Embrace value for money first, but select premium if just 20% more than standard pricing|

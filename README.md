@@ -1,11 +1,5 @@
 # Camellia Ct - Project Requirements Specification
 
-This repository has been setup to collaborate with Brett (Architect) and Tim/Andre (Builders). I have chosen you guys specifically because I believe that you guys are the best team to help me achieve the **greatest bang for buck**, even if that means abandoning the project and buying a new house. 
-* Brett 
-  * I believe Brett knows his shit and is capable of making some significant architectural/design choices that can significantly reduce the costs of build and on-going operation costs (eg. heating/cooling) 
-* Tim/Andre
-  * I have been engaging Tim/Andre throughout this process because I'm confident that they will deliver me a build that is atleast 15+% cheaper for the same materials and quality of workmanship than any other builder. 
-
 In this respository you will find the full set of customer requirements for this project. These requirements will be found in the individually linked pages. Each requirement has been organised into the following categories:
 1. Lower-level [LL]
 2. Upper-level [UL]
