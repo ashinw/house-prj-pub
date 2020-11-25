@@ -44,6 +44,7 @@ All requirements have been mapped to features that are located in sections. This
 |:---|:---|:---|:---|:---|
 |Master bedroom|same|[Section C](./lower-level/section-C-requirements.md)|[Section S](./upper-level/section-S-requirements.md)||
 |Master bedroom ensuite|same|[Section B](./lower-level/section-B-requirements.md)|[Section R](./upper-level/section-R-requirements.md)||
+|Master Walk through wardrobe|unique||[Section T](./upper-level/section-T-requirements.md)||
 |1st bedroom|same|[Section G](./lower-level/section-G-requirements.md)|[Section M](./upper-level/section-M-requirements.md)||
 |2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section O](./upper-level/section-O-requirements.md)||
 |Main bathroom|similar size|[Section D](./lower-level/section-D-requirements.md)|[Section N](./upper-level/section-N-requirements.md)||
