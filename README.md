@@ -42,12 +42,12 @@ All requirements have been mapped to features that are located in sections. This
 
 |Feature|Inter-level properties|Lower Level|Upper Level|Outer|
 |:---|:---|:---|:---|:---|
-|Master bedroom|same|[Section C](./lower-level/section-C-requirements.md)|[Section S](./upper-level/section-S-requirements.md)||
-|Master bedroom ensuite|same|[Section B](./lower-level/section-B-requirements.md)|[Section R](./upper-level/section-R-requirements.md)||
-|Master Walk through wardrobe|unique||[Section T](./upper-level/section-T-requirements.md)||
-|1st bedroom|same|[Section G](./lower-level/section-G-requirements.md)|[Section M](./upper-level/section-M-requirements.md)||
-|2nd bedroom|same|[Section E](./lower-level/section-E-requirements.md)|[Section O](./upper-level/section-O-requirements.md)||
-|Main bathroom|similar size|[Section D](./lower-level/section-D-requirements.md)|[Section N](./upper-level/section-N-requirements.md)||
+|Master bedroom|same if incl lower-level wardrobe|[Section C](./lower-level/section-C-requirements.md)|[Section S](./upper-level/section-S-requirements.md)||
+|Master bedroom ensuite|upper-level larger|[Section B](./lower-level/section-B-requirements.md)|[Section R](./upper-level/section-R-requirements.md)||
+|Master Walk through wardrobe|upper-level only||[Section T](./upper-level/section-T-requirements.md)||
+|1st bedroom|upper-level larger|[Section G](./lower-level/section-G-requirements.md)|[Section M](./upper-level/section-M-requirements.md)||
+|2nd bedroom|upper-level larger|[Section E](./lower-level/section-E-requirements.md)|[Section O](./upper-level/section-O-requirements.md)||
+|Main bathroom|similar, lower-level incl bathtub|[Section D](./lower-level/section-D-requirements.md)|[Section N](./upper-level/section-N-requirements.md)||
 |Kitchen|shared|[Section H](./lower-level/section-H-requirements.md)|||
 |Pantry|shared|[Section J](./lower-level/section-J-requirements.md)|||
 |Lounge|similar size, similar position|[Section F](./lower-level/section-F-requirements.md)|[Section Q](./upper-level/section-Q-requirements.md)||
@@ -70,7 +70,7 @@ The requirements have been organised into the following main categories:
 1. [Lower-Level requirements](./lower-level/Lower-Level-requirements.md)
 2. [Upper-Level requirements](./upper-level/Upper-Level-requirements.md)
 3. [Landscape requirements](./landscape/Landscape-requirements.md)
-
+4. [Outer building requirements](./outer-building/Outer-building-requirements.md)
 
 <table>
   <tr>
