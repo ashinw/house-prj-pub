@@ -35,6 +35,7 @@ Figure UL-P1: Expected floor plan
 |LLP-REQ6|The study window shall be able to be opened for ventilation|||
 |LLP-REQ7|The study window shall have a fly screen to keep the insects out|||
 |LLP-REQ8|The study shall have a fitted night/day internal roller blind with sun/heat block|||
+|LLP-REQ9|The study shall be able to fit a standard sized trestle table 760x1830|||
 
 
 ## Solution

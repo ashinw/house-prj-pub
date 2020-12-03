@@ -4,7 +4,7 @@ In this respository you will find the full set of customer requirements for this
 1. Lower-level [LL]
 2. Upper-level [UL]
 3. Landscaping [LS]
-4. Outer-building [OB] **NOT MODELED YET**
+4. Outer-building [OB]
 
 Each category will be further classified and uniquely identified as a particular feature (eg. LLK refers to the requirements associated with lower-level dining room section). Each requirement will be documented as both an ID and a description in a table and should be costed individually if possible. Your costings will enable us to prioritise which features will form part of the final scope. All of these requirements are aspects of the property that need attention. Ideally, we can achieve them all within a big budget but if not we need to assess which ones to drop. 
 
