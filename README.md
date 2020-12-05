@@ -84,5 +84,22 @@ The requirements have been organised into the following main categories:
 Table 2: Lower & upper levels side-by-side 
 
 
+![TO-BE landscape diagram](./landscape/Landscape-TO-BE.svg)
+Table 3: Siting of building within property with landscaping 
+
+
+
+![east-facing-west diagram](./outer-building/east-facing-west.jpg)
+
+![west-facing-east diagram](./outer-building/west-facing-east.jpg)
+
+![south-facing-north diagram](./outer-building/north-facing-south.jpg)
+
+![south-facing-north diagram](./outer-building/south-facing-north.jpg)
+
+![top-facing-down diagram](./outer-building/top-facing-down.jpg)
+
+Table 4: Elevations (3D model) 
+
 
 Please, visit the above links to understand the complete set of requirements.
